@@ -1,0 +1,7 @@
+.DS_Store
+*.pyc
+echonest_api_key.py
+OHHLA-for-echonest.txt.gz
+backup.db
+spotifycache.db
+dtm_release
