@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Paper Machines</title>
+<link href="css/bootstrap.min.css" rel="stylesheet">
+<link href="css/ember-table.css" rel="stylesheet">
+<style type="text/css">
+  body {
+    padding-top: 60px;
+  }
+  #topics_list {
+    color: lightgray;
+    height: 250px ! important;
+    overflow: scroll;
+  }
+  #topics_graph {
+  }
+
+  .topiclink, .topiclink:hover {
+    color: inherit;
+  }
+
+  .node {
+  stroke: #fff;
+  stroke-width: 1.5px;
+}
+
+.link {
+  stroke: #999;
+  stroke-opacity: .6;
+}
+
+  .showScroll.lion::-webkit-scrollbar {
+    -webkit-appearance: none;
+    width: 7px;
+  }
+
+  .showScroll.lion::-webkit-scrollbar-thumb {
+      border-radius: 4px;
+      background-color: rgba(0,0,0,.5);
+      -webkit-box-shadow: 0 0 1px rgba(255,255,255,.5);
+  }
+
+  .caret {
+    margin-top: 8px;
+  }
+  .caret.up {
+    border-top: 0;
+    border-bottom: 4px solid #000000;
+    content: "";
+  }
+  .axis {
+    shape-rendering: crispEdges;
+    pointer-events: none;
+    font: 10px sans-serif;
+  }
+
+  .x.axis line, .y.axis line {
+    stroke: #fff;
+    stroke-width:1;
+    opacity: 0.4;
+  }
+
+  .x.axis path, .y.axis path {
+    display: none;
+  }
+  .x.axis .minor {
+    stroke-width: 1;
+    stroke-opacity: 0.2;
+  }
+  .tiny {
+    font-size: x-small;
+  }
+</style>
+</head>
+<body>
+
+  <script type="text/x-handlebars" data-template-name="application">
+    <div class="navbar navbar-fixed-top">
+      <div class="navbar-inner">
+        <div class="container-fluid">
+          <a class="brand" href="#">{{ App.collectionName }}</a>
+          {{ view App.NavbarItemsView }}
+        </div>
+      </div>
+    </div>
+
+    <div class="container-fluid">
+      {{outlet}}
+    </div>
+  </script>
+
+  <script type="text/x-handlebars" data-template-name="document">
+    <div class="row-fluid">
+      <div class="span12">
+        <h2>{{itemLink title itemID}}</h2>
+        <p>{{date date}}</p>
+      </div>
+    </div>    
+    <div class="row-fluid">
+      <div class="span6">
+      {{view App.DocTopicsView }}
+      </div>
+      <div class="span6">
+      {{view Ember.D3.WordCloudView contentBinding="topWords" colorBinding="colors" height=600}}
+      </div>
+    </div>
+  </script>
+
+  <script type="text/x-handlebars" data-template-name="documents">
+    <!-- <h2>Documents</h2> -->
+    <div class="row-fluid">
+      <div class="span12">
+        <table class="table table-condensed">
+          <thead>
+            <tr>
+              {{partial "sortTypes"}}
+            </tr>
+          </thead>
+          <tbody>
+            {{#each controller}}
+            <tr>
+              <td>{{date date}}</td>
+              <td>{{localItemLink title itemURL}}</td>
+              <td>{{author}}</td>
+              <td>{{type}}</td>
+            </tr>
+            {{/each}}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </script>
+
+  <script type="text/x-handlebars" data-template-name="_sortTypes">
+    <th>Date
+      {{#if sort.isAscending }}
+        <span class="caret up"></span>
+      {{else}}
+        <span class="caret"></span>
+      {{/if}}
+    </th>
+    <th {{action sortBy "title"}}>Title</th>
+    <th {{action sortBy "author"}}>Author</th>
+    <th {{action sortBy "type"}}>Type</th>
+  </script>
+
+  <script type="text/x-handlebars" data-template-name="topic">
+    <div class="row-fluid">
+      <div class="span12">
+        <h1>{{ label }}</h1>
+      </div>
+    </div>  
+    <div class="row-fluid">
+      <div class="span4">
+        {{ view Ember.D3.WordCloudView contentBinding="topWords" color="#d62728"}}
+
+        {{ partial "relatedTopics"}}
+      </div>
+      <div class="span8 presentation-container">
+        {{!--  {{ view App.DocumentsForTopicView }}
+                {{ render "documents" documentsForTopic }} --}}
+
+        {{view Ember.Table.TablesContainer controllerBinding="App.documentsTable"}}
+      </div>
+    </div>
+  </script>
+
+  <script type="text/x-handlebars" data-template-name="topicSummary">
+    <div class="row-fluid">
+      <div class="span12">
+        {{ view BC.RangeInput max="1" step="0.01" valueBinding="controller.threshold"}}
+      </div>     
+      <div class="span12">        
+        {{ view Ember.D3.NetworkView contentBinding="controller.content"}}
+      </div>
+    </div>  
+  </script>
+
+
+  <script type="text/x-handlebars" data-template-name="_relatedTopics">
+    <h3>Related Topics</h3>
+    <ul>
+      {{#each relatedTopic in relatedTopics }}
+      <li>{{#linkTo "topic" relatedTopic }} {{relatedTopic.label}} {{/linkTo}} {{topicCorrelation controller.content relatedTopic}}</li>
+      {{/each}}
+    </ul>
+  </script>
+
+  <script type="text/x-handlebars" data-template-name="topics">
+    <div id="topics_list" class="showScroll">
+      <ul>
+      {{#each topic in controller }}
+        <li {{bindAttr style=topic.style}} 
+            {{action toggle topic}}>
+          <span class="tiny" {{bindAttr title=topic.prevalencePercent}}>{{topic.label}}</span>
+        </li>
+      {{/each}}
+      </ul>
+    </div>
+    <div id="topic_wordcloud">
+    {{view Ember.ContainerView currentViewBinding="App.cloud"}}
+    </div>
+  </script>
+
+  <script type="text/x-handlebars" data-template-name="topicGraph">
+    <div class="row-fluid">
+      <div class="span12">
+
+        <div class="btn-group">
+          {{!-- {{view Ember.Select
+            contentBinding="graphTypes"
+            optionValuePath="content.id"
+            optionLabelPath="content.label"
+            valueBinding="graphType"            
+          }} --}}
+          <a class="btn dropdown-toggle" data-toggle="dropdown" href="#">
+            Graph Type
+              <span class="caret"></span>
+            </a>
+            <ul class="dropdown-menu">
+              <li>{{#linkTo topicGraph.stacked topics.selected}}Stacked Area{{/linkTo}}</li>
+              <li>{{#linkTo topicGraph.stream topics.selected}}Streamgraph{{/linkTo}}</li>
+              <li>{{#linkTo topicGraph.line topics.selected}}Line Graph{{/linkTo}}</li>
+            </ul>
+          {{#linkTo "index" classNames=[btn]}}Reset{{/linkTo}}
+          <button class="btn">Save</button>
+        </div>
+
+        {{view Ember.TextField valueBinding="App.searchQuery"}}
+
+      </div>
+    </div>
+
+    <br/>
+
+    <div class="row-fluid">
+      <div class="span2">
+        <div id="topic_selector">
+          <div class="btn-group">
+            <a class="btn dropdown-toggle" data-toggle="dropdown" href="#">
+              Sort Topics
+              <span class="caret"></span>
+            </a>
+            <ul class="dropdown-menu">
+              <li><a href="#" {{action sort "prevalence"}}>Most prevalent</a></li>
+              <li><a href="#" {{action sort "stdDev"}}>Most variable</a></li>
+            </ul>
+          </div>
+        </div>
+        {{ render "topics" }}
+      </div>
+      <div class="span10">
+{{!--        {{view Ember.ContainerView currentViewBinding="App.docCountView"}} --}}
+        <div id="topics_graph">
+          {{outlet}}
+        </div>
+      </div>
+    </div>
+
+    <div class="row-fluid">
+      <div class="span12 presentation-container">
+      {{view Ember.Table.TablesContainer controllerBinding="App.documentsTable"}}
+      </div>
+    </div>
+  </script>
+
+  <script src="js/libs/jquery-1.9.1.js"></script>
+  <script src="js/libs/jquery-ui.min.js"></script>
+  <script src="js/libs/jquery.mousewheel.js"></script>
+  <script src="js/libs/handlebars-1.0.0-rc.4.js"></script>
+  <script src="js/libs/ember-1.0.0-rc.5.js"></script>
+  <script src="js/libs/ember-table.js"></script>
+  <script src="js/libs/crossfilter.js"></script>
+  <script src="js/libs/bootstrap.min.js"></script>
+  <script src="js/libs/ember-crossfilter.js"></script>
+  <script src="js/libs/d3.min.js"></script>
+  <script src="js/libs/d3.layout.cloud.js"></script>
+  <script src="js/libs/canvg-1.3/rgbcolor.js"></script>
+  <script src="js/libs/canvg-1.3/StackBlur.js"></script>
+  <script src="js/libs/canvg-1.3/canvg.js"></script>
+  <script src="js/mask_cloud.js"></script>
+  <script src="js/app.js"></script>
+  <script src="js/models.js"></script>
+  <script src="js/ohhla_lda.js"></script>
+  <script src="js/data.js"></script>
+  <script src="js/controllers.js"></script>
+  <script src="js/views.js"></script>
+  <script src="js/router.js"></script>
+  <script src="js/ember-d3.js"></script>
+  <script src="js/wordcloud.js"></script>
+  <script src="js/topicgraph.js"></script>
+  <script src="js/network.js"></script>
+  <script type="text/javascript">
+  // http://simurai.com/post/8083942390/force-lion-scrollbar
+  if (navigator.appVersion.indexOf("10_7") != -1) {
+    jQuery('.showScroll').addClass('lion');
+  }
+  </script>
+</body>
+</html>
