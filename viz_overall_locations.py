@@ -27,12 +27,12 @@ for (place_id, coords) in place_id_to_coords.iteritems():
     coords['counts'] = dict(places[place_id])
     data.append(coords)
 
-# with file("allsongs.csv", 'w') as f:
-#     writer = csv.writer(f) #lon, lat, count
-#     for coords in data:
-#         writer.writerow([unicode(x) for x in [coords['lon'], coords['lat'], coords['count']]])
-heatmap_filename = os.path.join('viz', 'heatmap', 'heatmap_data.js')
-with file(heatmap_filename, 'w') as f:
-    f.write('var data=')
-    f.write(json.dumps(data))
-    f.write(';')
+with file("all_places.csv", 'w') as f:
+    writer = csv.writer(f) #lon, lat, count
+    for coords in data:
+        writer.writerow([unicode(x) for x in [coords['lon'], coords['lat'], sum(coords['counts'].values())]])
+# heatmap_filename = os.path.join('viz', 'heatmap', 'heatmap_data.js')
+# with file(heatmap_filename, 'w') as f:
+#     f.write('var data=')
+#     f.write(json.dumps(data))
+#     f.write(';')
