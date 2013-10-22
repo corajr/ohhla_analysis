@@ -85,7 +85,7 @@ density_map <- function (name) {
     kde2dRange[3] <- kde2dRange[3] -3.0
     kde2dRange[4] <- kde2dRange[4] +3.0
 
-    dens <- getKde(pts,N=500,Lims=kde2dRange) 
+    dens <- getKde(pts,N=1000,Lims=kde2dRange) 
     
     minZ <- (sapply(dens,min)[c('z')])
     maxZ <- (sapply(dens,max)[c('z')])
@@ -101,7 +101,8 @@ density_map <- function (name) {
 
        #emap
        ggsave(paste(name, "_density.pdf", sep=''), height=4, width=5)
-    
+       ggsave(paste(name, "_density.png", sep=''), height=4, width=5)
+
 }
 
 density_map("all_places")
