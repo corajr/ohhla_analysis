@@ -25,10 +25,6 @@ PROGRESS_FILE = os.path.join(MALLET_OUT_DIR, 'progress.txt')
 METADATA_FILE = os.path.join(MALLET_OUT_DIR, 'metadata.json')
 
 metadata = {}
-<<<<<<< HEAD
-=======
-TOPICS = 50
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 MALLET = ['/Users/chrisjr/Applications/mallet-2.0.7/bin/mallet', 'run']
 
 if not os.path.exists(MALLET_OUT_DIR):
