@@ -116,7 +116,7 @@ density_map <- function (datapts, name) {
        ####
 
        #grid.draw(legend) 
-       ggsave("bar.png", arrangeGrob(legend),height=2,width=1.2)
+       ggsave("bar.pdf", arrangeGrob(legend),height=2,width=1.2)
        emap2 <- emap + theme(legend.position = "none")
        outputname <- paste(name, "_density.pdf", sep='')
        ggsave(outputname, height=4, width=5)
