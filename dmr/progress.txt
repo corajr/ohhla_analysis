@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 2s <0> 
 2s 1s 1s 1s 1s 1s 1s 1s 1s 1s <10> 
 1s 1s 1s 1s 1s 1s 1s 1s 1s 1s <20> 
@@ -611,3 +612,618 @@
 3s <1000> 
 
 Total time: 20 minutes 6 seconds
+=======
+632ms <0> 
+422ms 343ms 344ms 317ms 296ms 276ms 257ms 275ms 287ms 311ms <10> 
+320ms 283ms 251ms 268ms 216ms 194ms 199ms 183ms 193ms 187ms <20> 
+186ms 182ms 184ms 199ms 205ms 204ms 205ms 197ms 174ms 179ms <30> 
+181ms 176ms 178ms 175ms 179ms 177ms 176ms 181ms 176ms 176ms <40> 
+171ms 169ms 170ms 171ms 173ms 170ms 173ms 172ms 175ms 174ms <50> 
+178ms 163ms 168ms 168ms 174ms 176ms 170ms 166ms 167ms 167ms <60> 
+170ms 168ms 168ms 165ms 171ms 167ms 168ms 166ms 168ms 166ms <70> 
+167ms 168ms 166ms 170ms 168ms 165ms 186ms 167ms 166ms 164ms <80> 
+185ms 209ms 175ms 170ms 166ms 186ms 208ms 182ms 233ms 248ms <90> 
+216ms 192ms 177ms 223ms 217ms 197ms 196ms 175ms 202ms 
+0	1	7237	don won stop ain make give miss work train 
+1	1	7715	life world live chorus death care eyes mind feel 
+2	1	13518	niggaz nigga pac thug fuck motherfuckin motherfuckers bitches bitch 
+3	1	9294	shit fuck don ain give bitches fuckin play damn 
+4	1	6424	back ll shoot pick won bring forever spittin pieces 
+5	1	7713	wanna dick pussy chorus tonight bring hoes suck stick 
+6	1	7407	baby body make don give mon move work rock 
+7	1	6253	soul nice serch step wicked pete rhythm bass white 
+8	1	6948	make music town find matter hard front easy dogg 
+9	1	6213	word listen breath truth aint start born cross speak 
+10	1	6046	city kill wide child thousand chorus deep stunt white 
+11	1	7248	ain chorus don nothin stop ll save til shot 
+12	1	7352	hate make love didn good repeat break feel wait 
+13	1	9487	bitch nigga money cent yeah gangsta chorus ll call 
+14	1	7477	party drink tash house drunk niggaz make liks west 
+15	1	6840	gotta back night make crazy give streets round head 
+16	1	6880	days home things pain back america mary brain wasn 
+17	1	6163	fire record level cats tracks beats high dark half 
+18	1	7176	living chorus remember lost eyes free hear broken wake 
+19	1	6193	prince ya flow lead teeth inside word tongue aiyo 
+20	1	4896	break track soldier hang space blaze cuts step dead 
+21	1	6179	show true knew started beautiful control told outta turn 
+22	1	6627	hook ready till ain make game wanna stop ma 
+23	1	7747	rappers spit flow sound type half lyrical flows handle 
+24	1	7387	love girl back wanna chorus girls ll woman short 
+25	1	7493	rock aesop hustle brick sick blue balance cold hard 
+26	1	8120	game hood block lord cold dope sayin gon homie 
+27	1	6532	knock apathy build picture ll kids brain life sample 
+28	1	7127	roll high club ride holla good chorus ma shorty 
+29	1	7107	slug good smile work alright great door light today 
+30	1	6932	ain chorus talk straight bout bang shit watch dough 
+31	1	6655	gonna ll don fight change heart start white friend 
+32	1	6493	verse brother fresh alive live marquis boys ll dollar 
+33	1	6779	ll head back beat leave hear close call bone 
+34	1	7096	time ll play shake part freak line mine thing 
+35	1	7151	ve people find hard hope understand time wrong dreams 
+36	1	6698	face place made stand slow jesus heart christ found 
+37	1	6339	hold rain aceyalone tight coming fall hand ll world 
+38	1	7559	time made tryin years streets sleep deep runnin game 
+39	1	6649	left blood dead open soldiers king hand weak live 
+40	1	6337	niggas back guns make leave bust east punch bars 
+41	1	7504	time peace long mind people thing make song feel 
+42	1	7357	back check crew bring comin flip bust dope peep 
+43	1	7041	real ghetto stay street livin thugs chorus hood call 
+44	1	7269	yeah chorus verse don akrobatik rapper real bout listen 
+45	1	9252	ain gettin motherfucker tryin home don house chorus throw 
+46	1	8071	style rock rhyme mc rhymes lyrics mouth boom microphone 
+47	1	6375	hands land write made year clock walls glass called 
+48	1	8543	black shit young nigga kill fuckin dead cops ain 
+49	1	6513	money walk chill questions street reason mother milk master 
+1s <100> 
+177ms 179ms 205ms 173ms 180ms 241ms 236ms 193ms 180ms 179ms <110> 
+177ms 184ms 171ms 172ms 176ms 177ms 175ms 179ms 175ms 175ms <120> 
+183ms 173ms 180ms 173ms 184ms 177ms 175ms 176ms 182ms 176ms <130> 
+173ms 174ms 177ms 178ms 175ms 182ms 184ms 172ms 173ms 181ms <140> 
+183ms 178ms 178ms 177ms 183ms 176ms 180ms 176ms 174ms 186ms <150> 
+178ms 178ms 185ms 174ms 173ms 182ms 177ms 177ms 176ms 171ms <160> 
+172ms 173ms 179ms 177ms 179ms 173ms 171ms 180ms 178ms 173ms <170> 
+185ms 169ms 171ms 172ms 177ms 173ms 181ms 173ms 174ms 177ms <180> 
+197ms 186ms 181ms 171ms 175ms 173ms 179ms 188ms 170ms 176ms <190> 
+173ms 173ms 173ms 176ms 170ms 174ms 173ms 172ms 175ms 
+0	0.71772	6991	don stop won ain make ll miss work head 
+1	0.68928	8403	life world chorus live lord death eyes feel care 
+2	0.94411	14804	niggaz nigga pac thug fuck motherfuckers fuckin motherfuckin bitches 
+3	0.98775	10795	fuck shit don fuckin nigga give ain bitches damn 
+4	0.65607	5855	back pick shoot won leave titled split forever motherfucker 
+5	0.81968	7326	bitch dick pussy tonight hoes bring suck wanna booty 
+6	0.70721	7724	baby body make don girl give true mon yeah 
+7	0.95884	5510	nice serch step pete wicked rhythm bass rich white 
+8	0.84463	7628	call music turn town make feel matter left sound 
+9	0.75263	5708	truth word listen born breath speak start problem path 
+10	0.62784	5367	city kill thousand wide high inside side chainz honor 
+11	0.89247	7454	ain don nothin chorus mama ll shot stop takin 
+12	0.76032	8218	love hate don make didn repeat break long good 
+13	0.67869	9149	nigga bitch cent chorus gangsta yeah don ll money 
+14	0.92791	6815	party drink tash niggaz drunk liks make west house 
+15	0.72219	7389	gotta make wanna night crazy watch give head round 
+16	0.7264	6395	soul back days home america pain mary things blame 
+17	0.71304	5439	fire level metal record born green annalillia dark half 
+18	0.78107	7708	chorus living eyes hell lost broken remember ground watch 
+19	0.58383	5249	prince aiyo ya killa word lead tongue lips inside 
+20	0.71976	3003	break soldier space walkin blaze hang boogie john swel 
+21	0.64651	5477	true knew beautiful outta control show dirty heard started 
+22	0.93086	6408	hook ready make till ain game verse ma stop 
+23	0.91164	8259	rappers spit flow sound beat body show step flows 
+24	0.74265	7275	love wanna girl back chorus girls woman short things 
+25	0.56388	6966	rock aesop brick walk balance fuck blue sleep cold 
+26	1.02882	9697	back verse hard cold game hood hustle bout block 
+27	0.62108	5763	apathy ll knock picture kids live brain stop bodies 
+28	0.68935	7077	roll chorus ride club holla shorty gon paper pull 
+29	0.74042	7930	slug full hold good alright door catch line smile 
+30	0.6415	6797	chorus ain high real shit talk straight bang dogg 
+31	0.78918	6580	gonna ain don fight ll heart change white start 
+32	1.12119	6253	verse brother fresh alive ll good marquis live boys 
+33	0.79817	7139	ll head back beat hear leave throw fast brain 
+34	1.02087	7303	time ll play show shake back part number freak 
+35	0.86066	7421	ve time find hope hard understand verse guess mind 
+36	0.72191	6702	face made place jesus slow christ save blood story 
+37	0.61886	5657	hold coming aceyalone rain open people world fall akon 
+38	0.84027	8047	game made pain streets sleep time fame friends years 
+39	0.62852	5980	left dead blood king hand natural priest wrote killah 
+40	0.71955	5381	niggas make east shoot punch mutha clap coast slow 
+41	0.95677	7721	people time mind peace thing stand give things long 
+42	1.2922	7722	back check crew bring bust comin flip crack dope 
+43	0.99588	7026	ghetto stay real street chorus life thugs rich livin 
+44	0.67616	7224	yeah verse chorus shit akrobatik intro don outro bout 
+45	1.02322	11612	gettin ain chorus tryin motherfucker don shit comin home 
+46	1.2461	7986	rock style rhyme rhymes mc lyrics shit microphone wack 
+47	0.63895	6245	hands earth light land year walls clock human rise 
+48	1.07124	8823	black young real kill dead shit guns streets cops 
+49	0.82909	6011	money chill questions care street brooklyn reason milk clothes 
+813ms <200> 
+173ms 175ms 183ms 173ms 174ms 175ms 184ms 171ms 173ms 178ms <210> 
+176ms 177ms 173ms 174ms 180ms 182ms 176ms 174ms 177ms 190ms <220> 
+179ms 176ms 175ms 178ms 176ms 175ms 184ms 174ms 186ms 182ms <230> 
+177ms 187ms 177ms 180ms 173ms 178ms 182ms 173ms 176ms 179ms <240> 
+174ms 183ms 179ms 191ms 179ms 178ms 182ms 173ms 175ms 176ms <250> 
+181ms 172ms 173ms 175ms 181ms 185ms 172ms 173ms 182ms 174ms <260> 
+173ms 181ms 179ms 171ms 174ms 177ms 176ms 177ms 174ms 180ms <270> 
+177ms 179ms 187ms 174ms 173ms 181ms 171ms 176ms 180ms 170ms <280> 
+178ms 174ms 178ms 173ms 174ms 179ms 176ms 175ms 176ms 182ms <290> 
+176ms 173ms 178ms 172ms 176ms 177ms 177ms 172ms 175ms 
+0	0.59412	6846	don stop ain won train miss work gold ll 
+1	0.63787	8896	life world live chorus lord death feel care lost 
+2	0.78612	15264	niggaz nigga pac thug fuck shit motherfucker motherfuckers bitch 
+3	0.92653	11515	shit fuck don ain give fuckin bitches nigga damn 
+4	0.47808	5419	back pick forever rebel dirty pieces motherfucker life won 
+5	0.66582	7057	bitch dick pussy hoes suck booty tonight bring lick 
+6	0.60274	8130	baby body make don yeah girl give rock shake 
+7	0.76806	4819	nice serch pete wicked mouth step rhythm bass rich 
+8	0.74861	7675	call music town turn won sound find round leave 
+9	0.63239	5842	truth word listen speak earth youth start flesh born 
+10	0.46187	4970	city kill sick chainz honor deep thousand high inside 
+11	0.7887	7639	ain nothin don mama stop smoke game crazy makin 
+12	0.73806	8692	love don make hate chorus good long didn repeat 
+13	0.49607	8431	nigga cent bitch chorus gangsta yeah ll don money 
+14	0.68639	6465	party drink tash niggaz drunk make liks west swift 
+15	0.65305	7652	gotta make wanna move give night watch straight work 
+16	0.59389	5381	home days back america mary brain skin working karma 
+17	0.48845	5276	fire metal annalillia born style level dark hole kings 
+18	0.65565	8049	break chorus living eyes life coming broken lost hell 
+19	0.37898	4286	prince aiyo killa ya word intro tongue teeth rhyme 
+20	0.40492	1941	hang cowboy swel space bleep ballad unique blaze jise 
+21	0.52408	4864	soul beautiful true knew outta control show dirty full 
+22	0.79719	6183	hook ready ain till talking make watch fucking game 
+23	0.85566	9049	rappers spit flow rock sound lyrical flows blow beat 
+24	0.6331	6689	girl wanna love back chorus girls woman short lonely 
+25	0.39027	6322	rock aesop brick walk water fuck clean wall blue 
+26	0.93489	10073	back verse hard hood game hustle cold crack block 
+27	0.47846	5018	apathy knock kids picture make celph titled bodies brain 
+28	0.52228	7031	club ride chorus roll holla shorty gon good pull 
+29	0.60959	7833	slug full head door smile hold alright catch sleep 
+30	0.50694	6392	ain high chorus real fast dogg shoot shit straight 
+31	0.69131	6942	gonna ain ll fight don heart free change afraid 
+32	1.01329	6090	verse brother fresh ll alive marquis good boys live 
+33	0.75843	7391	ll back head beat leave throw spot hear brain 
+34	0.88231	7690	time play show ll wanna ma part back mine 
+35	0.75641	8372	ve verse time give understand hope hard things find 
+36	0.62883	6104	face made place slow jesus save christ story found 
+37	0.48906	5305	hold aceyalone rain world akon tight people open feel 
+38	0.81535	8517	game made time strong friends deep streets fame sleep 
+39	0.46744	5647	left king hand blood dead priest weak live part 
+40	0.52409	4839	niggas nigga spit till punch mutha hate west coast 
+41	0.82005	8203	people mind thing stand peace time find long nation 
+42	1.21512	8233	check back crew bring comin bust flip quick black 
+43	0.86984	7456	ghetto stay life chorus street real streets rich thugs 
+44	0.52547	6854	yeah shit verse chorus akrobatik don real intro outro 
+45	1.09075	14322	gettin ain chorus tryin don goin lookin runnin comin 
+46	1.12041	8050	style rhyme shit rhymes mc lyrics make wack rock 
+47	0.55309	5875	hands land write year earth past walls glass light 
+48	0.97234	9697	black real young kill ll guns murder shot dead 
+49	0.65768	6126	money chorus care clothes chill cash questions reason nice 
+794ms <300> 
+177ms 178ms 184ms 176ms 178ms 177ms 180ms 175ms 174ms 181ms <310> 
+174ms 175ms 178ms 181ms 176ms 180ms 183ms 173ms 177ms 178ms <320> 
+181ms 175ms 176ms 181ms 173ms 180ms 184ms 173ms 176ms 186ms <330> 
+175ms 177ms 176ms 188ms 174ms 181ms 192ms 177ms 177ms 180ms <340> 
+176ms 187ms 177ms 179ms 176ms 178ms 180ms 179ms 178ms 181ms <350> 
+177ms 179ms 175ms 177ms 178ms 185ms 172ms 174ms 178ms 215ms <360> 
+218ms 193ms 184ms 175ms 188ms 174ms 175ms 176ms 179ms 173ms <370> 
+175ms 176ms 184ms 176ms 175ms 186ms 172ms 175ms 178ms 185ms <380> 
+176ms 180ms 186ms 180ms 195ms 187ms 175ms 181ms 176ms 250ms <390> 
+170ms 170ms 171ms 173ms 182ms 178ms 177ms 178ms 183ms 
+0	0.49966	6054	don stop ain won ll rhyme work train style 
+1	0.57418	9329	life world live lord chorus death lost feel hell 
+2	0.67389	15381	nigga niggaz pac thug shit motherfuckers fuck motherfucker bitches 
+3	0.92672	11473	shit fuck don ain give fuckin play nigga damn 
+4	0.37764	4972	back pick left split won forever rebel pieces fire 
+5	0.57848	6631	bitch dick pussy hoes bitches suck booty bring verse 
+6	0.52685	8873	baby make don body yeah girl give shake mon 
+7	0.61505	4012	nice serch pete rich rhythm mouth step bass hole 
+8	0.75715	8262	make turn feel music sound thought town call step 
+9	0.58119	5953	truth word breath earth speak listen born god youth 
+10	0.35609	4561	city kill chainz hand wide built television return side 
+11	0.71567	7979	ain don nothin mama game smoke stop shot til 
+12	0.72291	9487	love back don chorus hate good make long remember 
+13	0.34001	8021	nigga cent niggaz gangsta chorus bitch yeah ll don 
+14	0.58868	5835	party drink tash niggaz drunk liks swift house west 
+15	0.63137	8499	gotta wanna make move yeah give work hang straight 
+16	0.50141	4801	home america days mary sick ve back brain pain 
+17	0.38054	4562	fire annalillia thousand record high level gangster blaze metal 
+18	0.6146	8048	break chorus living life eyes coming lost hell broken 
+19	0.25579	3640	prince aiyo ya killa word rhyme trapped teeth inside 
+20	0.11983	1514	swel bleep cowboy ballad jise como todos crooklyn boogie 
+21	0.40546	4653	soul beautiful knew outta control true show full greatest 
+22	0.68693	5893	hook ain ready make till talking stop fucking game 
+23	0.85275	9936	rappers spit rock flow sound body verse type heat 
+24	0.4867	6640	girl love wanna call chorus girls woman short lonely 
+25	0.27149	6038	rock aesop brick walk sleep cold dream blue wall 
+26	0.90136	10871	back verse hood hard hustle cold crack game dope 
+27	0.37679	4237	apathy knock make kids ll celph titled picture akir 
+28	0.43969	6735	club chorus roll holla ride shorty green weed shine 
+29	0.52465	8472	slug full smile door catch head home wait alright 
+30	0.39437	6251	high ain chorus dogg fast shit real nigga snoop 
+31	0.65145	6817	gonna don ain fight ll heart afraid free scared 
+32	0.92527	5461	verse brother fresh ll alive marquis live boys good 
+33	0.6684	7366	ll back head beat leave close throw spot bigger 
+34	0.73561	7965	time ll play show back part mine number stay 
+35	0.70102	9241	ve time ll find verse give things hope hard 
+36	0.56452	5983	face place made jesus christ blood story save heart 
+37	0.37067	4547	hold aceyalone rain akon chorus fall open tight hand 
+38	0.82558	9221	game made street strong streets sleep fame deep kids 
+39	0.3685	5502	live left power born dead priest sword killah king 
+40	0.39978	4356	niggas nigga fuck mutha punch till hate skeet spike 
+41	0.73282	8335	people mind peace thing stand time music find hear 
+42	1.25638	9267	back check crew bring comin live pass repeat quick 
+43	0.846	7006	ghetto life stay chorus streets livin real good dead 
+44	0.39039	6157	yeah chorus akrobatik verse shit real don bout intro 
+45	1.08717	16989	ain chorus gettin don tryin time goin home make 
+46	1.09591	7707	style rhyme mc rhymes lyrics shit tame rock boom 
+47	0.41587	5893	hands light land walls year clock earth write swing 
+48	0.93011	10472	black real kill young guns murder blood cops shoot 
+49	0.54964	5514	money care chorus cash clothes chill milk questions nice 
+540ms <400> 
+172ms 172ms 172ms 179ms 177ms 168ms 174ms 171ms 178ms 175ms <410> 
+169ms 173ms 176ms 178ms 178ms 172ms 170ms 172ms 176ms 173ms <420> 
+173ms 172ms 173ms 178ms 176ms 171ms 173ms 176ms 170ms 178ms <430> 
+174ms 179ms 170ms 176ms 175ms 176ms 175ms 171ms 180ms 168ms <440> 
+177ms 176ms 175ms 175ms 177ms 180ms 170ms 171ms 182ms 173ms <450> 
+175ms 182ms 169ms 174ms 180ms 170ms 171ms 176ms 169ms 170ms <460> 
+172ms 171ms 179ms 171ms 170ms 172ms 173ms 171ms 180ms 169ms <470> 
+171ms 176ms 170ms 175ms 168ms 174ms 174ms 170ms 172ms 178ms <480> 
+167ms 170ms 170ms 176ms 172ms 173ms 173ms 179ms 174ms 182ms <490> 
+174ms 169ms 170ms 174ms 169ms 170ms 178ms 169ms 175ms 
+0	0.42846	5910	don stop won ain work train ll rhyme style 
+1	0.53841	10433	life world live chorus lord death feel pain heart 
+2	0.60987	15173	nigga niggaz pac thug fuck shit motherfuckers motherfucker bitches 
+3	0.88134	12739	shit fuck don ain fuckin give bitch back damn 
+4	0.31549	5076	back pick won ll rebel army hold metal life 
+5	0.4926	6366	bitch dick pussy hoes bitches booty tonight suck wanna 
+6	0.4983	8892	baby body don make girl yeah shake true mon 
+7	0.48265	3626	serch nice pete mouth rhythm rich step hole bass 
+8	0.72155	8938	make turn music step stop sound town round break 
+9	0.51475	5634	truth word speak breath knowledge god earth listen wisdom 
+10	0.2989	4007	city kill chainz hand wide television inside built return 
+11	0.66293	7445	ain don nothin mama chorus stop game til crazy 
+12	0.69819	9913	love back hate days don make chorus good remember 
+13	0.29827	7836	nigga cent niggaz gangsta chorus yeah ll bitch unit 
+14	0.48463	5812	party tash drink niggaz drunk liks swift nigga yeah 
+15	0.59242	8714	wanna gotta make move give yeah gonna head night 
+16	0.41182	4503	home america mary brain sick karma jane pain mother 
+17	0.3066	3914	fire thousand annalillia blaze star level keith green motion 
+18	0.55024	7797	chorus life eyes break hell broken living lost dream 
+19	0.20503	3274	prince aiyo ya killa teeth beretta tongue rhyme word 
+20	0.10928	1500	swel bleep jise unique ballad como crooklyn boogie todos 
+21	0.35269	4311	soul beautiful knew control outta food earth dirty clothes 
+22	0.59269	5937	hook ain talking make fucking coming feel till twin 
+23	0.80874	10653	rappers flow spit rock verse sound flows rapper drop 
+24	0.42921	6549	girl love wanna call chorus woman girls short lonely 
+25	0.22902	5500	rock aesop brick walk spit burn sleep blue winter 
+26	0.84881	10843	back hood hard cold hustle verse block money dope 
+27	0.29867	3924	apathy knock kids celph make titled ll akir till 
+28	0.39122	6860	club roll holla ride shorty chorus good bottle candy 
+29	0.48118	9231	slug head full door catch hold home work tryin 
+30	0.34586	6044	chorus high ain dogg love fast weed shit bout 
+31	0.59455	6448	gonna ain don fight till heart afraid friend read 
+32	0.78564	4904	verse brother fresh ll alive marquis boys mixx good 
+33	0.6002	7392	ll head back leave throw beat spot brain close 
+34	0.69114	8101	time ll show play ready don part back mine 
+35	0.67576	9949	ve verse ll time find things hard hope left 
+36	0.49924	6220	face place made jesus christ picture slow chorus story 
+37	0.30545	3998	hold aceyalone akon rain world tight open chorus hand 
+38	0.79489	10247	game street made strong sleep streets fame kids caught 
+39	0.30965	5392	blood left priest king dead born killah live burning 
+40	0.32998	4016	niggas nigga mutha punch fuck hate amil skeet spike 
+41	0.68067	8287	people peace mind true thing time black find music 
+42	1.21814	9665	check back crew bring live bust beat repeat quick 
+43	0.74219	6901	ghetto stay real life livin good rich thugs wicked 
+44	0.33328	5641	yeah akrobatik shit verse chorus intro outro real bout 
+45	1.05875	18553	ain chorus don gettin tryin goin make comin time 
+46	0.96533	6983	rhyme style shit rhymes lyrics tame make mc boom 
+47	0.37831	5612	hands high land walls clock water earth light swing 
+48	0.87636	10583	black real ll young kill guns shot murder streets 
+49	0.48014	5166	money chorus york questions care milk chill paid cash 
+713ms <500> 
+170ms 204ms 177ms 179ms 176ms 181ms 175ms 180ms 172ms 185ms <510> 
+176ms 178ms 176ms 174ms 174ms 184ms 173ms 175ms 181ms 181ms <520> 
+180ms 185ms 186ms 173ms 172ms 179ms 175ms 178ms 176ms 178ms <530> 
+179ms 171ms 172ms 177ms 170ms 185ms 172ms 172ms 178ms 173ms <540> 
+171ms 173ms 176ms 170ms 176ms 179ms 172ms 172ms 176ms 173ms <550> 
+179ms 172ms 177ms 175ms 173ms 179ms 172ms 175ms 179ms 169ms <560> 
+170ms 176ms 177ms 179ms 174ms 176ms 170ms 178ms 178ms 173ms <570> 
+172ms 178ms 171ms 173ms 180ms 171ms 179ms 172ms 174ms 185ms <580> 
+170ms 171ms 176ms 170ms 173ms 181ms 168ms 173ms 176ms 168ms <590> 
+174ms 179ms 170ms 171ms 180ms 175ms 174ms 173ms 207ms 
+0	0.3528	5347	don stop won ain ll train rhyme work hear 
+1	0.49788	10559	life world live chorus lord death feel pain lost 
+2	0.55909	15182	nigga niggaz pac thug fuck shit motherfuckers motherfucker bitches 
+3	0.83351	13438	fuck shit don ain give fuckin bitch back nigga 
+4	0.25943	4673	back fire metal pick won motherfucker game army food 
+5	0.43247	6060	bitch dick pussy hoes gangsta bitches booty suck fuck 
+6	0.4574	9272	baby body make girl don yeah shake night true 
+7	0.3809	3206	serch nice pete mouth rhythm step rich herbalz hole 
+8	0.68478	9330	make stop feel turn music sound break step round 
+9	0.45876	5405	truth word speak earth god knowledge light deep listen 
+10	0.23643	3835	city chainz kill television kitchen watch speed built pretty 
+11	0.59477	7152	ain mama nothin don stop crazy shot game til 
+12	0.70923	10838	love back don days hate knew made remember chorus 
+13	0.25416	7504	nigga cent niggaz chorus yeah ll don unit bitch 
+14	0.41154	5738	niggaz tash party drink liks drunk nigga swift yeah 
+15	0.51579	8897	wanna gotta make move yeah give gonna hang ma 
+16	0.3418	4044	home america mary sick brain karma jane working hard 
+17	0.25087	3565	annalillia fire blaze thousand keith star high level gorilla 
+18	0.52179	7707	chorus eyes life break hell dream space living lost 
+19	0.15483	2943	prince aiyo killa ya word teeth intro beretta trapped 
+20	0.07365	1458	swel bleep jise unique ballad boogie como todos crooklyn 
+21	0.29503	4006	soul beautiful outta control show food earth chemical trees 
+22	0.51535	6873	hook ain make fucking talking coming real watch motherfucking 
+23	0.7647	11178	rappers rock spit flow style verse rhyme rhymes beats 
+24	0.37404	6779	girl love wanna chorus call baby ll woman girls 
+25	0.18038	5143	rock aesop brick walk blue water born fuck wild 
+26	0.77202	11028	back hood hard shit verse cold hustle money block 
+27	0.23187	3561	apathy knock make celph titled motherfuckers akir kids scratch 
+28	0.32935	7032	club holla roll chorus ride shorty good gon bottle 
+29	0.43334	9040	slug full smile hold door wait half head sleep 
+30	0.28114	5588	chorus high dogg ain love shit fast weed homie 
+31	0.52035	6442	gonna fight ain heart till night afraid white left 
+32	0.69763	4428	verse brother fresh alive ll marquis boys freak mixx 
+33	0.55505	7260	ll head leave back throw beat hands spot brain 
+34	0.69976	7665	time ll play show ready part ma don stay 
+35	0.62159	10308	ve time ll verse find hard things hope give 
+36	0.43008	5883	face made place jesus christ picture chorus blood eyes 
+37	0.22916	3604	hold aceyalone akon rain chorus open tight don strong 
+38	0.78968	10595	game street real streets sleep made deep kids fame 
+39	0.26761	5293	left priest blood king dead iron hand life burning 
+40	0.27742	3899	niggas nigga mutha punch amil skeet hate spike till 
+41	0.60514	8241	people true mind world peace thing soul music find 
+42	1.1517	10006	back check crew live bring black bust comin step 
+43	0.67964	6333	ghetto life stay rich wicked livin streets thugs hell 
+44	0.27544	5302	yeah akrobatik chorus verse back don intro shit bout 
+45	1.10301	21820	ain chorus don tryin gettin make time wanna goin 
+46	0.88461	6486	shit style tame boom lyrics mc rhyme rhymes rock 
+47	0.32838	5847	hands clock light inside land walls lights earth year 
+48	0.75268	10800	black real young kill guns shot murder dead shoot 
+49	0.41037	4819	money milk chorus york questions chill paid care chillin 
+635ms <600> 
+178ms 176ms 176ms 180ms 193ms 195ms 178ms 174ms 180ms 173ms <610> 
+173ms 182ms 171ms 173ms 178ms 173ms 174ms 177ms 174ms 173ms <620> 
+178ms 178ms 185ms 183ms 172ms 176ms 179ms 171ms 175ms 178ms <630> 
+173ms 179ms 179ms 171ms 178ms 176ms 172ms 179ms 170ms 176ms <640> 
+188ms 171ms 174ms 174ms 181ms 177ms 181ms 180ms 172ms 177ms <650> 
+176ms 182ms 173ms 175ms 177ms 180ms 175ms 177ms 173ms 173ms <660> 
+179ms 174ms 174ms 180ms 170ms 175ms 172ms 179ms 170ms 174ms <670> 
+174ms 183ms 170ms 180ms 181ms 177ms 175ms 173ms 175ms 177ms <680> 
+172ms 180ms 177ms 175ms 175ms 178ms 173ms 177ms 178ms 175ms <690> 
+174ms 185ms 172ms 173ms 177ms 171ms 174ms 181ms 172ms 
+0	0.29653	4962	don won stop ain train miss talk work style 
+1	0.49673	10739	life chorus world live lord death pain feel lost 
+2	0.5241	15193	nigga niggaz pac thug fuck motherfuckers shit bitches motherfucker 
+3	0.79271	13732	fuck shit don ain nigga fuckin give bitch back 
+4	0.21268	4312	back pick fire yeah pieces metal night wanted game 
+5	0.37655	5512	bitch dick pussy hoes gangsta bitches suck tonight verse 
+6	0.4372	9369	baby make body don yeah girl shake give mon 
+7	0.27323	3076	serch nice pete rhythm mouth rich herbalz hole white 
+8	0.70306	10556	make turn sound break stop music step good town 
+9	0.42844	5387	truth word earth mind deep knowledge wisdom breath youth 
+10	0.19339	3600	city chainz kill television built return kitchen trap speed 
+11	0.55549	6681	ain mama don stop nothin shot game crazy hear 
+12	0.74053	11491	love back don hate days knew made didn long 
+13	0.21921	6954	nigga cent niggaz chorus yeah ll don unit hood 
+14	0.33974	5296	party niggaz tash drink liks drunk yeah swift nigga 
+15	0.48914	9261	wanna gotta make move give yeah ma show hang 
+16	0.28548	3727	home america mary sick brain jane karma ve working 
+17	0.19764	2915	annalillia fire thousand start keith blaze motion synth fantasy 
+18	0.47292	7661	chorus eyes life dream lost dead space break hell 
+19	0.12521	2871	prince aiyo ya killa word teeth beretta tang hunt 
+20	0.06457	1478	swel bleep jise unique ballad boogie como todos crooklyn 
+21	0.24609	3900	soul beautiful outta control show food chemical clothes sick 
+22	0.49426	6869	hook ain fucking coming talking make living making twin 
+23	0.78325	12026	rappers rock rhyme flow spit style chorus beat rhymes 
+24	0.34836	6591	girl love chorus wanna call girls woman ll short 
+25	0.14439	4829	rock aesop brick walk born water spit blue burn 
+26	0.76294	11576	back money hood cold hard hustle game shit block 
+27	0.19214	3179	apathy knock celph titled akir make kids motherfuckers scratch 
+28	0.30846	6973	roll holla chorus ride club shorty good side diamonds 
+29	0.41312	9471	slug full head catch smile hold sleep wait half 
+30	0.24761	5107	high chorus dogg ain fast nigga snoop young lil 
+31	0.48719	6167	gonna fight till afraid heart left ain bigger won 
+32	0.61672	4075	verse brother fresh alive marquis ll mixx luke boys 
+33	0.51929	6794	ll head throw back leave hands beat spot brain 
+34	0.63447	7292	time ll ready don play show part stay number 
+35	0.58258	11160	ve time ll hard find verse things hope give 
+36	0.39825	5751	face place made jesus christ picture eyes chorus story 
+37	0.1725	3205	hold aceyalone akon yeah tight microphone don chorus open 
+38	0.79873	11554	game streets street life made real shit deep sleep 
+39	0.23923	5345	left blood priest hand killah king burning born killer 
+40	0.26333	3830	niggas nigga mutha punch amil skeet spit hate spike 
+41	0.59353	8509	people true world peace mind thing music hear black 
+42	1.14659	10535	back check crew live city bring bust quick pass 
+43	0.63103	5632	ghetto life thugs wicked rich send typist forever hell 
+44	0.2272	4871	yeah akrobatik verse shit rapper back real outro bout 
+45	1.17751	24320	chorus ain don tryin gettin verse time make gotta 
+46	0.81427	5938	shit tame boom style mc lyrics rock brothers rhymes 
+47	0.31377	5681	hands stand land clock earth high light year inside 
+48	0.72039	11179	black real dead shot guns murder shoot young blood 
+49	0.35375	4280	money milk questions chill york chillin care paid don 
+582ms <700> 
+172ms 177ms 176ms 174ms 177ms 171ms 175ms 176ms 172ms 177ms <710> 
+175ms 176ms 186ms 172ms 173ms 174ms 189ms 170ms 178ms 175ms <720> 
+177ms 177ms 171ms 173ms 173ms 176ms 174ms 173ms 173ms 180ms <730> 
+175ms 174ms 178ms 177ms 173ms 178ms 179ms 185ms 176ms 174ms <740> 
+182ms 176ms 173ms 176ms 176ms 173ms 172ms 183ms 171ms 174ms <750> 
+180ms 171ms 174ms 179ms 175ms 172ms 176ms 173ms 174ms 175ms <760> 
+174ms 179ms 171ms 171ms 178ms 170ms 172ms 176ms 177ms 171ms <770> 
+174ms 177ms 181ms 170ms 172ms 172ms 179ms 173ms 172ms 180ms <780> 
+186ms 171ms 172ms 174ms 176ms 171ms 176ms 179ms 172ms 173ms <790> 
+177ms 175ms 175ms 172ms 180ms 173ms 174ms 180ms 169ms 
+0	0.25953	4524	don won stop ain work train mike rhyme miss 
+1	0.4852	11814	life world chorus live lord death pain lost rain 
+2	0.51918	15055	nigga niggaz pac thug fuck motherfuckers motherfucker shit bitches 
+3	0.79606	14729	shit fuck don ain back bitch nigga fuckin give 
+4	0.18829	4143	back life pick metal fire army dead yeah wanted 
+5	0.32277	5052	bitch pussy dick gangsta hoes bitches suck tonight yeah 
+6	0.41805	9027	baby girl body make yeah shake mon true back 
+7	0.26698	2891	serch nice pete mouth rhythm rich herbalz step hole 
+8	0.72829	11175	make good turn break music stop feel sound step 
+9	0.40325	5002	truth word earth knowledge breath light serve master lies 
+10	0.17638	3498	city kill chainz speed television built trap till bread 
+11	0.49996	5454	ain mama don stop nothin shot til crazy lose 
+12	0.75734	12377	love back don home knew didn days made hate 
+13	0.20029	6626	nigga cent niggaz yeah chorus ll unit bitch banks 
+14	0.28007	4899	tash party niggaz drink liks drunk yeah swift house 
+15	0.47932	10475	wanna gotta don make move ain yeah give ll 
+16	0.26422	3302	america mary sick jane karma home ve brain working 
+17	0.16418	2527	annalillia blaze thousand keith level synth fire analog motion 
+18	0.46376	7356	chorus eyes life dream break hell space stuck lost 
+19	0.12014	2832	prince aiyo ya killa trapped beretta teeth word intro 
+20	0.06424	1468	swel bleep jise ballad unique como todos crooklyn boogie 
+21	0.22001	3807	soul outta control food earth show chemical cold greatest 
+22	0.49417	7378	ain hook coming fucking talking game real living make 
+23	0.79941	12693	rock rappers flow style rhyme spit chorus rhymes beat 
+24	0.33395	6693	girl love call chorus wanna girls beautiful woman short 
+25	0.12606	4546	rock aesop brick walk burn born spit dirt broken 
+26	0.75965	11799	money hood hard back hustle cold verse block ma 
+27	0.16013	3104	apathy knock celph titled kids make akir motherfuckers scratch 
+28	0.30134	7031	chorus club roll holla ride shorty good side shine 
+29	0.40814	9699	slug full wait catch smile door sleep walk hold 
+30	0.21702	4505	high chorus dogg fast weed snoop homie nigga lil 
+31	0.44849	5653	gonna fight till afraid bigger scared fear left sing 
+32	0.53742	3593	brother fresh verse marquis alive freak ll mixx boys 
+33	0.47397	6829	ll head throw leave back beat hands face brain 
+34	0.58521	6735	time ready ll show stay part play mind number 
+35	0.60472	11536	ve time ll find hard give things verse hope 
+36	0.38004	5317	face place made jesus christ picture eyes slow chorus 
+37	0.14584	2720	hold aceyalone akon don tight yeah people open microphone 
+38	0.81723	11817	game street streets real shit life sleep night made 
+39	0.23465	5133	left priest iron ghost killah king burning deadly gods 
+40	0.25015	3947	niggas nigga mutha punch hate amil skeet spike house 
+41	0.57918	8872	people mind true world peace soul black music thing 
+42	1.17162	11338	check back crew verse city live pass bust dope 
+43	0.54664	4797	ghetto send thugs rich wicked corrections forever life stay 
+44	0.19142	4252	yeah akrobatik shit verse rapper chorus real bout outro 
+45	1.21573	26324	ain chorus don tryin gettin verse time wanna make 
+46	0.74353	5200	tame niggaz shit boom rock brothers sensai mc artifacts 
+47	0.30534	6114	hands light clock earth stand inside walls dark high 
+48	0.71499	12062	black ll dead shot real streets murder guns young 
+49	0.29809	3692	money chill questions care milk paid york chillin funny 
+757ms <800> 
+182ms 171ms 172ms 200ms 171ms 172ms 175ms 172ms 177ms 169ms <810> 
+175ms 179ms 171ms 174ms 179ms 170ms 173ms 178ms 169ms 173ms <820> 
+174ms 173ms 175ms 171ms 177ms 180ms 175ms 175ms 179ms 179ms <830> 
+173ms 170ms 186ms 178ms 172ms 173ms 179ms 169ms 175ms 174ms <840> 
+178ms 174ms 175ms 178ms 174ms 170ms 181ms 171ms 176ms 180ms <850> 
+179ms 172ms 177ms 172ms 172ms 181ms 182ms 182ms 183ms 178ms <860> 
+176ms 174ms 181ms 174ms 173ms 176ms 179ms 169ms 173ms 179ms <870> 
+187ms 173ms 171ms 173ms 174ms 179ms 181ms 171ms 173ms 173ms <880> 
+174ms 181ms 175ms 173ms 187ms 176ms 172ms 172ms 178ms 171ms <890> 
+172ms 181ms 170ms 172ms 177ms 174ms 173ms 184ms 173ms 
+0	0.24034	3539	don stop won miss work train rhyme mike bottom 
+1	0.4962	12651	life live chorus world lord pain death lost rain 
+2	0.42356	15007	nigga niggaz pac thug fuck motherfuckers shit motherfucker bitches 
+3	0.77032	15326	shit fuck don ain back bitch give fuckin nigga 
+4	0.15775	4145	ll dirty pick metal life army back pieces wanted 
+5	0.30706	4803	bitch dick pussy gangsta hoes bitches suck tonight fuck 
+6	0.38519	8962	baby body girl yeah make shake don mon true 
+7	0.22024	2788	serch nice pete rich mouth rhythm herbalz hole step 
+8	0.83462	11962	make turn sound stop music break won step leave 
+9	0.36051	5117	word truth born breath earth knowledge youth serve light 
+10	0.15646	3585	city chainz kill television return speed trap home bread 
+11	0.45668	5158	ain mama don stop nothin hear smoke til tired 
+12	0.93996	13264	love back home days knew didn remember made chorus 
+13	0.18663	6517	nigga cent niggaz yeah chorus ll unit hood bitch 
+14	0.24579	4858	tash niggaz party drink liks drunk yeah swift nigga 
+15	0.48351	11752	don wanna gotta make give yeah ain break ll 
+16	0.25739	3002	america mary sick jane hate brain working ve american 
+17	0.13584	2314	annalillia fire blaze keith synth thousand comin anni analog 
+18	0.41309	7288	eyes chorus dead break head space dream hell watch 
+19	0.0969	2660	prince aiyo killa ya trapped beretta yeah teeth word 
+20	0.05455	1478	swel bleep jise ballad unique boogie crooklyn como todos 
+21	0.1945	3714	soul outta cold control rock chemical food greatest winter 
+22	0.47174	7581	ain hook fucking make real talking coming living stop 
+23	0.85299	13012	rock rappers flow rhyme spit style rhymes chorus beat 
+24	0.29136	6355	girl love chorus call wanna woman girls beautiful short 
+25	0.10001	4268	rock aesop brick born walk sleep broken burn lucy 
+26	0.73971	12167	back money hood hard hustle cold shit game block 
+27	0.11734	3055	apathy knock celph titled kids make akir motherfuckers bitches 
+28	0.29827	7036	chorus roll holla club shorty ride side good gon 
+29	0.38086	9812	slug full wait hold water didn catch smile sleep 
+30	0.18694	4306	chorus high dogg fast weed snoop lil nate nigga 
+31	0.43591	5353	gonna till fight afraid bigger heart night scared makes 
+32	0.50909	3595	brother verse fresh marquis alive ll mixx live freak 
+33	0.42173	6807	ll head throw hands leave back brain beat verse 
+34	0.54391	6475	time ready ll part stay show play heard line 
+35	0.62768	11809	ve time don find ll verse things hard make 
+36	0.34146	5101	face made place jesus christ picture chorus save wall 
+37	0.11128	2520	hold aceyalone akon microphone tight yeah world open people 
+38	0.79722	11313	streets game street real life sleep made night feel 
+39	0.21151	5483	left priest iron killah burning king gods blood planet 
+40	0.24939	3759	niggas nigga hate mutha punch amil skeet spike gangster 
+41	0.6856	8580	people true mind thing world soul black peace stand 
+42	1.38657	11712	check back crew verse black city play bring watch 
+43	0.52096	4302	ghetto wicked thugs rich high send life hook corrections 
+44	0.15597	4171	yeah akrobatik shit rapper outro verse talking bout chorus 
+45	1.40164	26882	ain chorus don tryin gettin verse ll make wanna 
+46	0.72836	4555	tame boom niggaz shit mc lyrics sensai artifacts wack 
+47	0.3556	5888	light stand inside clock hands high plan lights walls 
+48	0.73463	12171	black ll kill shot dead murder real shoot guns 
+49	0.26674	3454	money milk chill care questions paid york chillin dance 
+561ms <900> 
+177ms 172ms 171ms 202ms 171ms 180ms 179ms 174ms 172ms 177ms <910> 
+173ms 174ms 181ms 170ms 178ms 177ms 174ms 172ms 177ms 173ms <920> 
+172ms 176ms 169ms 173ms 173ms 174ms 175ms 173ms 178ms 168ms <930> 
+173ms 177ms 169ms 177ms 180ms 177ms 171ms 173ms 181ms 174ms <940> 
+180ms 170ms 175ms 181ms 172ms 173ms 188ms 170ms 175ms 176ms <950> 
+178ms 169ms 177ms 175ms 172ms 178ms 195ms 180ms 175ms 175ms <960> 
+181ms 172ms 171ms 172ms 172ms 181ms 179ms 172ms 172ms 172ms <970> 
+172ms 177ms 182ms 169ms 174ms 174ms 179ms 177ms 181ms 171ms <980> 
+177ms 172ms 174ms 179ms 173ms 171ms 175ms 171ms 181ms 169ms <990> 
+173ms 177ms 173ms 176ms 173ms 171ms 173ms 173ms 174ms 
+0	0.18449	2695	train stop work style won mike till biting tyson 
+1	0.51845	13559	life live world chorus lord death pain make stay 
+2	0.40914	15075	nigga niggaz pac thug fuck motherfuckers shit bitches motherfucker 
+3	0.77225	16222	shit fuck don ain back bitch fuckin nigga give 
+4	0.15089	4010	pick life back wild mother dirty classic laugh pieces 
+5	0.27829	4784	bitch dick pussy gangsta hoes bitches suck tonight fuck 
+6	0.37485	8920	baby body don girl yeah make shake true mon 
+7	0.21571	2714	serch nice pete mouth rich herbalz record rhythm hole 
+8	0.83481	12401	make turn music break leave stop won step ll 
+9	0.35634	4789	word truth knowledge breath deep light born control serve 
+10	0.14739	3340	city chainz kill television built speed trap piss home 
+11	0.42583	4751	don mama ain nothin stop til drop tired daddy 
+12	0.95658	14412	love back home didn days made knew remember chorus 
+13	0.17278	6543	nigga cent niggaz chorus yeah ll unit bitch hood 
+14	0.22665	4816	tash niggaz party drink liks drunk yeah swift house 
+15	0.49979	13736	don wanna gotta make yeah give ain ll gonna 
+16	0.21073	2740	mary america sick hate jane ve working brain forced 
+17	0.11977	2105	annalillia blaze keith comin fire fantasy synth analog motion 
+18	0.39776	7127	eyes chorus head dead space hell break dream broken 
+19	0.08625	2593	prince aiyo ya killa trapped word beretta intro chamber 
+20	0.05571	1471	swel bleep jise ballad boogie como todos crooklyn unique 
+21	0.17789	3419	soul outta cold summer rock chemical food winter show 
+22	0.45005	7539	ain hook fucking coming talking stop living make real 
+23	0.86207	13406	rhyme rock rappers rhymes style flow chorus spit bring 
+24	0.27213	6312	girl love chorus call wanna woman ll girls beautiful 
+25	0.09646	4082	rock aesop brick walk born sleep water paper cats 
+26	0.75091	12938	money back hood hustle hard shit cold love verse 
+27	0.11179	2846	apathy knock celph titled kids akir motherfuckers make scratch 
+28	0.28294	6523	roll holla chorus club ride shorty shine side good 
+29	0.3591	9718	slug full hold wait door smile left walk breath 
+30	0.17162	4004	high chorus dogg fast weed snoop homie half nate 
+31	0.40922	5071	gonna fight afraid bigger till night hook sing white 
+32	0.42466	3468	brother verse fresh marquis alive mixx freak ll luke 
+33	0.39345	6297	ll head throw hands leave verse fire spot back 
+34	0.52203	6679	time ll show ready stay part play ma half 
+35	0.643	11988	ve time don find ll verse things hope mind 
+36	0.32215	4974	face made chorus place jesus christ picture save blood 
+37	0.08754	2390	hold aceyalone akon microphone tight project open people yeah 
+38	0.7873	11306	real streets game street life sleep feel shit made 
+39	0.21402	5502	priest iron ghost left killah heart sample planet face 
+40	0.24673	3751	niggas nigga hate mutha punch amil till gangster make 
+41	0.65083	8695	people mind true world soul black peace hear thing 
+42	1.40069	11897	check back crew verse black repeat city bust roll 
+43	0.45329	3450	ghetto rich wicked hell thugs gotta otis long send 
+44	0.1387	3892	yeah akrobatik shit bout rapper verse intro outro mon 
+45	1.31713	26997	ain chorus tryin gettin don verse wanna make goin 
+46	0.62366	3851	tame boom niggaz shit sensai artifacts rock mc crews 
+47	0.35974	5747	light tongue clock skin hands year walls dark swing 
+48	0.72043	12596	ll black kill shoot blood murder dead guns walk 
+49	0.23358	3271	money milk questions chill care york don chillin sample 
+487ms <1000> 
+
+Total time: 3 minutes 5 seconds
+>>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
