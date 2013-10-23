@@ -5,5 +5,6 @@ OHHLA-for-echonest.txt.gz
 backup.db
 spotifycache.db
 sqlite.db
+vocab
 dtm_release
 lda_compare
