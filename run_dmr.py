@@ -4,15 +4,11 @@
 import sys
 import os
 import re
-<<<<<<< HEAD
 import csv
 import subprocess
 import codecs
 import json
-=======
-import subprocess
-import codecs
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
+import math
 from datetime import date
 
 from django.core.management import setup_environ
@@ -26,27 +22,14 @@ from utils import *
 
 TEXTS_FILE = "texts.txt"
 DMAP_FILE = "dmap.txt"
-<<<<<<< HEAD
 METADATA_CSV = 'metadata.csv'
 METADATA_FILE = 'metadata.json'
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 FEATURES_FILE = "features.txt"
 INSTANCES_FILE = "instances.mallet"
 PROGRESS_FILE = "progress.txt"
 TOPICS = 50
 MALLET = ["/Users/chrisjr/Applications/mallet-2.0.7/bin/mallet", "run"]
 
-<<<<<<< HEAD
-=======
-
-if STOPLIST:
-    with codecs.open(STOPLIST, 'r', encoding='utf-8') as f:
-        stopwords = set([x.strip().lower() for x in f.readlines()])
-else:
-    stopwords = set()
-
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 date_extremes = Album.objects.aggregate(Min('date'), Max('date'))
 year_min = date_extremes['date__min'].year
 year_max = date_extremes['date__max'].year
@@ -55,26 +38,25 @@ bpm_extremes = Song.objects.aggregate(Min('bpm'), Max('bpm'))
 bpm_min = bpm_extremes['bpm__min']
 bpm_max = bpm_extremes['bpm__max']
 
-<<<<<<< HEAD
-def song_to_feature_string(song, features_used=('year=','location', 'artist')):
-=======
-def song_to_feature_string(song, features_used=('year=','bpm=','location')):
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
+def song_to_feature_string(song, features_used=('pd=', 'oneminuspd=','location', 'artist')):
     features = {}
-    features[u'year='] = (song.album.date.year - year_min) / float(year_max - year_min)
+    p = (song.album.date.year - year_min) / float(year_max - year_min)
+    smooth = 0.01
+    if p == 0.0:
+        p += smooth
+    elif p == 1.0:
+        p -= smooth
+    features[u'pd='] = math.log(p)
+    features[u'oneminuspd='] = math.log(1.0-p)
     features[u'bpm='] = (song.bpm - bpm_min) / float(bpm_max - bpm_min)
     features[u'location'] = song.artist.place.id
-<<<<<<< HEAD
     features[u'artist'] = song.artist.id
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
     return u' '.join([k + unicode(v) for k, v in features.iteritems() if k in features_used])
 
 if not os.path.exists("dmr"):
     os.makedirs("dmr")
 os.chdir("dmr")
 
-<<<<<<< HEAD
 metadata = {}
 with file(METADATA_CSV, 'wb') as csv_file:
     writer = UnicodeCsvWriter(csv_file)
@@ -97,17 +79,6 @@ with file(METADATA_CSV, 'wb') as csv_file:
 
 with file(METADATA_FILE, 'w') as f:
     json.dump(metadata, f)
-=======
-with codecs.open(TEXTS_FILE, 'w', encoding='utf-8') as texts_file:
-    with codecs.open(FEATURES_FILE, 'w', encoding='utf-8') as features_file:
-        with codecs.open(DMAP_FILE, 'w', encoding='utf-8') as dmap:
-            for song in Song.objects.exclude(artist__place = None).exclude(album__date = None):
-                text = clean_text(song.content)
-
-                texts_file.write(text + u'\n')
-                features_file.write(song_to_feature_string(song) + u'\n')
-                dmap.write(song.filename + u'\n')
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 
 import_args = MALLET + ["cc.mallet.topics.tui.DMRLoader", TEXTS_FILE, FEATURES_FILE, INSTANCES_FILE]
 import_return = subprocess.call(import_args)

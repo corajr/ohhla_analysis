@@ -1,15 +1,18 @@
 source("load_topics.r")
-source("deviations")
+# source("deviations")
+source("viz_plot_place.r")
 
-state <- load.mallet.state("lda/topic-state.gz")
+state <- load.mallet.state("dmr/dmr.state.gz")
 tabulatedState <- tabulate.state(state)
-tabulatedState <- add.groups.to.state(tabulatedState, "lda/metadata_all.csv")
+tabulatedState <- add.groups.to.state(tabulatedState, "dmr/metadata.csv")
 
 topic.labels <- get.topic.labels(tabulatedState)
 
-topics.place.varying <- (sort(deviations$place, index.return=T, decreasing=T)$ix)[1:5]
+# topics.place.varying <- (sort(deviations$place, index.return=T, decreasing=T)$ix)[1:5]
 
 state <- tabulatedState$state
+
+topics.place.varying <- c(6,7)
 
 topic.places <- list()
 for (topic in topics.place.varying) {
@@ -18,4 +21,6 @@ for (topic in topics.place.varying) {
     topic.places[[label]] <- aggregate(data$lon, by=data, length)
 }
 
-write.csv("check.word.crew.csv")
+for (label in names(topic.places)) {
+    density_map(label, topic.places[[label]])
+}

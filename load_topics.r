@@ -152,7 +152,7 @@ topic.plot <- function (name, topic.obj) {
 }
 
 get.topic.name <- function(tabulatedState, i) {
-    paste(attr(tabulatedState$top.words[[i]][1:3], "names"), collapse=".")
+    paste(attr(tabulatedState$top.words[[i]][1:3], "names"), collapse="_")
 }
 
 get.topic.labels <- function(tabulatedState) {
