@@ -81,8 +81,8 @@ g_legend<-function(a.gplot){
 
 
 
-density_map <- function (name) {
-    datapts <- read.csv(paste(name, ".csv", sep=''))
+density_map <- function (datapts,name) {
+    #datapts <- read.csv(paste(name, ".csv", sep=''))
     test <- data.frame(x=rep(datapts[,1],datapts[,3]),y=rep(datapts[,2],datapts[,3]))
     pts <- as.ppp(test, W=usowin)
     pts <-as.data.frame(pts)
@@ -94,7 +94,7 @@ density_map <- function (name) {
     kde2dRange[3] <- kde2dRange[3] -3.0
     kde2dRange[4] <- kde2dRange[4] +3.0
 
-    dens <- getKde(pts,N=10,Lims=kde2dRange) 
+    dens <- getKde(pts,N=500,Lims=kde2dRange) 
     
     minZ <- (sapply(dens,min)[c('z')])
     maxZ <- (sapply(dens,max)[c('z')])
@@ -117,8 +117,11 @@ density_map <- function (name) {
 
        #grid.draw(legend) 
        ggsave("bar.png", arrangeGrob(legend),height=2,width=1.2)
-       emap2 <- emap + theme(legend.position = "none") 
-       ggsave(paste(name, "_density.pdf", sep=''), height=4, width=5)
+       emap2 <- emap + theme(legend.position = "none")
+       outputname <- paste(name, "_density.pdf", sep='')
+       ggsave(outputname, height=4, width=5)
+       the.path <- paste(getwd(), "/",outputname , sep = "")
+       system(paste("pdfcrop ", the.path, " ", the.path, sep = ""))
        #ggsave(paste(name, "_density.png", sep=''), height=4, width=5)
       
 }
