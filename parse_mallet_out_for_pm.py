@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import re
 import sys
 import struct
@@ -113,7 +114,7 @@ labels = {x[0]: {"words": wordProbs[x[0]],
                     ]
         }
 
-topics_fmt = '<' + str(mallet_opts['num-topics']) + 'f'
+topics_fmt = '<' + str(len(wordProbs)) + 'f'
 
 doc_topics = {}
 

@@ -6,6 +6,7 @@ class Song(models.Model):
     title = models.CharField(max_length=256)
     artist = models.ForeignKey('Artist', related_name='songs')
     filename = models.CharField(max_length=256)
+    typist = models.ForeignKey('Typist', blank=True, null=True)
     echonest_id = models.CharField(max_length=32)
     album = models.ForeignKey('Album', related_name='tracks')
     key = models.SmallIntegerField(choices=KEYS)
@@ -28,6 +29,12 @@ class Artist(models.Model):
 
     def __unicode__(self):
         return self.name
+
+class Typist(models.Model):
+    email = models.CharField(max_length=256)
+
+    def __unicode__(self):
+        return self.email
 
 class Album(models.Model):
     name = models.CharField(max_length=256)

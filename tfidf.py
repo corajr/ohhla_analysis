@@ -23,11 +23,14 @@ else:
         vocab = pickle.load(f)
 
 tfidf = vocab.tfidf()
-removed = vocab.remove_hapax()
-removed.update(vocab.tfidf_filter())
+# removed = vocab.remove_hapax(3)
+removed = vocab.tfidf_filter()
 with codecs.open('stopwords.txt', 'w', encoding='utf-8') as f:
     for word in removed:
         f.write(word + u'\n')
+    with codecs.open('stoplists_en.txt', encoding='utf-8') as g:
+        for word in [x.strip() for x in g.readlines() if x.strip() != u'']:
+            f.write(word + u'\n')
 
 tf = vocab.getall()
 words = sorted(((word, value) for word, value in tf.iteritems()), key=lambda x: x[0])
