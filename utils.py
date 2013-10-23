@@ -3,8 +3,11 @@ import re
 import math
 import codecs
 import os
+<<<<<<< HEAD
 import csv
 import cStringIO
+=======
+>>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 from collections import Counter, defaultdict
 
 # from https://gist.github.com/gregburek/1441055
@@ -24,13 +27,17 @@ def RateLimited(maxPerSecond):
     return decorate
 
 STOPLIST = 'stopwords.txt'
+<<<<<<< HEAD
 # STOPLIST = None
+=======
+>>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 if STOPLIST is not None and os.path.exists(STOPLIST):
     with codecs.open(STOPLIST, 'r', encoding='utf-8') as f:
         stopwords = set([x.strip().lower() for x in f.readlines()])
 else:
     stopwords = set()
 
+<<<<<<< HEAD
 def unicode_csv_reader(utf8_data, dialect=csv.excel, **kwargs):
     csv_reader = csv.reader(utf8_data, dialect=dialect, **kwargs)
     for row in csv_reader:
@@ -60,6 +67,15 @@ def clean_text(text):
     text = re.sub(r"[^\w_]+", u' ', text, flags=re.UNICODE)
     words = text.split(u' ')
     text = u' '.join([x for x in words if x not in stopwords and len(x) > 3])
+=======
+
+def clean_text(text):
+    text = re.sub(r"\[[^]]+?\]", u'', text.lower(), flags=re.UNICODE)
+    text = re.sub(r"[^\w_]+", u' ', text, flags=re.UNICODE)
+    words = text.split(u' ')
+    text = u' '.join([x for x in words if x not in stopwords and len(x)
+                     > 3])
+>>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
     return text
 
 def argmax(obj):
@@ -87,12 +103,20 @@ class Vocab:
         for url, doc in self.docs.iteritems():
             tf.update(doc)
         return tf
+<<<<<<< HEAD
     def remove_hapax(self, n = 1):
+=======
+    def remove_hapax(self):
+>>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
         tf = self.getall()
         removed = set()
         for url in self.docs.keys():
             for word in self.docs[url].keys():
+<<<<<<< HEAD
                 if tf[word] <= n:
+=======
+                if tf[word] == 1:
+>>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
                     removed.add(word)
                     del self.docs[url][word]
         return removed
@@ -111,9 +135,16 @@ class Vocab:
             self.tfidf_dict[word] = self.tf[word] * math.log10(len(self.docs)/count)
         return self.tfidf_dict
     def tfidf_filter(self, min_df = 3, top_words = 5000):
+<<<<<<< HEAD
         tfidf = self.tfidf()
         removed = set(word for word,count in self.df.iteritems() if count < min_df)
         tfidf_top = [x for x in argsort(tfidf, reverse=True) if x not in removed]
+=======
+        removed = set()
+        tfidf = self.tfidf()
+        below_minimum = set([word for word,count in self.df.iteritems() if count < min_df])
+        tfidf_top = [x for x in argsort(tfidf, reverse=True) if x not in below_minimum]
+>>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
         allowed = set(tfidf_top[0:top_words])
         for url in self.docs.keys():
             for word in self.docs[url].keys():

@@ -6,8 +6,11 @@ App.collectionName = "Paper Machines";
 
 App.topicColors = d3.scale.category20().domain([0,1,2,3,4,6,5,7,8,9,10,11,12,13,14,15,16,17,18,19]); //d3.scale.category10().domain(d3.range(10));
 
+<<<<<<< HEAD
 App.topicPhrases = true;
 
+=======
+>>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 // App.timeDomain = [new Date(1820,0,0), new Date(2000,0,0)];
 App.reopen({
   hoverTopicWords: Ember.computed(function () {

@@ -67,6 +67,7 @@ App.Topic = Ember.Object.extend({
   }).property('App.topicColors', 'id'),
 
   label: function () {
+<<<<<<< HEAD
     if (App.topicPhrases) {
       return data['TOPIC_LABELS'][this.id]['phrases'].slice(0,3).join(", ");      
     } else {
@@ -74,5 +75,10 @@ App.Topic = Ember.Object.extend({
       return top.map(function(d){ return d.text || d;}).join(", ");    
     }
 
+=======
+    // return data['TOPIC_LABELS'][this.id]['phrases'].slice(0,3).join(", ");
+    var top = this.topWords.slice(0,3);
+    return top.map(function(d){ return d.text || d;}).join(", ");    
+>>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
   }.property("id")
 });

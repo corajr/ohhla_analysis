@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 #!/usr/bin/env python
+=======
+>>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 import re
 import sys
 import struct
@@ -114,7 +117,11 @@ labels = {x[0]: {"words": wordProbs[x[0]],
                     ]
         }
 
+<<<<<<< HEAD
 topics_fmt = '<' + str(len(wordProbs)) + 'f'
+=======
+topics_fmt = '<' + str(mallet_opts['num-topics']) + 'f'
+>>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 
 doc_topics = {}
 
