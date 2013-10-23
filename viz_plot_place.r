@@ -81,7 +81,7 @@ g_legend<-function(a.gplot){
 
 
 
-density_map <- function (datapts,name) {
+density_map <- function (datapts, name) {
     #datapts <- read.csv(paste(name, ".csv", sep=''))
     test <- data.frame(x=rep(datapts[,1],datapts[,3]),y=rep(datapts[,2],datapts[,3]))
     pts <- as.ppp(test, W=usowin)
@@ -126,4 +126,4 @@ density_map <- function (datapts,name) {
       
 }
 
-density_map("all_places")
+# density_map("all_places")

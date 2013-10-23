@@ -54,10 +54,7 @@
 2_live#as_nasty#rhymes.2lc.txt
 2_live#as_nasty#so_horny.2lc.txt
 2_live#as_nasty#the_buck.2lc.txt
-<<<<<<< HEAD
 2_live#back_94#ugogirl.2lc.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 2_live#banned#banned.2lc.txt
 2_live#banned#facedown.2lc.txt
 2_live#banned#notamyth.2lc.txt
@@ -99,10 +96,6 @@
 2_live#the_real#2_party.2lc.txt
 2_live#the_real#is_here.2lc.txt
 2_live#the_real#the_real.2lc.txt
-<<<<<<< HEAD
-=======
-2_live#back_94#ugogirl.2lc.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 2_pac#2pclypse#brenda.2pc.txt
 2_pac#2pclypse#crooked.2pc.txt
 2_pac#2pclypse#givafuck.2pc.txt
@@ -210,18 +203,12 @@
 2_pac#rm_bside#hitemup.2pc.txt
 2_pac#rm_bside#loyal.2pc.txt
 2_pac#rm_bside#m_niggaz.2pc.txt
-<<<<<<< HEAD
 2_pac#rm_bside#my_block.2pc.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 2_pac#rm_bside#neverhad.2pc.txt
 2_pac#rm_bside#onedayat.2pc.txt
 2_pac#rm_bside#roundrmx.2pc.txt
 2_pac#rm_bside#runn_dtl.2pc.txt
-<<<<<<< HEAD
 2_pac#rm_bside#so_hard.2pc.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 2_pac#rm_bside#throw_up.2pc.txt
 2_pac#rm_bside#tilidie.2pc.txt
 2_pac#rm_bside#trouble.2pc.txt
@@ -264,7 +251,6 @@
 2_pac#str_4_my#strictly.2pc.txt
 2_pac#str_4_my#struggle.2pc.txt
 2_pac#str_4_my#whosback.2pc.txt
-<<<<<<< HEAD
 2_pac#thugvol1#ballin.2pc.txt
 2_pac#thugvol1#bury_me.2pc.txt
 2_pac#thugvol1#cradle.2pc.txt
@@ -274,8 +260,6 @@
 2_pac#thugvol1#staytrue.2pc.txt
 2_pac#thugvol1#street.2pc.txt
 2_pac#thugvol1#twisted.2pc.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 2_pac#untilthe#all_out.2pc.txt
 2_pac#untilthe#balladof.2pc.txt
 2_pac#untilthe#breathin.2pc.txt
@@ -298,18 +282,6 @@
 2_pac#untilthe#u_dont.2pc.txt
 2_pac#untilthe#whyuturn.2pc.txt
 2_pac#untilthe#wwfiggaz.2pc.txt
-<<<<<<< HEAD
-=======
-2_pac#thugvol1#ballin.2pc.txt
-2_pac#thugvol1#bury_me.2pc.txt
-2_pac#thugvol1#cradle.2pc.txt
-2_pac#thugvol1#pour_out.2pc.txt
-2_pac#thugvol1#pressure.2pc.txt
-2_pac#thugvol1#shitdont.2pc.txt
-2_pac#thugvol1#staytrue.2pc.txt
-2_pac#thugvol1#street.2pc.txt
-2_pac#thugvol1#twisted.2pc.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 2mex#2mex#alive_a.2mx.txt
 2mex#2mex#baby_i.2mx.txt
 2mex#2mex#falcon.2mx.txt
@@ -453,10 +425,7 @@
 50_cent#future#call_me.50c.txt
 50_cent#future#clue.50c.txt
 50_cent#future#gunittwu.50c.txt
-<<<<<<< HEAD
 50_cent#future#i_smell.50c.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 50_cent#future#u_should.50c.txt
 50_cent#future#whoo_kid.50c.txt
 50_cent#future#yayo_exp.50c.txt
@@ -538,10 +507,6 @@
 50_cent#warangel#gmessage.50c.txt
 50_cent#warangel#gottawin.50c.txt
 50_cent#warangel#lndngirl.50c.txt
-<<<<<<< HEAD
-=======
-50_cent#future#i_smell.50c.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 5th_ward#g_dope#bsandglory.5th.txt
 5th_ward#PWAalbum#jealous.5wr.txt
 5th_ward#rated_g#concrete.5wr.txt
@@ -639,22 +604,10 @@ A_and_r#non_exv1#making.anr.txt
 A_and_r#non_exv1#progress.anr.txt
 A_and_r#non_exv1#question.anr.txt
 A_and_r#non_exv1#rain.anr.txt
-<<<<<<< HEAD
 A_and_r#non_exv2#special.anr.txt
 A_and_r#non_exv2#thoughts.anr.txt
 A_and_r#non_exv2#udntknow.anr.txt
 a_l_i_as#theworld#for_love.ali.txt
-=======
-A_and_r#non_exv2#thoughts.anr.txt
-A_and_r#non_exv2#special.anr.txt
-A_and_r#non_exv2#udntknow.anr.txt
-a_l_i_as#theworld#for_love.ali.txt
-alias#lk_glass#dying_to.als.txt
-alias#lk_glass#gettbyv2.als.txt
-alias#lk_glass#jovial.als.txt
-alias#lk_glass#solitude.als.txt
-alias#lk_glass#watching.als.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 a_plus#hemphigh#gottahav.pls.txt
 a_plus#hemphigh#new_york.pls.txt
 a_plus#hemphigh#yourself.pls.txt
@@ -1046,10 +999,7 @@ al_d#4dagreen#reaching.ald.txt
 al_fatz#al_fatz#camedown.ftz.txt
 alchemst#1st_infa#bangers.alc.txt
 alchemst#1st_infa#d_bodies.alc.txt
-<<<<<<< HEAD
 alchemst#1st_infa#d_worlds.alc.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 alchemst#1st_infa#dblockqb.alc.txt
 alchemst#1st_infa#essence.alc.txt
 alchemst#1st_infa#for_the.alc.txt
@@ -1060,10 +1010,6 @@ alchemst#cookbook#clmsmoke.alc.txt
 alchemst#no_days#legends.alc.txt
 alchemst#warfare#smile.alc.txt
 alchemst#warfare#warfare.alc.txt
-<<<<<<< HEAD
-=======
-alchemst#1st_infa#d_worlds.alc.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 alexipha#ambeauty#american.alx.txt
 alexipha#ambeauty#atefah.alx.txt
 alexipha#ambeauty#beauty.alx.txt
@@ -1094,14 +1040,11 @@ ali#starch#oreoreo.ali.txt
 ali#starch#wiggle.ali.txt
 ali_gipp#kinfolk#go_head.gip.txt
 ali_gipp#kinfolk#hood.gip.txt
-<<<<<<< HEAD
 alias#lk_glass#dying_to.als.txt
 alias#lk_glass#gettbyv2.als.txt
 alias#lk_glass#jovial.als.txt
 alias#lk_glass#solitude.als.txt
 alias#lk_glass#watching.als.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 alivegas#gen_gap#co_sign.ali.txt
 alivegas#gen_gap#ganglife.ali.txt
 alivegas#rm_bside#critics.ali.txt
@@ -1687,11 +1630,8 @@ az_the_v#aziatic#rebirth.azv.txt
 az_the_v#aziatic#takecare.azv.txt
 az_the_v#aziatic#wanna_be.azv.txt
 az_the_v#decade#love_is.azv.txt
-<<<<<<< HEAD
 az_the_v#decade#sunshine.azv.txt
 az_the_v#decade#time.azv.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 az_the_v#doeordie#doeordie.azv.txt
 az_the_v#finalcll#livewire.azv.txt
 az_the_v#finalcll#lmk.azv.txt
@@ -1719,11 +1659,6 @@ az_the_v#piecesof#century.azv.txt
 az_the_v#piecesof#new_life.azv.txt
 az_the_v#piecesof#whatdeal.azv.txt
 az_the_v#piecesof#whatever.azv.txt
-<<<<<<< HEAD
-=======
-az_the_v#decade#sunshine.azv.txt
-az_the_v#decade#time.azv.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 az_under#subverse#blood_on.azt.txt
 az_under#subverse#killing.azt.txt
 az_under#subverse#lyrical.azt.txt
@@ -1751,17 +1686,13 @@ b_beesh#on_cool#too_many.bee.txt
 b_beesh#on_cool#vamanos.bee.txt
 b_beesh#on_cool#yester.bee.txt
 b_beesh#s_dreams#quarter.bee.txt
-<<<<<<< HEAD
 b_gemini#history#myshawty.gem.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 b_lamont#shaw3#rain.bis.txt
 b_legit#hard_to#so_int.blg.txt
 b_legit#hemp#4solong.blg.txt
 b_legit#hemp#check_it.blg.txt
 b_legit#hemp#d_boy.blg.txt
 b_legit#hemp#dopefrom.blg.txt
-<<<<<<< HEAD
 b_legit#hemp#getsdown.blg.txt
 b_legit#hemp#hustlers.blg.txt
 b_legit#hemp#intro.blg.txt
@@ -18216,5 +18147,3 @@ z_ro#toleranc#jus_ahoe.zro.txt
 z_ro#toleranc#party.zro.txt
 z_ro#toleranc#time_and.zro.txt
 zion_i#true_and#temp.zio.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792

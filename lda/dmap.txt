@@ -54,10 +54,6 @@
 2_live#as_nasty#rhymes.2lc.txt
 2_live#as_nasty#so_horny.2lc.txt
 2_live#as_nasty#the_buck.2lc.txt
-<<<<<<< HEAD
-2_live#back_94#ugogirl.2lc.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 2_live#banned#banned.2lc.txt
 2_live#banned#facedown.2lc.txt
 2_live#banned#notamyth.2lc.txt
@@ -99,10 +95,7 @@
 2_live#the_real#2_party.2lc.txt
 2_live#the_real#is_here.2lc.txt
 2_live#the_real#the_real.2lc.txt
-<<<<<<< HEAD
-=======
 2_live#back_94#ugogirl.2lc.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 2_pac#2pclypse#brenda.2pc.txt
 2_pac#2pclypse#crooked.2pc.txt
 2_pac#2pclypse#givafuck.2pc.txt
@@ -258,18 +251,6 @@
 2_pac#str_4_my#strictly.2pc.txt
 2_pac#str_4_my#struggle.2pc.txt
 2_pac#str_4_my#whosback.2pc.txt
-<<<<<<< HEAD
-2_pac#thugvol1#ballin.2pc.txt
-2_pac#thugvol1#bury_me.2pc.txt
-2_pac#thugvol1#cradle.2pc.txt
-2_pac#thugvol1#pour_out.2pc.txt
-2_pac#thugvol1#pressure.2pc.txt
-2_pac#thugvol1#shitdont.2pc.txt
-2_pac#thugvol1#staytrue.2pc.txt
-2_pac#thugvol1#street.2pc.txt
-2_pac#thugvol1#twisted.2pc.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 2_pac#untilthe#all_out.2pc.txt
 2_pac#untilthe#balladof.2pc.txt
 2_pac#untilthe#breathin.2pc.txt
@@ -292,8 +273,6 @@
 2_pac#untilthe#u_dont.2pc.txt
 2_pac#untilthe#whyuturn.2pc.txt
 2_pac#untilthe#wwfiggaz.2pc.txt
-<<<<<<< HEAD
-=======
 2_pac#thugvol1#ballin.2pc.txt
 2_pac#thugvol1#bury_me.2pc.txt
 2_pac#thugvol1#cradle.2pc.txt
@@ -303,7 +282,6 @@
 2_pac#thugvol1#staytrue.2pc.txt
 2_pac#thugvol1#street.2pc.txt
 2_pac#thugvol1#twisted.2pc.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 2mex#2mex#alive_a.2mx.txt
 2mex#2mex#baby_i.2mx.txt
 2mex#2mex#falcon.2mx.txt
@@ -358,10 +336,7 @@
 3Xkrazy#sick_o_ep#sunshine.3xk.txt
 3Xkrazy#stackin#keep_it.3xk.txt
 40_cal#broken_2#40_cals.40c.txt
-<<<<<<< HEAD
-=======
 diplomat#movement#worried.dip.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 40_glocc#rm_bside#hammers.40g.txt
 415#41fivin#groupie.415.txt
 49ers#equilib#belts.49r.txt
@@ -451,10 +426,6 @@ diplomat#movement#worried.dip.txt
 50_cent#future#call_me.50c.txt
 50_cent#future#clue.50c.txt
 50_cent#future#gunittwu.50c.txt
-<<<<<<< HEAD
-50_cent#future#i_smell.50c.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 50_cent#future#u_should.50c.txt
 50_cent#future#whoo_kid.50c.txt
 50_cent#future#yayo_exp.50c.txt
@@ -536,8 +507,6 @@ diplomat#movement#worried.dip.txt
 50_cent#warangel#gmessage.50c.txt
 50_cent#warangel#gottawin.50c.txt
 50_cent#warangel#lndngirl.50c.txt
-<<<<<<< HEAD
-=======
 rap_comp#the_reup#skiremix.rup.txt
 50_cent#future#i_smell.50c.txt
 g_unit#begmercy#begmercy.unt.txt
@@ -572,7 +541,6 @@ g_unit#termin8e#ready_or.unt.txt
 g_unit#termin8e#straight.unt.txt
 g_unit#termin8e#TOS.unt.txt
 g_unit#termin8e#youtough.unt.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 5th_ward#g_dope#bsandglory.5th.txt
 5th_ward#PWAalbum#jealous.5wr.txt
 5th_ward#rated_g#concrete.5wr.txt
@@ -670,12 +638,6 @@ A_and_r#non_exv1#making.anr.txt
 A_and_r#non_exv1#progress.anr.txt
 A_and_r#non_exv1#question.anr.txt
 A_and_r#non_exv1#rain.anr.txt
-<<<<<<< HEAD
-A_and_r#non_exv2#special.anr.txt
-A_and_r#non_exv2#thoughts.anr.txt
-A_and_r#non_exv2#udntknow.anr.txt
-a_l_i_as#theworld#for_love.ali.txt
-=======
 A_and_r#non_exv2#thoughts.anr.txt
 A_and_r#non_exv2#special.anr.txt
 A_and_r#non_exv2#udntknow.anr.txt
@@ -685,7 +647,6 @@ alias#lk_glass#gettbyv2.als.txt
 alias#lk_glass#jovial.als.txt
 alias#lk_glass#solitude.als.txt
 alias#lk_glass#watching.als.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 a_plus#hemphigh#gottahav.pls.txt
 a_plus#hemphigh#new_york.pls.txt
 a_plus#hemphigh#yourself.pls.txt
@@ -1031,10 +992,7 @@ akon#trouble#nobody.akn.txt
 akon#trouble#pot_gold.akn.txt
 akon#trouble#show_out.akn.txt
 akon#trouble#when_the.akn.txt
-<<<<<<< HEAD
-=======
 rap_comp#the_reup#smackrmx.rup.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 akrobatk#ab_value#ab_value.akr.txt
 akrobatk#ab_value#aknimble.akr.txt
 akrobatk#ab_value#atothek.akr.txt
@@ -1081,10 +1039,6 @@ al_d#4dagreen#reaching.ald.txt
 al_fatz#al_fatz#camedown.ftz.txt
 alchemst#1st_infa#bangers.alc.txt
 alchemst#1st_infa#d_bodies.alc.txt
-<<<<<<< HEAD
-alchemst#1st_infa#d_worlds.alc.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 alchemst#1st_infa#dblockqb.alc.txt
 alchemst#1st_infa#essence.alc.txt
 alchemst#1st_infa#for_the.alc.txt
@@ -1095,10 +1049,7 @@ alchemst#cookbook#clmsmoke.alc.txt
 alchemst#no_days#legends.alc.txt
 alchemst#warfare#smile.alc.txt
 alchemst#warfare#warfare.alc.txt
-<<<<<<< HEAD
-=======
 alchemst#1st_infa#d_worlds.alc.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 alexipha#ambeauty#american.alx.txt
 alexipha#ambeauty#atefah.alx.txt
 alexipha#ambeauty#beauty.alx.txt
@@ -1129,14 +1080,6 @@ ali#starch#oreoreo.ali.txt
 ali#starch#wiggle.ali.txt
 ali_gipp#kinfolk#go_head.gip.txt
 ali_gipp#kinfolk#hood.gip.txt
-<<<<<<< HEAD
-alias#lk_glass#dying_to.als.txt
-alias#lk_glass#gettbyv2.als.txt
-alias#lk_glass#jovial.als.txt
-alias#lk_glass#solitude.als.txt
-alias#lk_glass#watching.als.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 alivegas#gen_gap#co_sign.ali.txt
 alivegas#gen_gap#ganglife.ali.txt
 alivegas#rm_bside#critics.ali.txt
@@ -1722,11 +1665,6 @@ az_the_v#aziatic#rebirth.azv.txt
 az_the_v#aziatic#takecare.azv.txt
 az_the_v#aziatic#wanna_be.azv.txt
 az_the_v#decade#love_is.azv.txt
-<<<<<<< HEAD
-az_the_v#decade#sunshine.azv.txt
-az_the_v#decade#time.azv.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 az_the_v#doeordie#doeordie.azv.txt
 az_the_v#finalcll#livewire.azv.txt
 az_the_v#finalcll#lmk.azv.txt
@@ -1754,11 +1692,8 @@ az_the_v#piecesof#century.azv.txt
 az_the_v#piecesof#new_life.azv.txt
 az_the_v#piecesof#whatdeal.azv.txt
 az_the_v#piecesof#whatever.azv.txt
-<<<<<<< HEAD
-=======
 az_the_v#decade#sunshine.azv.txt
 az_the_v#decade#time.azv.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 az_under#subverse#blood_on.azt.txt
 az_under#subverse#killing.azt.txt
 az_under#subverse#lyrical.azt.txt
@@ -1963,29 +1898,17 @@ b_rhymes#year_of#tilwedie.brm.txt
 b_rhymes#year_of#wine_and.brm.txt
 b_ronald#b_ronald#1st_time.ron.txt
 b_smooch#smoochep#yourethe.smo.txt
-<<<<<<< HEAD
-baby#birdman#fly_away.brd.txt
-baby#birdman#gh_life.brd.txt
-baby#birdman#howitbe.brd.txt
-baby#birdman#itaintso.brd.txt
-=======
 baby#pricelss#4my_town.brd.txt
 baby#birdman#fly_away.brd.txt
 baby#birdman#gh_life.brd.txt
 baby#birdman#howitbe.brd.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 baby#birdman#ms_bird.brd.txt
 baby#birdman#on_rocks.brd.txt
 baby#birdman#spinnin.brd.txt
 baby#birdman#weather.brd.txt
 baby#birdman#what_hap.brd.txt
-<<<<<<< HEAD
-baby#pricelss#4my_town.brd.txt
-baby#rm_bside#wont_be.brd.txt
-=======
 baby#rm_bside#wont_be.brd.txt
 baby#birdman#itaintso.brd.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 baby_boy#across#rich_boy.boy.txt
 baby_d#lil_chop#getcrunk.bby.txt
 baby_d#lil_chop#slammin.bby.txt
@@ -2007,10 +1930,6 @@ babybash#cyclone#supachic.bsh.txt
 babybash#cyclone#thrill.bsh.txt
 babybash#cyclone#whatisit.bsh.txt
 babybash#lvcampis#my_life.bsh.txt
-<<<<<<< HEAD
-babybash#lvcampis#show_off.bsh.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 babybash#rm_bside#danceall.bsh.txt
 babybash#rm_bside#gogirlrd.bsh.txt
 babybash#rm_bside#good_for.bsh.txt
@@ -2038,11 +1957,8 @@ babybash#town#intro.bsh.txt
 babybash#town#kickrock.bsh.txt
 babybash#town#rc_ride.bsh.txt
 babybash#town#swana.bsh.txt
-<<<<<<< HEAD
-=======
 babybash#lvcampis#show_off.bsh.txt
 jay_tee#so_cold#shots_to.tee.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 babyblak#once_you#firewtr.blk.txt
 babyblak#once_you#so_many.blk.txt
 backbone#concrete#bel_that.bck.txt
@@ -2105,10 +2021,7 @@ badu#new_pt_2#umm_hmm.bdu.txt
 badu#new_pt_2#window.bdu.txt
 badu#new_pt_2#youlovin.bdu.txt
 badu#rm_bside#ye_yo.bdu.txt
-<<<<<<< HEAD
-=======
 misc#r_and_b#love_of.bdu.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 bangs#rm_bside#take_uto.bng.txt
 banksant#badass#badass.ant.txt
 banksant#badass#oakland.ant.txt
@@ -2331,22 +2244,10 @@ beastie#to_the_5#triple.bst.txt
 beastie#to_the_5#wegotthe.bst.txt
 beatnuts#beatnuts#getfunky.btn.txt
 beatnuts#beatnuts#intro.btn.txt
-<<<<<<< HEAD
-beatnuts#beatnuts#superbad.btn.txt
-beatnuts#intox#psycho.btn.txt
-beatnuts#intox#reigntec.btn.txt
-beatnuts#massacre#around.btn.txt
-beatnuts#massacre#clowns.btn.txt
-beatnuts#massacre#iloveit.btn.txt
-beatnuts#massacre#muchacha.btn.txt
-beatnuts#massacre#puffinon.btn.txt
-beatnuts#massacre#se_acabo.btn.txt
-=======
 beatnuts#intox#reigntec.btn.txt
 beatnuts#massacre#clowns.btn.txt
 beatnuts#massacre#iloveit.btn.txt
 beatnuts#massacre#puffinon.btn.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 beatnuts#massacre#watchout.btn.txt
 beatnuts#milk_me#hot.btn.txt
 beatnuts#rm_bside#acabormx.btn.txt
@@ -2357,11 +2258,6 @@ beatnuts#rm_bside#trouble.btn.txt
 beatnuts#rm_bside#turn_out.btn.txt
 beatnuts#rm_bside#wegotthe.btn.txt
 beatnuts#stone#believe.btn.txt
-<<<<<<< HEAD
-beatnuts#stone#findthat.btn.txt
-beatnuts#stone#offbooks.btn.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 beatnuts#take_it#contact.btn.txt
 beatnuts#take_it#dontwant.btn.txt
 beatnuts#take_it#gangsta.btn.txt
@@ -2371,8 +2267,6 @@ beatnuts#take_it#hd_thang.btn.txt
 beatnuts#take_it#noescape.btn.txt
 beatnuts#take_it#prendelo.btn.txt
 beatnuts#take_it#yo_yo_yo.btn.txt
-<<<<<<< HEAD
-=======
 beatnuts#beatnuts#superbad.btn.txt
 beatnuts#intox#psycho.btn.txt
 beatnuts#massacre#around.btn.txt
@@ -2380,7 +2274,6 @@ beatnuts#massacre#muchacha.btn.txt
 beatnuts#massacre#se_acabo.btn.txt
 beatnuts#stone#findthat.btn.txt
 beatnuts#stone#offbooks.btn.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 beelow#billions#big_body.bee.txt
 beelow#billions#swang.bee.txt
 beelow#billions#what_u.bee.txt
@@ -2420,11 +2313,8 @@ benzino#redempt#pullyour.ben.txt
 benzino#redempt#rock_the.ben.txt
 benzino#redempt#rosary.ben.txt
 benzino#redempt#wouldyou.ben.txt
-<<<<<<< HEAD
-=======
 misc#r_and_b#deja_vu.bey.txt
 misc#r_and_b#hh_star.bey.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 bg#allonuv2#clean_up.gee.txt
 bg#daghetto#bling.gee.txt
 bg#heart_v1#foolwith.gee.txt
@@ -2494,10 +2384,7 @@ big_boi#vicious#shoesfor.boi.txt
 big_boi#vicious#t_damage.boi.txt
 big_boi#vicious#thickets.boi.txt
 big_boi#vicious#thom_pet.boi.txt
-<<<<<<< HEAD
-=======
 outkast#rm_bside#oh_no.otk.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 big_ed#special#dontplay.bge.txt
 big_ed#special#getiton.bge.txt
 big_ed#special#h_busta.bge.txt
@@ -2586,10 +2473,7 @@ big_l#picture#triboro.bgl.txt
 big_l#picture#whoslide.bgl.txt
 big_l#rm_bside#devilson.bgl.txt
 big_l#rm_bside#school_d.bgl.txt
-<<<<<<< HEAD
-=======
 rap_comp#llounge2#still.ll2.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 big_mike#ascanbe#animal.bgm.txt
 big_mike#ascanbe#NO.bgm.txt
 big_mike#ascanbe#ride_on.bgm.txt
@@ -2713,15 +2597,6 @@ big_pun#capital#super_ly.pun.txt
 big_pun#capital#thedream.pun.txt
 big_pun#capital#triboro.pun.txt
 big_pun#capital#uncen.pun.txt
-<<<<<<< HEAD
-big_pun#species#brave_in.pun.txt
-big_pun#species#c_verses.pun.txt
-big_pun#species#mamma.pun.txt
-big_pun#species#my_world.pun.txt
-big_pun#species#we_roll.pun.txt
-big_pun#species#weroll98.pun.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 big_pun#species#wishful.pun.txt
 big_pun#y_baby#laughing.pun.txt
 big_pun#y_baby#my_dick.pun.txt
@@ -2734,15 +2609,12 @@ big_pun#y_baby#waswrong.pun.txt
 big_pun#y_baby#watch.pun.txt
 big_pun#y_baby#we_dont.pun.txt
 big_pun#y_baby#wrongone.pun.txt
-<<<<<<< HEAD
-=======
 big_pun#species#brave_in.pun.txt
 big_pun#species#c_verses.pun.txt
 big_pun#species#mamma.pun.txt
 big_pun#species#my_world.pun.txt
 big_pun#species#we_roll.pun.txt
 big_pun#species#weroll98.pun.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 big_qtrs#cost_of#lou_diam.qtr.txt
 big_qtrs#cost_of#song_for.qtr.txt
 big_sean#detroit#100.bsn.txt
@@ -2997,11 +2869,8 @@ bigpokey#mob4life#mobremix.pok.txt
 bigpokey#mob4life#smoke_n.pok.txt
 bigpokey#mob4life#welcome2.pok.txt
 bigpokey#mob4life#whatagdo.pok.txt
-<<<<<<< HEAD
-=======
 misc#r_and_b#fastlane.bil.txt
 misc#r_and_b#reminisc.bil.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 billcook#bstofbth#goingdwn.bil.txt
 billcook#bstofbth#shakedwn.bil.txt
 billcook#bstofbth#stpstunt.bil.txt
@@ -3504,11 +3373,8 @@ blkchild#rm_bside#prayer.bcd.txt
 block_mc#rm_bside#truelies.blk.txt
 bloodhnd#hooray#badtouch.gng.txt
 blu#amnesia#amnesia.blu.txt
-<<<<<<< HEAD
-=======
 bluexile#her_fav#amnesia.blu.txt
 bluexile#her_fav#wind.blu.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 bluescho#bayani#joemetro.blu.txt
 bluescho#bayani#morning.blu.txt
 bluescho#bayani#opening.blu.txt
@@ -3521,11 +3387,6 @@ bluescho#bluescho#no_rest.blu.txt
 bluescho#bluescho#selfport.blu.txt
 bluescho#bluescho#solstice.blu.txt
 bluescho#bluescho#the_ave.blu.txt
-<<<<<<< HEAD
-bluexile#her_fav#amnesia.blu.txt
-bluexile#her_fav#wind.blu.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 bluprint#1988#1988.blu.txt
 bluprint#1988#anything.blu.txt
 bluprint#1988#biggirls.blu.txt
@@ -3758,19 +3619,6 @@ bosshogg#season#soul_sur.hog.txt
 bosshogg#serve_c3#shut_yo.hog.txt
 bosshogg#serveand#back_to.hog.txt
 bosshogg#serveand#badge_on.hog.txt
-<<<<<<< HEAD
-bosshogg#serveand#cheating.hog.txt
-bosshogg#serveand#heatonmy.hog.txt
-bosshogg#serveand#i_gotta.hog.txt
-bosshogg#serveand#im_fresh.hog.txt
-bosshogg#serveand#ima_hogg.hog.txt
-bosshogg#serveand#its_that.hog.txt
-bosshogg#serveand#recplaya.hog.txt
-bosshogg#serveand#rollin.hog.txt
-bosshogg#serveand#straight.hog.txt
-bosshogg#serveand#this_is4.hog.txt
-bosshogg#serveand#wd_wheel.hog.txt
-=======
 bosshogg#serveand#heatonmy.hog.txt
 bosshogg#serveand#im_fresh.hog.txt
 bosshogg#serveand#rollin.hog.txt
@@ -3782,7 +3630,6 @@ bosshogg#serveand#its_that.hog.txt
 bosshogg#serveand#recplaya.hog.txt
 bosshogg#serveand#straight.hog.txt
 bosshogg#serveand#this_is4.hog.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 bosshogg#serveand#we_boss.hog.txt
 bossman#laworder#off_da.bos.txt
 bot_boys#thought#botanyis.bot.txt
@@ -4476,10 +4323,6 @@ c_note#networkn#suc.nte.txt
 c_note#networkn#uaintgot.nte.txt
 c_note#networkn#whatitiz.nte.txt
 c_note#st_fame#hold_pt2.nte.txt
-<<<<<<< HEAD
-c_note#st_fame#intro.nte.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 c_note#st_fame#k_ballin.nte.txt
 c_note#st_fame#knowwhat.nte.txt
 c_note#st_fame#onthesth.nte.txt
@@ -4488,10 +4331,7 @@ c_note#st_fame#rap_game.nte.txt
 c_note#st_fame#ridewith.nte.txt
 c_note#st_fame#right_or.nte.txt
 c_note#st_fame#wa_la.nte.txt
-<<<<<<< HEAD
-=======
 c_note#st_fame#intro.nte.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 c_rayz#ravipops#3_card.wlz.txt
 c_rayz#ravipops#86.wlz.txt
 c_rayz#ravipops#battleme.wlz.txt
@@ -4544,18 +4384,11 @@ cage#movies#stoney.cge.txt
 cage#movies#teenage.cge.txt
 cage#movies#too_much.cge.txt
 cage#rm_bside#balladof.cge.txt
-<<<<<<< HEAD
-cage#rm_bside#daydream.cge.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 cage#rm_bside#orange.cge.txt
 cage#rm_bside#suicidal.cge.txt
 cage#weather#people.cge.txt
 cage#weather#summerin.cge.txt
-<<<<<<< HEAD
-=======
 cage#rm_bside#daydream.cge.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 cal_crab#trading#eccl_318.cal.txt
 cal_crab#trading#ella_es.cal.txt
 cal_crab#trading#f_world.cal.txt
@@ -4657,10 +4490,6 @@ cam_ron#crimepay#where_i.cam.txt
 cam_ron#crimepay#who.cam.txt
 cam_ron#crimepay#woo_hoo.cam.txt
 cam_ron#crimepay#you_know.cam.txt
-<<<<<<< HEAD
-cam_ron#gunbutta#hey_muma.cam.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 cam_ron#k_season#do_remix.cam.txt
 cam_ron#k_season#getyagun.cam.txt
 cam_ron#k_season#girlscsh.cam.txt
@@ -4705,12 +4534,9 @@ cam_ron#sports#violence.cam.txt
 cam_ron#sports#whatever.cam.txt
 cam_ron#sports#where_im.cam.txt
 cam_ron#sports#whtmeans.cam.txt
-<<<<<<< HEAD
-=======
 diplomat#movement#war.dip.txt
 diplomat#movement#white_g.dip.txt
 cam_ron#gunbutta#hey_muma.cam.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 camoflau#strictly#cut.cam.txt
 camoflau#strictly#friends.cam.txt
 camp_lo#blackhol#g_lounge.cmp.txt
@@ -5501,10 +5327,7 @@ clsmooth#the_main#the_main.cls.txt
 clsmooth#the_main#theflesh.cls.txt
 clsmooth#the_main#thehouse.cls.txt
 clsmooth#the_main#wrldwide.cls.txt
-<<<<<<< HEAD
-=======
 peterock#soulsur2#appreci8.rck.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 cmw_mc8#music_to#n2deep.cmw.txt
 cmw_mc8#section8#hood_way.cmw.txt
 cmw_mc8#we_come#gangsta.cmw.txt
@@ -5546,10 +5369,7 @@ cnn#reunion#queens.cnn.txt
 cnn#reunion#straight.cnn.txt
 cnn#reunion#yalldont.cnn.txt
 cnn#rm_bside#reunion.cnn.txt
-<<<<<<< HEAD
-=======
 rap_comp#qbfinest#our_way.qbf.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 cocoa_bs#rdeawake#angelow.ccb.txt
 cocoa_bs#rdeawake#backlife.ccb.txt
 cocoa_bs#rdeawake#blktrump.ccb.txt
@@ -5612,10 +5432,6 @@ common#forever#the_game.cms.txt
 common#forever#u_black.cms.txt
 common#one_day#allnight.cms.txt
 common#one_day#foodfunk.cms.txt
-<<<<<<< HEAD
-common#one_day#for_life.cms.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 common#one_day#GOD.cms.txt
 common#one_day#hungry.cms.txt
 common#one_day#invoke.cms.txt
@@ -5626,18 +5442,10 @@ common#one_day#remind.cms.txt
 common#rm_bside#8minutes.cms.txt
 common#rm_bside#cc_remix.cms.txt
 common#rm_bside#dream.cms.txt
-<<<<<<< HEAD
-common#rm_bside#fullmoon.cms.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 common#rm_bside#high.cms.txt
 common#rm_bside#one_nine.cms.txt
 common#rm_bside#tekzilla.cms.txt
 common#rm_bside#the_food.cms.txt
-<<<<<<< HEAD
-common#universl#announce.cms.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 common#universl#everywhr.cms.txt
 common#universl#gladi8tr.cms.txt
 common#universl#mcontrol.cms.txt
@@ -5656,12 +5464,9 @@ common#water#popsrap3.cms.txt
 common#water#question.cms.txt
 common#water#thelight.cms.txt
 common#water#travel.cms.txt
-<<<<<<< HEAD
-=======
 common#one_day#for_life.cms.txt
 common#rm_bside#fullmoon.cms.txt
 common#universl#announce.cms.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 comp#rm_bside#dsumptin.cmp.txt
 companyf#funcrush#89_9.flw.txt
 companyf#funcrush#8_steps.flw.txt
@@ -5908,10 +5713,6 @@ coup_the#landlord#iknowyou.cou.txt
 coup_the#landlord#landlord.cou.txt
 coup_the#landlord#not_free.cou.txt
 coup_the#landlord#the_coup.cou.txt
-<<<<<<< HEAD
-coup_the#p_music#every.cou.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 coup_the#p_music#get_up.cou.txt
 coup_the#p_music#ghetto_m.cou.txt
 coup_the#p_music#heven.cou.txt
@@ -5958,10 +5759,7 @@ coup_the#steal#swervin.cou.txt
 coup_the#steal#UCPAS.cou.txt
 coup_the#steal#underdog.cou.txt
 coup_the#steal#whathate.cou.txt
-<<<<<<< HEAD
-=======
 coup_the#p_music#every.cou.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 cowbtroy#loco_mot#aint_brk.cbt.txt
 cowbtroy#loco_mot#automatc.cbt.txt
 cowbtroy#loco_mot#beast_on.cbt.txt
@@ -5982,10 +5780,7 @@ cpywrite#the_high#onmydick.cop.txt
 cpywrite#the_high#theme.cop.txt
 cpywrite#the_high#tower_of.cop.txt
 creators#weight#h_margin.cre.txt
-<<<<<<< HEAD
-=======
 kreators#rm_bside#home.kre.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 crimebss#all_game#bigchief.bss.txt
 crimemob#crimemob#digginme.mob.txt
 crimemob#crimemob#ellenwd.mob.txt
@@ -6135,18 +5930,11 @@ currensy#pilottlk#the_day.cur.txt
 curtains#rm_bside#problems.cur.txt
 cwhustle#ice_land#cldworld.cwh.txt
 cwhustle#ice_land#day_hell.cwh.txt
-<<<<<<< HEAD
-cwhustle#ice_land#dfspirit.cwh.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 cwhustle#ice_land#everyday.cwh.txt
 cwhustle#ice_land#nasty_95.cwh.txt
 cwhustle#ice_land#run_fast.cwh.txt
 cwhustle#ice_land#s_doinit.cwh.txt
-<<<<<<< HEAD
-=======
 cwhustle#ice_land#dfspirit.cwh.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 cyne#evofight#arrowgod.cyn.txt
 cyne#evofight#deferred.cyn.txt
 cyne#evofight#growing.cyn.txt
@@ -6283,15 +6071,12 @@ cypress#unandre#int_dons.cyp.txt
 cypress#unandre#ll_paul.cyp.txt
 cypress#unandre#whatta.cyp.txt
 cyssero#protege#intro.cys.txt
-<<<<<<< HEAD
-=======
 gorillaz#demonday#feelgood.gor.txt
 gorillaz#demonday#november.gor.txt
 gorillaz#p_beach#stylo.gor.txt
 gorillaz#p_beach#superfst.gor.txt
 gorillaz#p_beach#sweepsta.gor.txt
 gorillaz#p_beach#welcome2.gor.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 d4l#down_for#betcha.d4l.txt
 d4l#down_for#digginme.d4l.txt
 d4l#down_for#doitlike.d4l.txt
@@ -6400,19 +6185,6 @@ d_venoms#pr_thugs#youdothe.ven.txt
 da_band#too_hot#bbt_bbt.bnd.txt
 da_band#too_hot#cheersto.bnd.txt
 da_band#too_hot#chopped.bnd.txt
-<<<<<<< HEAD
-da_band#too_hot#doyuknow.bnd.txt
-da_band#too_hot#gosteady.bnd.txt
-da_band#too_hot#hold_me.bnd.txt
-da_band#too_hot#howulike.bnd.txt
-da_band#too_hot#i_like.bnd.txt
-da_band#too_hot#llegends.bnd.txt
-da_band#too_hot#my_life.bnd.txt
-da_band#too_hot#stick_up.bnd.txt
-da_band#too_hot#theyknow.bnd.txt
-da_band#too_hot#tonight.bnd.txt
-da_band#too_hot#we_gonna.bnd.txt
-=======
 da_band#too_hot#gosteady.bnd.txt
 da_band#too_hot#howulike.bnd.txt
 da_band#too_hot#llegends.bnd.txt
@@ -6424,7 +6196,6 @@ da_band#too_hot#i_like.bnd.txt
 da_band#too_hot#my_life.bnd.txt
 da_band#too_hot#theyknow.bnd.txt
 da_band#too_hot#tonight.bnd.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 da_beat#brace_4#antilove.dab.txt
 da_beat#brace_4#best_at.dab.txt
 da_beat#brace_4#drama.dab.txt
@@ -6581,10 +6352,6 @@ dan_e_o#seenoevl#weandyou.dan.txt
 danny#andilove#after_lv.dan.txt
 danny#andilove#at_what.dan.txt
 danny#andilove#do_you.dan.txt
-<<<<<<< HEAD
-danny#andilove#dontknow.dan.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 danny#andilove#groove.dan.txt
 danny#andilove#guesswho.dan.txt
 danny#andilove#intermis.dan.txt
@@ -6693,10 +6460,7 @@ danny#where_is#tattered.dan.txt
 danny#where_is#theme_to.dan.txt
 danny#where_is#wake_the.dan.txt
 danny#where_is#walrus.dan.txt
-<<<<<<< HEAD
-=======
 danny#andilove#dontknow.dan.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 daplayaz#100_cert#lettinem.dnp.txt
 daplayaz#100_cert#steppin.dnp.txt
 dappy#b_intent#allornot.dap.txt
@@ -6771,10 +6535,6 @@ daz#dpg_lp#my_mama.daz.txt
 daz#dpg_lp#thatsway.daz.txt
 daz#dpgc_ukw#2_mayhem.daz.txt
 daz#dpgc_ukw#allnight.daz.txt
-<<<<<<< HEAD
-daz#dpgc_ukw#d_catcha.daz.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 daz#dpgc_ukw#dat_fire.daz.txt
 daz#dpgc_ukw#dontstop.daz.txt
 daz#dpgc_ukw#dpgc_ukw.daz.txt
@@ -6808,31 +6568,19 @@ daz#retalrev#retalrev.daz.txt
 daz#retalrev#ridinhgh.daz.txt
 daz#retalrev#thankgod.daz.txt
 daz#sosogang#allineed.daz.txt
-<<<<<<< HEAD
-daz#sosogang#badder.daz.txt
-daz#sosogang#dpg_life.daz.txt
-daz#sosogang#money_on.daz.txt
-daz#sosogang#strizap.daz.txt
-daz#sosogang#thang_on.daz.txt
-daz#sosogang#weekend.daz.txt
-=======
 daz#sosogang#dpg_life.daz.txt
 daz#sosogang#money_on.daz.txt
 daz#sosogang#thang_on.daz.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 daz#thislife#drama.daz.txt
 daz#thislife#k_i_g.daz.txt
 daz#thislife#load_up.daz.txt
 daz#thislife#that_day.daz.txt
 daz#thislife#thislife.daz.txt
 daz#thislife#wedothis.daz.txt
-<<<<<<< HEAD
-=======
 daz#dpgc_ukw#d_catcha.daz.txt
 daz#sosogang#badder.daz.txt
 daz#sosogang#strizap.daz.txt
 daz#sosogang#weekend.daz.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 db_grace#crumbs#comeride.dbg.txt
 db_grace#crumbs#one_luv.dbg.txt
 db_grace#crumbs#tobricks.dbg.txt
@@ -6945,10 +6693,7 @@ defari#odds_and#stay_bub.def.txt
 defari#odds_and#take_the.def.txt
 defari#rm_bside#bombtree.def.txt
 defari#rm_bside#just_biz.def.txt
-<<<<<<< HEAD
-=======
 rap_comp#ec_star2#lookinto.ec2.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 defsquad#el_nino#check_n.def.txt
 defsquad#el_nino#countdwn.def.txt
 defsquad#el_nino#full.def.txt
@@ -7005,15 +6750,12 @@ delasoul#mission1#yougotit.dls.txt
 delasoul#rm_bside#chanelno.dls.txt
 delasoul#rm_bside#la_la_la.dls.txt
 delasoul#rm_bside#u_know.dls.txt
-<<<<<<< HEAD
-=======
 pr_paul#politics#business.pau.txt
 pr_paul#politics#dr_queen.pau.txt
 pr_paul#thieves#men_blue.pau.txt
 pr_paul#thieves#mr_large.pau.txt
 pr_paul#thieves#weapon.pau.txt
 pr_paul#thieves#yourtime.pau.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 delhabit#delhabit#be_like.dlh.txt
 delhabit#delhabit#eastside.dlh.txt
 delhabit#delhabit#times.dlh.txt
@@ -7140,18 +6882,11 @@ dggpound#rm_bside#4_life.dpg.txt
 dggpound#rm_bside#i_wish.dpg.txt
 dggpound#rm_bside#pimpin.dpg.txt
 dggpound#rm_bside#whtwould.dpg.txt
-<<<<<<< HEAD
-dggpound#rm_bside#world.dpg.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 dggpound#that_was#how_west.dpg.txt
 dggpound#that_was#liqstore.dpg.txt
 dggpound#that_was#no_mo_po.dpg.txt
 dggpound#that_was#that_was.dpg.txt
-<<<<<<< HEAD
-=======
 dggpound#rm_bside#world.dpg.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 dh_ofhip#luxury#drug.dhh.txt
 dh_ofhip#luxury#famous.dhh.txt
 dh_ofhip#luxury#musicand.dhh.txt
@@ -7163,24 +6898,14 @@ diamond#hatred#hiatus.ddd.txt
 diamond#hatred#k_t.ddd.txt
 diamond#hatred#never.ddd.txt
 diamond#hatred#this_one.ddd.txt
-<<<<<<< HEAD
-=======
 diamond#hugh_hef#intro.dia.txt
 diamond#rm_bside#it_pours.ddd.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 diamond#hugh_hef#bad_good.dia.txt
 diamond#hugh_hef#DIAMOND.dia.txt
 diamond#hugh_hef#get_up.dia.txt
 diamond#hugh_hef#i_getzit.dia.txt
-<<<<<<< HEAD
-diamond#hugh_hef#intro.dia.txt
 diamond#hugh_hef#iwnleave.dia.txt
 diamond#hugh_hef#u_cantbe.dia.txt
-diamond#rm_bside#it_pours.ddd.txt
-=======
-diamond#hugh_hef#iwnleave.dia.txt
-diamond#hugh_hef#u_cantbe.dia.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 diamond#rm_bside#the_omen.ddd.txt
 diamond#stunts#a_day.ddd.txt
 diamond#stunts#checkone.ddd.txt
@@ -7350,11 +7075,6 @@ diplomat#morethan#music.dip.txt
 diplomat#morethan#no_days.dip.txt
 diplomat#morethan#sogngsta.dip.txt
 diplomat#morethan#the_pit.dip.txt
-<<<<<<< HEAD
-diplomat#movement#war.dip.txt
-diplomat#movement#white_g.dip.txt
-diplomat#movement#worried.dip.txt
-=======
 jrwriter#history#byrdcall.jrw.txt
 jrwriter#history#diplomat.jrw.txt
 jrwriter#history#goonies.jrw.txt
@@ -7365,7 +7085,6 @@ jrwriter#history#putyouon.jrw.txt
 jrwriter#history#stomp.jrw.txt
 jrwriter#history#tkenotes.jrw.txt
 jrwriter#history#zoolandr.jrw.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 dirtbag#rm_bside#herewego.bag.txt
 dirty#countryv#d_niggaz.drt.txt
 dirty#countryv#dirtyluv.drt.txt
@@ -7414,66 +7133,6 @@ disturb#golden_g#rpm.dtp.txt
 disturb#golden_g#smokin.dtp.txt
 disturb#golden_g#touchdwn.dtp.txt
 disturb#presents#dtp_life.dtp.txt
-<<<<<<< HEAD
-disturb#presents#georgia.dtp.txt
-disturb#presents#get_some.dtp.txt
-disturb#presents#hour_rmx.dtp.txt
-disturb#presents#sweetrev.dtp.txt
-division#rm_bside#warzone.div.txt
-dizzee_r#b_corner#brandnew.diz.txt
-dizzee_r#b_corner#cutemoff.diz.txt
-dizzee_r#b_corner#do_it.diz.txt
-dizzee_r#b_corner#fix_up.diz.txt
-dizzee_r#b_corner#i_luv_u.diz.txt
-dizzee_r#b_corner#jarascal.diz.txt
-dizzee_r#b_corner#jezebel.diz.txt
-dizzee_r#b_corner#sittin.diz.txt
-dizzee_r#mathsand#bubbles.diz.txt
-dizzee_r#mathsand#dafeelin.diz.txt
-dizzee_r#mathsand#excuseme.diz.txt
-dizzee_r#mathsand#flex.diz.txt
-dizzee_r#mathsand#paranoid.diz.txt
-dizzee_r#mathsand#pussyole.diz.txt
-dizzee_r#mathsand#sirens.diz.txt
-dizzee_r#mathsand#sukmydck.diz.txt
-dizzee_r#mathsand#temptatn.diz.txt
-dizzee_r#mathsand#u_cant.diz.txt
-dizzee_r#mathsand#wanna_be.diz.txt
-dizzee_r#mathsand#where_da.diz.txt
-dizzee_r#mathsand#worldout.diz.txt
-dizzee_r#showtime#dream.diz.txt
-dizzee_r#showtime#flyin.diz.txt
-dizzee_r#showtime#imagine.diz.txt
-dizzee_r#showtime#stand_up.diz.txt
-dj_babu#duckvol3#unexpect.bab.txt
-dj_clay#ltbleed3#letsride.cly.txt
-dj_clue#the_pro#control.clu.txt
-dj_clue#the_pro#fan_four.clu.txt
-dj_clue#the_pro#finest.clu.txt
-dj_clue#the_pro#its_on.clu.txt
-dj_clue#the_pro#no_love.clu.txt
-dj_clue#the_pro#the_pro.clu.txt
-dj_clue#the_pro#whatever.clu.txt
-dj_clue#the_pro2#chinatwn.clu.txt
-dj_clue#the_pro2#cream2k1.clu.txt
-dj_clue#the_pro2#dontcare.clu.txt
-dj_clue#the_pro2#fanfour2.clu.txt
-dj_clue#the_pro2#getting.clu.txt
-dj_clue#the_pro2#jyzstyle.clu.txt
-dj_clue#the_pro2#livefrom.clu.txt
-dj_clue#the_pro2#queens.clu.txt
-dj_clue#the_pro2#red.clu.txt
-dj_clue#the_pro2#so_hot.clu.txt
-dj_clue#the_pro2#the_beat.clu.txt
-dj_clue#the_pro2#whosnext.clu.txt
-dj_clue#the_pro3#i_really.clu.txt
-dj_clue#the_pro3#likethis.clu.txt
-dj_clue#the_pro3#uglythug.clu.txt
-dj_clue#the_pro3#war.clu.txt
-dj_cosm#time_and#b_world.csm.txt
-dj_cosm#time_and#connectd.csm.txt
-dj_cosm#time_and#cosmmega.csm.txt
-=======
 disturb#presents#hour_rmx.dtp.txt
 disturb#presents#sweetrev.dtp.txt
 ludacris#back_for#catch_up.crs.txt
@@ -7639,7 +7298,6 @@ dj_clue#the_pro3#war.clu.txt
 dj_cosm#time_and#b_world.csm.txt
 dj_cosm#time_and#connectd.csm.txt
 dj_cosm#time_and#cosmmega.csm.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 dj_cosm#time_and#daythats.csm.txt
 dj_cosm#time_and#hi.csm.txt
 dj_cosm#time_and#learnfrm.csm.txt
@@ -7650,10 +7308,6 @@ dj_crazy#ct_exp#g_shit.too.txt
 dj_crazy#ct_exp#rollonem.too.txt
 dj_dmd#33#mr_25_8.dmd.txt
 dj_drama#3rdpower#undercov.djd.txt
-<<<<<<< HEAD
-dj_drama#dedicat3#stuntin.djd.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 dj_drama#grillzlp#beneath.djd.txt
 dj_drama#grillzlp#daydream.djd.txt
 dj_drama#grillzlp#keepgang.djd.txt
@@ -7664,20 +7318,13 @@ dj_drama#grillzlp#sweat.djd.txt
 dj_drama#grillzlp#talkbout.djd.txt
 dj_drama#grillzlp#throw_ya.djd.txt
 dj_drama#grillzlp#wemustbe.djd.txt
-<<<<<<< HEAD
-=======
 dj_drama#rm_bside#fdstakin.djd.txt
 dj_drama#dedicat3#stuntin.djd.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 dj_drama#quality#goindown.djd.txt
 dj_drama#quality#mymoment.djd.txt
 dj_drama#quality#neverdie.djd.txt
 dj_drama#quality#same_ol.djd.txt
 dj_drama#quality#weinthis.djd.txt
-<<<<<<< HEAD
-dj_drama#rm_bside#fdstakin.djd.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 dj_envy#blokvol1#d_block.nvy.txt
 dj_envy#blokvol1#deeper.nvy.txt
 dj_envy#blokvol1#gtaudio.nvy.txt
@@ -7707,10 +7354,7 @@ dj_jazzy#the_mag#welivein.djj.txt
 dj_jazzy#the_mag#worldwde.djj.txt
 dj_jimi#its_jimi#bitches.jim.txt
 dj_jimi#its_jimi#where_at.jim.txt
-<<<<<<< HEAD
-=======
 juven#rm_bside#bounce.juv.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 dj_js1#no_one#boomslap.js1.txt
 dj_js1#no_one#howthink.js1.txt
 dj_js1#no_one#last2knw.js1.txt
@@ -7771,13 +7415,8 @@ dj_rev#king_of#blow_da.rev.txt
 dj_rev#king_of#fnkpiano.rev.txt
 dj_rev#king_of#man_or.rev.txt
 dj_rev#king_of#pros_and.rev.txt
-<<<<<<< HEAD
-dj_rev#king_of#the_dj.rev.txt
-dj_rev#king_of#thedecks.rev.txt
-=======
 dj_rev#king_of#thedecks.rev.txt
 dj_rev#king_of#the_dj.rev.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 dj_screw#legend#inthehse.skr.txt
 dj_screw#legend#legend.skr.txt
 dj_screw#soldiers#4mynigga.skr.txt
@@ -7920,11 +7559,8 @@ dmx#yotd_agn#personal.dmx.txt
 dmx#yotd_agn#prayer_6.dmx.txt
 dmx#yotd_agn#weinhere.dmx.txt
 dmx#yotd_agn#wrong_or.dmx.txt
-<<<<<<< HEAD
-=======
 rap_comp#ruff2011#get_your.rrc.txt
 rap_comp#ruffryd3#friendof.rrc.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 do_ordie#back_2#s_appeal.dod.txt
 do_ordie#get_that#get_this.dod.txt
 do_ordie#get_that#hey_ma.dod.txt
@@ -7967,15 +7603,6 @@ doc#helter#secret.thd.txt
 doc#no_one#deadly.thd.txt
 doc#no_one#docanddr.thd.txt
 doc#no_one#finale.thd.txt
-<<<<<<< HEAD
-doc#no_one#formula.thd.txt
-doc#no_one#itsfunky.thd.txt
-doc#no_one#lend_ear.thd.txt
-doc#no_one#let_bass.thd.txt
-doc#no_one#mindblow.thd.txt
-doc#no_one#no_one.thd.txt
-doc#no_one#pyramid.thd.txt
-=======
 doc#no_one#itsfunky.thd.txt
 doc#no_one#lend_ear.thd.txt
 doc#no_one#mindblow.thd.txt
@@ -7983,7 +7610,6 @@ doc#no_one#no_one.thd.txt
 doc#no_one#pyramid.thd.txt
 doc#no_one#formula.thd.txt
 doc#no_one#let_bass.thd.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 dojaclik#speed#bubble.doj.txt
 dojaclik#speed#fullscam.doj.txt
 dojaclik#speed#stack_yo.doj.txt
@@ -8127,18 +7753,9 @@ dpspace5#thenight#stickths.ds5.txt
 dpspace5#thenight#wecalled.ds5.txt
 dpuddled#whykneel#ceiling.dpd.txt
 dpuddled#whykneel#wtwt_are.dpd.txt
-<<<<<<< HEAD
-dr_dooom#served#apart223.doo.txt
-dr_dre#aftermth#beendone.dre.txt
-dr_dre#aftermth#blunt.dre.txt
-dr_dre#aftermth#gtmeopen.dre.txt
-dr_dre#aftermth#please.dre.txt
-dr_dre#aftermth#sxydance.dre.txt
-=======
 rap_comp#anticon#rainmen.ant.txt
 dr_dooom#served#apart223.doo.txt
 dr_dre#aftermth#beendone.dre.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 dr_dre#chronic#a_nigga.dre.txt
 dr_dre#chronic#bitches.dre.txt
 dr_dre#chronic#deeez.dre.txt
@@ -8173,13 +7790,10 @@ dr_dre#theC2001#stilldre.dre.txt
 dr_dre#theC2001#watcher.dre.txt
 dr_dre#theC2001#whatsthe.dre.txt
 dr_dre#theC2001#xplosive.dre.txt
-<<<<<<< HEAD
-=======
 dr_dre#aftermth#blunt.dre.txt
 dr_dre#aftermth#gtmeopen.dre.txt
 dr_dre#aftermth#please.dre.txt
 dr_dre#aftermth#sxydance.dre.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 dr_oct#octagon#blue_rev.dro.txt
 dr_oct#octagon#destruct.dro.txt
 dr_oct#octagon#surgery.dro.txt
@@ -8218,19 +7832,12 @@ drag_on#rm_bside#da_chain.drg.txt
 drag_on#rm_bside#fireman.drg.txt
 drag_on#rm_bside#getiton.drg.txt
 drag_on#rm_bside#put_your.drg.txt
-<<<<<<< HEAD
-=======
 drake#so_far#little.drk.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 drake#rm_bside#ransom.drk.txt
 drake#so_far#best_had.drk.txt
 drake#so_far#calm.drk.txt
 drake#so_far#fear.drk.txt
 drake#so_far#imgoinin.drk.txt
-<<<<<<< HEAD
-drake#so_far#little.drk.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 drake#so_far#success.drk.txt
 drake#so_far#uptown.drk.txt
 drake#takecare#b_alive.drk.txt
@@ -8255,10 +7862,6 @@ drake#takecare#ugk.drk.txt
 drake#takecare#webefine.drk.txt
 drake#thank_me#9am_dall.drk.txt
 drake#thank_me#cece_int.drk.txt
-<<<<<<< HEAD
-drake#thank_me#fancy.drk.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 drake#thank_me#findlove.drk.txt
 drake#thank_me#firework.drk.txt
 drake#thank_me#karaoke.drk.txt
@@ -8273,10 +7876,7 @@ drake#thank_me#unforget.drk.txt
 drake#thank_me#up_night.drk.txt
 drake#youngswt#dotitall.drk.txt
 drake#youngswt#parismor.drk.txt
-<<<<<<< HEAD
-=======
 drake#thank_me#fancy.drk.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 drake#youngswt#rightabv.drk.txt
 drake#youngswt#to_floor.drk.txt
 drapht#brogrimm#dreams.dra.txt
@@ -8600,10 +8200,7 @@ e40#revenue#rickrock.e40.txt
 e40#revenue#server.e40.txt
 e40#revenue#turn_up.e40.txt
 e40#rm_bside#tell_rmx.e40.txt
-<<<<<<< HEAD
-=======
 rap_comp#wcbbvol3#sick.wst.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 e_money#we_trust#friendof.bag.txt
 e_money#we_trust#thugged.bag.txt
 e_train#wrath_of#a_aboard.trn.txt
@@ -8942,14 +8539,11 @@ eminem#the_show#square.mnm.txt
 eminem#the_show#superman.mnm.txt
 eminem#the_show#when_the.mnm.txt
 eminem#the_show#without.mnm.txt
-<<<<<<< HEAD
-=======
 kay_slay#streetv1#eminem.kay.txt
 rap_comp#the_reup#jimmycrn.rup.txt
 rap_comp#the_reup#shakermx.rup.txt
 rap_comp#the_reup#the_reup.rup.txt
 rap_comp#the_reup#wereback.rup.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 encore#rm_bside#filthy.enc.txt
 envelope#anthems#be_your.env.txt
 epidemic#illspree#730.epi.txt
@@ -9044,10 +8638,6 @@ esg#american#cst2cst.esg.txt
 esg#american#d_hustle.esg.txt
 esg#american#esg.esg.txt
 esg#american#gangsta.esg.txt
-<<<<<<< HEAD
-esg#american#getting.esg.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 esg#american#inmycad.esg.txt
 esg#american#s_strong.esg.txt
 esg#american#snakenda.esg.txt
@@ -9098,10 +8688,7 @@ esg#shinin#gangsta.esg.txt
 esg#shinin#realist.esg.txt
 esg#shinin#respon.esg.txt
 esg#shinin#where_da.esg.txt
-<<<<<<< HEAD
-=======
 esg#american#getting.esg.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 esham#a1_yola#bolivia.esh.txt
 esham#a1_yola#sinceday.esh.txt
 esham#a1_yola#wicket.esh.txt
@@ -9245,10 +8832,6 @@ eve#firstldy#enemies.eve.txt
 eve#firstldy#heaven.eve.txt
 eve#firstldy#is_blind.eve.txt
 eve#firstldy#letstalk.eve.txt
-<<<<<<< HEAD
-eve#firstldy#maniac.eve.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 eve#firstldy#no_dough.eve.txt
 eve#firstldy#philly.eve.txt
 eve#firstldy#stuck_up.eve.txt
@@ -9285,10 +8868,7 @@ eve#scorpion#thug_in.eve.txt
 eve#scorpion#whatitis.eve.txt
 eve#scorpion#you_aint.eve.txt
 eve#scorpion#youhadme.eve.txt
-<<<<<<< HEAD
-=======
 eve#firstldy#maniac.eve.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 everlast#eat_at#blkjesus.evr.txt
 everlast#eat_at#cantmove.evr.txt
 everlast#eat_at#children.evr.txt
@@ -9307,10 +8887,6 @@ everlast#forever#n_missin.evr.txt
 everlast#forever#on_edge.evr.txt
 everlast#forever#passiton.evr.txt
 everlast#forever#rhythm.evr.txt
-<<<<<<< HEAD
-everlast#forever#speak_no.evr.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 everlast#forever#synremix.evr.txt
 everlast#forever#theknack.evr.txt
 everlast#forever#what_is.evr.txt
@@ -9371,10 +8947,7 @@ everlast#wtb#thiskind.evr.txt
 everlast#wtb#ticking.evr.txt
 everlast#wtb#warning.evr.txt
 everlast#wtb#wh_trash.evr.txt
-<<<<<<< HEAD
-=======
 everlast#forever#speak_no.evr.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 evidence#catsdogs#epilogue.evi.txt
 evidence#catsdogs#fame.evi.txt
 evidence#catsdogs#godbless.evi.txt
@@ -9630,12 +9203,6 @@ fat_joe#rep#the_shit.fat.txt
 fat_joe#rep#thesound.fat.txt
 fat_joe#rm_bside#c2g.fat.txt
 fat_joe#rm_bside#hustlin.fat.txt
-<<<<<<< HEAD
-fieldmob#pinetree#smilin.mob.txt
-fieldmob#tharoota#alliknow.mob.txt
-fieldmob#tharoota#haters.mob.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 fiend#1inevery#got_fire.fie.txt
 firm_the#the_firm#5minutes.frm.txt
 firm_the#the_firm#desperad.frm.txt
@@ -9665,10 +9232,6 @@ flo_rida#mail_on#mnyright.flo.txt
 flo_rida#only_one#whyyouup.flo.txt
 flo_rida#wildones#run.flo.txt
 foreignx#authentc#allroads.fex.txt
-<<<<<<< HEAD
-foreignx#authentc#auth.fex.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 foreignx#authentc#dontwait.fex.txt
 foreignx#authentc#e_mustgo.fex.txt
 foreignx#authentc#eyes_sky.fex.txt
@@ -9680,10 +9243,6 @@ foreignx#authentc#maybeshe.fex.txt
 foreignx#connectd#answer.fex.txt
 foreignx#connectd#atya.fex.txt
 foreignx#connectd#balright.fex.txt
-<<<<<<< HEAD
-foreignx#connectd#bravenew.fex.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 foreignx#connectd#c_around.fex.txt
 foreignx#connectd#call.fex.txt
 foreignx#connectd#down_rmx.fex.txt
@@ -9707,11 +9266,8 @@ foreignx#leave_it#sweeter.fex.txt
 foreignx#leave_it#take_off.fex.txt
 foreignx#leave_it#tobehold.fex.txt
 foreignx#leave_it#valedict.fex.txt
-<<<<<<< HEAD
-=======
 foreignx#authentc#auth.fex.txt
 foreignx#connectd#bravenew.fex.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 foxbrown#broken#730.fox.txt
 foxbrown#broken#boogie.fox.txt
 foxbrown#broken#bout_my.fox.txt
@@ -9872,10 +9428,7 @@ funkflex#mix_vol_4#intro.flx.txt
 funkflex#mix_vol_4#the_hate.flx.txt
 funkflex#mix_vol_4#what_son.flx.txt
 funkflex#rm_bside#nuttin.flx.txt
-<<<<<<< HEAD
-=======
 misc#hip-hop#tudunn.fst.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 fuschnck#fu_dont#schmoove.fus.txt
 future#a_status#blow.fut.txt
 future#a_status#jordiddy.fut.txt
@@ -9887,41 +9440,6 @@ g_dep#child_of#ghetto.dep.txt
 g_dep#child_of#i_am.dep.txt
 g_dep#child_of#lets_get.dep.txt
 g_dep#child_of#smash_on.dep.txt
-<<<<<<< HEAD
-g_unit#begmercy#begmercy.unt.txt
-g_unit#begmercy#bettaask.unt.txt
-g_unit#begmercy#eye_for.unt.txt
-g_unit#begmercy#footprin.unt.txt
-g_unit#begmercy#g_unit.unt.txt
-g_unit#begmercy#gangshit.unt.txt
-g_unit#begmercy#gd_up.unt.txt
-g_unit#begmercy#groupie.unt.txt
-g_unit#begmercy#imsohood.unt.txt
-g_unit#begmercy#lay_down.unt.txt
-g_unit#begmercy#my_buddy.unt.txt
-g_unit#begmercy#poppin.unt.txt
-g_unit#begmercy#salute_u.unt.txt
-g_unit#begmercy#smile.unt.txt
-g_unit#begmercy#stunt101.unt.txt
-g_unit#begmercy#wannaget.unt.txt
-g_unit#rm_bside#gunzsale.unt.txt
-g_unit#rm_bside#uncon.unt.txt
-g_unit#termin8e#c_of_war.unt.txt
-g_unit#termin8e#close_to.unt.txt
-g_unit#termin8e#get_down.unt.txt
-g_unit#termin8e#ilikethe.unt.txt
-g_unit#termin8e#kittykat.unt.txt
-g_unit#termin8e#letitgo.unt.txt
-g_unit#termin8e#moneymke.unt.txt
-g_unit#termin8e#no_days.unt.txt
-g_unit#termin8e#party.unt.txt
-g_unit#termin8e#pianoman.unt.txt
-g_unit#termin8e#ready_or.unt.txt
-g_unit#termin8e#straight.unt.txt
-g_unit#termin8e#TOS.unt.txt
-g_unit#termin8e#youtough.unt.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 gangstab#enquire#be_real.boo.txt
 gangstab#enquire#dollasat.boo.txt
 gangstab#enquire#fuck_you.boo.txt
@@ -9932,10 +9450,7 @@ gclinton#computer#loopzill.cli.txt
 gclinton#computer#mansbest.cli.txt
 gclinton#greatest#atomicrm.cli.txt
 gclinton#greatest#knee_mid.cli.txt
-<<<<<<< HEAD
-=======
 misc#hip-hop#flsh_gmm.gcc.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 gdfather#diabol#voices.god.txt
 geronimo#natural#to_build.mcg.txt
 geronimo#rm_bside#suspects.mcg.txt
@@ -10168,10 +9683,7 @@ ghfkilla#wizard#paralove.ghf.txt
 ghfkilla#wizard#sakillah.ghf.txt
 ghfkilla#wizard#stapesex.ghf.txt
 ghfkilla#wizard#stay.ghf.txt
-<<<<<<< HEAD
-=======
 rap_comp#djamaica#g_callin.jam.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 glc#rm_bside#b_screen.glc.txt
 gnarls_b#odd_coup#a_little.gna.txt
 gnarls_b#odd_coup#blindmry.gna.txt
@@ -10276,16 +9788,7 @@ goodie#world#street.gmb.txt
 goodie#world#the_dip.gmb.txt
 goodie#world#whataint.gmb.txt
 goodie#world#world.gmb.txt
-<<<<<<< HEAD
-gorillaz#demonday#feelgood.gor.txt
-gorillaz#demonday#november.gor.txt
-gorillaz#p_beach#stylo.gor.txt
-gorillaz#p_beach#superfst.gor.txt
-gorillaz#p_beach#sweepsta.gor.txt
-gorillaz#p_beach#welcome2.gor.txt
-=======
 rap_comp#p_ribbon#hold_on.prp.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 gr_puba#2000#2000.gpm.txt
 gr_puba#2000#a_little.gpm.txt
 gr_puba#2000#amazing.gpm.txt
@@ -10448,14 +9951,6 @@ gymclass#as_cruel#sjingle2.gym.txt
 gymclass#as_cruel#sjingle3.gym.txt
 gymclass#as_cruel#thequeen.gym.txt
 gymclass#as_cruel#viva_la.gym.txt
-<<<<<<< HEAD
-gymclass#lazarus#billion.gym.txt
-gymclass#lazarus#critical.gym.txt
-gymclass#lazarus#dpretend.gym.txt
-gymclass#lazarus#dr_feel.gym.txt
-gymclass#lazarus#manual.gym.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 gymclass#paperct2#fighter.gym.txt
 gymclass#paperct2#holyshit.gym.txt
 gymclass#paperct2#kdnothin.gym.txt
@@ -10493,16 +9988,12 @@ gymclass#thequilt#live_for.gym.txt
 gymclass#thequilt#livealil.gym.txt
 gymclass#thequilt#no_place.gym.txt
 gymclass#thequilt#peacesgn.gym.txt
-<<<<<<< HEAD
-gza#beneath#1112.gza.txt
-=======
 gymclass#lazarus#billion.gym.txt
 gymclass#lazarus#critical.gym.txt
 gymclass#lazarus#dpretend.gym.txt
 gymclass#lazarus#dr_feel.gym.txt
 gymclass#lazarus#manual.gym.txt
 gza#beneath#1112.gza.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 gza#beneath#beneath.gza.txt
 gza#beneath#feellike.gza.txt
 gza#legendof#silent.gza.txt
@@ -10542,10 +10033,6 @@ heavy_d#big_tyme#m_bounce.hvd.txt
 heavy_d#big_tyme#mood_for.hvd.txt
 heavy_d#big_tyme#somebody.hvd.txt
 heavy_d#big_tyme#we_got.hvd.txt
-<<<<<<< HEAD
-heavy_d#big_tyme#you_aint.hvd.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 heavy_d#bluefunk#heavster.hvd.txt
 heavy_d#bluefunk#lovesexy.hvd.txt
 heavy_d#bluefunk#silky.hvd.txt
@@ -10553,21 +10040,6 @@ heavy_d#bluefunk#talk_is.hvd.txt
 heavy_d#bluefunk#the_man.hvd.txt
 heavy_d#bluefunk#whohouse.hvd.txt
 heavy_d#bluefunk#yes_yall.hvd.txt
-<<<<<<< HEAD
-heavy_d#heavy#ask_heav.hvd.txt
-heavy_d#heavy#dancin.hvd.txt
-heavy_d#heavy#dontstop.hvd.txt
-heavy_d#heavy#i_dont.hvd.txt
-heavy_d#heavy#iknowyou.hvd.txt
-heavy_d#heavy#imagine.hvd.txt
-heavy_d#heavy#like_dat.hvd.txt
-heavy_d#heavy#listen.hvd.txt
-heavy_d#heavy#on_point.hvd.txt
-heavy_d#heavy#spanish.hvd.txt
-heavy_d#heavy#you_know.hvd.txt
-heavy_d#heavy#younasty.hvd.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 heavy_d#large#dedicatd.hvd.txt
 heavy_d#large#dont_you.hvd.txt
 heavy_d#large#funkyrmx.hvd.txt
@@ -10579,16 +10051,6 @@ heavy_d#large#nike.hvd.txt
 heavy_d#large#onthedan.hvd.txt
 heavy_d#large#overw8tr.hvd.txt
 heavy_d#large#rockbass.hvd.txt
-<<<<<<< HEAD
-heavy_d#loveopus#dancefor.hvd.txt
-heavy_d#loveopus#hello.hvd.txt
-heavy_d#loveopus#i_cant.hvd.txt
-heavy_d#loveopus#loveyour.hvd.txt
-heavy_d#loveopus#lvbottle.hvd.txt
-heavy_d#loveopus#stillmis.hvd.txt
-heavy_d#loveopus#valentin.hvd.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 heavy_d#nuttin#b_coffee.hvd.txt
 heavy_d#nuttin#but_love.hvd.txt
 heavy_d#nuttin#friends.hvd.txt
@@ -10605,10 +10067,6 @@ heavy_d#peaceful#letter.hvd.txt
 heavy_d#peaceful#lovergot.hvd.txt
 heavy_d#peaceful#sister.hvd.txt
 heavy_d#peaceful#somejazz.hvd.txt
-<<<<<<< HEAD
-heavy_d#rm_bside#hotness.hvd.txt
-heavy_d#rm_bside#ucantsee.hvd.txt
-=======
 heavy_d#rm_bside#ucantsee.hvd.txt
 heavy_d#big_tyme#you_aint.hvd.txt
 heavy_d#heavy#ask_heav.hvd.txt
@@ -10631,7 +10089,6 @@ heavy_d#loveopus#lvbottle.hvd.txt
 heavy_d#loveopus#stillmis.hvd.txt
 heavy_d#loveopus#valentin.hvd.txt
 heavy_d#rm_bside#hotness.hvd.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 heavy_d#vibes#chasing.hvd.txt
 heavy_d#vibes#delilah.hvd.txt
 heavy_d#vibes#hugs_and.hvd.txt
@@ -11141,10 +10598,7 @@ j_dupri#instruct#h_blood.dup.txt
 j_dupri#instruct#letstalk.dup.txt
 j_dupri#instruct#mh_power.dup.txt
 j_dupri#instruct#whatever.dup.txt
-<<<<<<< HEAD
-=======
 misc#r_and_b#chopmeup.lke.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 j_wells#wolfpac#tonight.jwl.txt
 j_zone#but_work#greater.jzn.txt
 ja_rule#blood_in#clapback.jah.txt
@@ -11291,10 +10745,7 @@ jadakiss#of_death#what_you.kss.txt
 jadakiss#of_death#why.kss.txt
 jadakiss#of_death#yourside.kss.txt
 jadakiss#rm_bside#big_biz.kss.txt
-<<<<<<< HEAD
-=======
 rap_comp#ruffryde#kiss_of.rrc.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 jake_one#whitevan#blessthe.jke.txt
 jake_one#whitevan#deadwrng.jke.txt
 jake_one#whitevan#geterdne.jke.txt
@@ -11315,10 +10766,6 @@ jay_rock#followme#all_life.rck.txt
 jay_rock#followme#code_red.rck.txt
 jay_rock#followme#hoodgone.rck.txt
 jay_rock#followme#s_wassup.rck.txt
-<<<<<<< HEAD
-jay_tee#so_cold#shots_to.tee.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 jaylib#champion#raw_shit.lib.txt
 jayo_fel#whatcha#JAYO.jay.txt
 jaz_the#rm_bside#found.jaz.txt
@@ -11443,11 +10890,6 @@ jigga#rm_bside#la_la_la.jyz.txt
 jigga#rm_bside#thislife.jyz.txt
 jigga#rm_bside#wishing.jyz.txt
 jigga#streets#lifetime.jyz.txt
-<<<<<<< HEAD
-jigga#streets#lovefree.jyz.txt
-jigga#streets#yourlove.jyz.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 jigga#the_gift#2_many.jyz.txt
 jigga#the_gift#a_ballad.jyz.txt
 jigga#the_gift#a_dream.jyz.txt
@@ -11507,13 +10949,10 @@ jigga#volume_3#somelike.jyz.txt
 jigga#volume_3#watch_me.jyz.txt
 jigga#volume_3#yo_bitch.jyz.txt
 jigga#volume_3#you_do.jyz.txt
-<<<<<<< HEAD
-=======
 kan_west#im_good#excuseme.wst.txt
 rap_comp#ruffryde#jigga.rrc.txt
 jigga#streets#lovefree.jyz.txt
 jigga#streets#yourlove.jyz.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 jim_crow#crowsnst#flawboyz.jim.txt
 jimjones#capo#blowyour.jim.txt
 jimjones#capo#perfect.jim.txt
@@ -11568,19 +11007,6 @@ jr_mafia#cnspracy#backstab.jrm.txt
 jr_mafia#cnspracy#getmoney.jrm.txt
 jr_mafia#cnspracy#ohmylord.jrm.txt
 jr_mafia#cnspracy#realms.jrm.txt
-<<<<<<< HEAD
-jrwriter#history#byrdcall.jrw.txt
-jrwriter#history#diplomat.jrw.txt
-jrwriter#history#goonies.jrw.txt
-jrwriter#history#grill_em.jrw.txt
-jrwriter#history#high_mus.jrw.txt
-jrwriter#history#my_life.jrw.txt
-jrwriter#history#putyouon.jrw.txt
-jrwriter#history#stomp.jrw.txt
-jrwriter#history#tkenotes.jrw.txt
-jrwriter#history#zoolandr.jrw.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 jsantana#fromme2u#bckagain.san.txt
 jsantana#fromme2u#dip_town.san.txt
 jsantana#fromme2u#down.san.txt
@@ -11745,10 +11171,6 @@ juven#reality#whodaddy.juv.txt
 juven#reality#why_not.juv.txt
 juven#rm_bside#a_hoe.juv.txt
 juven#rm_bside#allabout.juv.txt
-<<<<<<< HEAD
-juven#rm_bside#bounce.juv.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 juven#soljarag#3rd_ward.juv.txt
 juven#soljarag#couch.juv.txt
 juven#soljarag#hide_out.juv.txt
@@ -12019,10 +11441,6 @@ k_priest#psychic#devotion.kpr.txt
 k_priest#psychic#energy.kpr.txt
 k_priest#psychic#frestone.kpr.txt
 k_priest#psychic#wubian_n.kpr.txt
-<<<<<<< HEAD
-k_priest#rm_bside#catech.kpr.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 k_priest#rm_bside#gunriver.kpr.txt
 k_priest#rm_bside#mystic.kpr.txt
 k_priest#rm_bside#solomon.kpr.txt
@@ -12041,10 +11459,7 @@ k_priest#st_glass#redemptn.kpr.txt
 k_priest#st_glass#theworld.kpr.txt
 k_priest#wal_reed#intro.kpr.txt
 k_priest#wal_reed#killah.kpr.txt
-<<<<<<< HEAD
-=======
 k_priest#rm_bside#catech.kpr.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 kan_west#808s_and#amazing.wst.txt
 kan_west#808s_and#bad_news.wst.txt
 kan_west#808s_and#coldest.wst.txt
@@ -12101,10 +11516,6 @@ kan_west#graduatn#goodlife.wst.txt
 kan_west#graduatn#homecome.wst.txt
 kan_west#graduatn#i_wonder.wst.txt
 kan_west#graduatn#stronger.wst.txt
-<<<<<<< HEAD
-kan_west#im_good#excuseme.wst.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 kan_west#im_good#heavyhit.wst.txt
 kan_west#late_reg#addict.wst.txt
 kan_west#late_reg#celebrtn.wst.txt
@@ -12134,10 +11545,7 @@ kan_west#yeezus#im_in_it.wst.txt
 kan_west#yeezus#newslave.wst.txt
 kan_west#yeezus#on_sight.wst.txt
 kan_west#yeezus#senditup.wst.txt
-<<<<<<< HEAD
-=======
 rap_comp#man_with#whtdress.fst.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 kardinal#andglory#watcha.kar.txt
 kay_slay#morethan#badgirls.kay.txt
 kay_slay#morethan#blockstr.kay.txt
@@ -12151,10 +11559,6 @@ kay_slay#rm_bside#blockrmx.kay.txt
 kay_slay#rm_bside#yh_remix.kay.txt
 kay_slay#rm_bside#youheard.kay.txt
 kay_slay#streetv1#50shotya.kay.txt
-<<<<<<< HEAD
-kay_slay#streetv1#eminem.kay.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 kay_slay#streetv1#imasmack.kay.txt
 kay_slay#streetv1#sweeper.kay.txt
 kay_slay#streetv1#too_much.kay.txt
@@ -12256,15 +11660,7 @@ king_tee#actafool#g_playin.kgt.txt
 king_tee#actafool#ko_rock.kgt.txt
 king_tee#actafool#letdance.kgt.txt
 king_tee#actafool#paybacks.kgt.txt
-<<<<<<< HEAD
-king_tee#kingdom#nuthin.kgt.txt
 king_tee#kingdom#original.kgt.txt
-king_tee#kingdom#skweez.kgt.txt
-king_tee#kingdom#speak_on.kgt.txt
-king_tee#kingdom#staydown.kgt.txt
-=======
-king_tee#kingdom#original.kgt.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 king_tee#own_risk#can_this.kgt.txt
 king_tee#own_risk#dancetip.kgt.txt
 king_tee#own_risk#diss_you.kgt.txt
@@ -12289,13 +11685,10 @@ king_tee#triflin#tekneek.kgt.txt
 king_tee#triflin#thagreat.kgt.txt
 king_tee#triflin#togetha.kgt.txt
 king_tee#triflin#trifenig.kgt.txt
-<<<<<<< HEAD
-=======
 king_tee#kingdom#nuthin.kgt.txt
 king_tee#kingdom#skweez.kgt.txt
 king_tee#kingdom#speak_on.kgt.txt
 king_tee#kingdom#staydown.kgt.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 kingpimp#2000_rap#dopegame.ksp.txt
 kingpimp#kodpball#prophets.ksp.txt
 klmoedee#funke#rise_n.kmo.txt
@@ -12344,10 +11737,6 @@ koolgrap#roots_of#mafioso.kgr.txt
 koolgrap#roots_of#one_dark.kgr.txt
 koolgrap#roots_of#tekilla.kgr.txt
 kotton#kings#put_down.kot.txt
-<<<<<<< HEAD
-kreators#rm_bside#home.kre.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 kriskros#young#livandie.kkr.txt
 krs_one#adventur#all_love.krs.txt
 krs_one#adventur#allright.krs.txt
@@ -12462,14 +11851,7 @@ krs_one#max_2008#rockin.krs.txt
 krs_one#max_2008#shoutout.krs.txt
 krs_one#max_2008#straight.krs.txt
 krs_one#max_2008#the_heat.krs.txt
-<<<<<<< HEAD
-krs_one#metahist#hes_us.krs.txt
-krs_one#metahist#knowledg.krs.txt
 krs_one#metahist#metahist.krs.txt
-krs_one#metahist#strhymer.krs.txt
-=======
-krs_one#metahist#metahist.krs.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 krs_one#mix_tape#change.krs.txt
 krs_one#mix_tape#down_the.krs.txt
 krs_one#mix_tape#ova_here.krs.txt
@@ -12509,23 +11891,6 @@ krs_one#styles#struggle.krs.txt
 krs_one#styles#survivin.krs.txt
 krs_one#styles#twchange.krs.txt
 krs_one#styles#whatelse.krs.txt
-<<<<<<< HEAD
-krs_one#survival#amazin.krs.txt
-krs_one#survival#clean_up.krs.txt
-krs_one#survival#connect.krs.txt
-krs_one#survival#hear_no.krs.txt
-krs_one#survival#murder_1.krs.txt
-krs_one#survival#ohreally.krs.txt
-krs_one#survival#one_shot.krs.txt
-krs_one#survival#pastpres.krs.txt
-krs_one#survival#robot.krs.txt
-krs_one#survival#runnin.krs.txt
-krs_one#survival#skills.krs.txt
-krs_one#survival#think_of.krs.txt
-krs_one#survival#way_live.krs.txt
-krs_one#survival#wemadeit.krs.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 krs_one#thesneak#attack.krs.txt
 krs_one#thesneak#attend.krs.txt
 krs_one#thesneak#f_pride.krs.txt
@@ -12543,8 +11908,6 @@ krs_one#thesneak#thouknow.krs.txt
 krs_one#thesneak#whatkind.krs.txt
 krs_one#thesneak#why.krs.txt
 krs_one#thesneak#willmake.krs.txt
-<<<<<<< HEAD
-=======
 krs_one#metahist#hes_us.krs.txt
 krs_one#metahist#knowledg.krs.txt
 krs_one#metahist#strhymer.krs.txt
@@ -12562,7 +11925,6 @@ krs_one#survival#skills.krs.txt
 krs_one#survival#think_of.krs.txt
 krs_one#survival#way_live.krs.txt
 krs_one#survival#wemadeit.krs.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 kurupt#g_status#yessir.rpt.txt
 kurupt#grain#deepdish.rpt.txt
 kurupt#grain#hustlin.rpt.txt
@@ -12592,10 +11954,6 @@ kurupt#kurupt#the_life.rpt.txt
 kurupt#kurupt#thisones.rpt.txt
 kurupt#kurupt#who_do.rpt.txt
 kurupt#rm_bside#im_back.rpt.txt
-<<<<<<< HEAD
-kurupt#rm_bside#kgangsta.rpt.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 kurupt#space_b#gangstas.rpt.txt
 kurupt#space_b#go_wrong.rpt.txt
 kurupt#space_b#hateonme.rpt.txt
@@ -12620,11 +11978,8 @@ kurupt#streetz#trylogy.rpt.txt
 kurupt#streetz#welcome.rpt.txt
 kurupt#streetz#who_ride.rpt.txt
 kurupt#streetz#you_cant.rpt.txt
-<<<<<<< HEAD
-=======
 kurupt#rm_bside#kgangsta.rpt.txt
 royce#rm_bside#donthate.r59.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 kutt_cal#bleve#nawhite.kut.txt
 kutt_cal#bleve#real_sex.kut.txt
 kutt_cal#feature#sch_daze.kut.txt
@@ -12682,12 +12037,9 @@ legends#a_famous#nprowler.leg.txt
 len#bumrush#b_day.len.txt
 lfinesse#awake#brain.lrd.txt
 lfinesse#awake#gimmicks.lrd.txt
-<<<<<<< HEAD
-=======
 lil_bow#rm_bside#basket.lbw.txt
 lil_bow#rm_bside#playgame.lbw.txt
 lil_bow#rm_bside#stick_up.lbw.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 lil_bow#price_of#dontknow.lbw.txt
 lil_bow#price_of#fame.lbw.txt
 lil_bow#price_of#giveitto.lbw.txt
@@ -12695,12 +12047,6 @@ lil_bow#price_of#how_move.lbw.txt
 lil_bow#price_of#imaflirt.lbw.txt
 lil_bow#price_of#outta_my.lbw.txt
 lil_bow#price_of#shortie.lbw.txt
-<<<<<<< HEAD
-lil_bow#rm_bside#basket.lbw.txt
-lil_bow#rm_bside#playgame.lbw.txt
-lil_bow#rm_bside#stick_up.lbw.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 lil_bow#unleash#18.lbw.txt
 lil_bow#unleash#cantlose.lbw.txt
 lil_bow#unleash#followme.lbw.txt
@@ -12736,10 +12082,7 @@ lil_jon#we_still#girlzrmx.jon.txt
 lil_jon#we_still#mvebitch.jon.txt
 lil_keke#allstars#bodyrock.kek.txt
 lil_keke#dream#make_em.kek.txt
-<<<<<<< HEAD
-=======
 swisha#theday3#chunk_up.hse.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 lil_kim#b_friday#intro.kim.txt
 lil_kim#hardcore#bigmomma.kim.txt
 lil_kim#hardcore#crush_on.kim.txt
@@ -12871,10 +12214,7 @@ lil_rob#thealbum#i_remem.rob.txt
 lil_rob#thealbum#keep_it.rob.txt
 lil_rob#thealbum#linda.rob.txt
 lil_rob#thealbum#sawyouon.rob.txt
-<<<<<<< HEAD
-=======
 lowpro_g#keepinit#thetruth.lpg.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 lil_troy#sittin#another.try.txt
 lil_wyte#doubt_me#crashrmx.wyt.txt
 lil_wyte#doubt_me#get_high.wyt.txt
@@ -12982,10 +12322,6 @@ little_b#justus4a#nvrleave.bro.txt
 little_b#justus4a#pressure.bro.txt
 little_b#justus4a#stylin.bro.txt
 little_b#justus4a#too_late.bro.txt
-<<<<<<< HEAD
-little_b#justus4a#without.bro.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 little_b#leftback#24.bro.txt
 little_b#leftback#b4_night.bro.txt
 little_b#leftback#curtain.bro.txt
@@ -13017,10 +12353,7 @@ little_b#rm_bside#love_is.bro.txt
 little_b#rm_bside#sinners.bro.txt
 little_b#rm_bside#timelife.bro.txt
 little_b#rm_bside#whatcha.bro.txt
-<<<<<<< HEAD
-=======
 little_b#justus4a#without.bro.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 ll_banks#corner_2#mkestack.lyd.txt
 ll_banks#hfm2#any_girl.lyd.txt
 ll_banks#hfm2#beamer.lyd.txt
@@ -13330,10 +12663,6 @@ lord_t#mkereign#bronxexp.gnz.txt
 lordz_of#rm_bside#suckermc.lob.txt
 lostboyz#love#beasts.lbz.txt
 lostboyz#love#my_crew.lbz.txt
-<<<<<<< HEAD
-lowpro_g#keepinit#thetruth.lpg.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 lrdjamar#5percent#advance.lrd.txt
 lrdjamar#5percent#cipher.lrd.txt
 lrdjamar#5percent#corner.lrd.txt
@@ -13348,110 +12677,6 @@ lrdjamar#5percent#sknowmix.lrd.txt
 lrdjamar#5percent#study_ya.lrd.txt
 lrdjamar#5percent#younggdz.lrd.txt
 luckyluc#you_know#hollywd.luc.txt
-<<<<<<< HEAD
-ludacris#back_for#catch_up.crs.txt
-ludacris#back_for#fantasy.crs.txt
-ludacris#back_for#firstand.crs.txt
-ludacris#back_for#game_got.crs.txt
-ludacris#back_for#getoffme.crs.txt
-ludacris#back_for#h_stuck.crs.txt
-ludacris#back_for#ho.crs.txt
-ludacris#back_for#mouthing.crs.txt
-ludacris#back_for#problem.crs.txt
-ludacris#back_for#southern.crs.txt
-ludacris#back_for#stick_em.crs.txt
-ludacris#back_for#what_rmx.crs.txt
-ludacris#battleof#allnight.crs.txt
-ludacris#battleof#badremix.crs.txt
-ludacris#battleof#BOTS_rad.crs.txt
-ludacris#battleof#cantlive.crs.txt
-ludacris#battleof#ev_drunk.crs.txt
-ludacris#battleof#feelinso.crs.txt
-ludacris#battleof#hey_ho.crs.txt
-ludacris#battleof#hl_remix.crs.txt
-ludacris#battleof#iknowyou.crs.txt
-ludacris#battleof#introbos.crs.txt
-ludacris#battleof#my_chick.crs.txt
-ludacris#battleof#party_no.crs.txt
-ludacris#battleof#rollerco.crs.txt
-ludacris#battleof#sex_room.crs.txt
-ludacris#battleof#sexting.crs.txt
-ludacris#battleof#tell_mea.crs.txt
-ludacris#chicken#blow_out.crs.txt
-ludacris#chicken#diamond.crs.txt
-ludacris#chicken#eyebrows.crs.txt
-ludacris#chicken#hiphop_q.crs.txt
-ludacris#chicken#hoes_in.crs.txt
-ludacris#chicken#hrdtimes.crs.txt
-ludacris#chicken#p_poppin.crs.txt
-ludacris#chicken#screwed.crs.txt
-ludacris#chicken#southern.crs.txt
-ludacris#chicken#splash_w.crs.txt
-ludacris#chicken#stand_up.crs.txt
-ludacris#chicken#teamwork.crs.txt
-ludacris#chicken#we_got.crs.txt
-ludacris#incog#midnight.crs.txt
-ludacris#incog#rock_and.crs.txt
-ludacris#incog#wasnt_us.crs.txt
-ludacris#redlight#bluberry.crs.txt
-ludacris#redlight#child_of.crs.txt
-ludacris#redlight#get_back.crs.txt
-ludacris#redlight#hopeless.crs.txt
-ludacris#redlight#intro.crs.txt
-ludacris#redlight#lamounts.crs.txt
-ludacris#redlight#no1_spot.crs.txt
-ludacris#redlight#pass_out.crs.txt
-ludacris#redlight#pimpin.crs.txt
-ludacris#redlight#potion.crs.txt
-ludacris#redlight#putmoney.crs.txt
-ludacris#redlight#spur_of.crs.txt
-ludacris#redlight#twomiles.crs.txt
-ludacris#redlight#virgo.crs.txt
-ludacris#redlight#whonotme.crs.txt
-ludacris#release#do_your.crs.txt
-ludacris#release#endnight.crs.txt
-ludacris#release#f_preach.crs.txt
-ludacris#release#gg_wild.crs.txt
-ludacris#release#grew_up.crs.txt
-ludacris#release#moneymkr.crs.txt
-ludacris#release#mouthsto.crs.txt
-ludacris#release#runaway.crs.txt
-ludacris#release#slap.crs.txt
-ludacris#release#tell_it.crs.txt
-ludacris#release#ultimate.crs.txt
-ludacris#release#war_with.crs.txt
-ludacris#release#warning.crs.txt
-ludacris#release#woozy.crs.txt
-ludacris#rm_bside#gold_dig.crs.txt
-ludacris#rm_bside#jingalin.crs.txt
-ludacris#theatre#call_up.crs.txt
-ludacris#theatre#contagio.crs.txt
-ludacris#theatre#ev_chris.crs.txt
-ludacris#theatre#idoit4hh.crs.txt
-ludacris#theatre#intro.crs.txt
-ludacris#theatre#last_ofa.crs.txt
-ludacris#theatre#MVP.crs.txt
-ludacris#theatre#nastygrl.crs.txt
-ludacris#theatre#one_more.crs.txt
-ludacris#theatre#pressthe.crs.txt
-ludacris#theatre#southern.crs.txt
-ludacris#theatre#stay_tog.crs.txt
-ludacris#theatre#undisput.crs.txt
-ludacris#theatre#wish_you.crs.txt
-ludacris#wordmouf#areacode.crs.txt
-ludacris#wordmouf#c_babies.crs.txt
-ludacris#wordmouf#coming_2.crs.txt
-ludacris#wordmouf#f_thangs.crs.txt
-ludacris#wordmouf#go_sleep.crs.txt
-ludacris#wordmouf#growing.crs.txt
-ludacris#wordmouf#keep_it.crs.txt
-ludacris#wordmouf#mvebitch.crs.txt
-ludacris#wordmouf#outside.crs.txt
-ludacris#wordmouf#roll_out.crs.txt
-ludacris#wordmouf#she_said.crs.txt
-ludacris#wordmouf#word_of.crs.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 luke#freak_2k#slippery.lke.txt
 luniz#lunitik#funkin.lnz.txt
 luniz#lunitik#hniti.lnz.txt
@@ -13552,10 +12777,7 @@ marc_mac#between#taketrip.mac.txt
 marclive#validatn#clayborn.mrc.txt
 marclive#validatn#starwars.mrc.txt
 marclive#validatn#welcome.mrc.txt
-<<<<<<< HEAD
-=======
 misc#hip-hop#tameeka.mar.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 marley_b#chantdwn#burnin.bob.txt
 marley_b#chantdwn#jammin.bob.txt
 marley_b#chantdwn#johnny.bob.txt
@@ -13647,10 +12869,7 @@ master_p#mamasbad#shoot_em.mrp.txt
 master_p#mamasbad#watch_yr.mrp.txt
 master_p#only_god#wantnone.mrp.txt
 master_p#only_god#where_do.mrp.txt
-<<<<<<< HEAD
-=======
 rap_comp#nls_wcbs#soldiers2.nls.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 mathemat#lovehell#on_radio.mat.txt
 mathemat#lovehell#respect.mat.txt
 mathemat#problem#john_316.mat.txt
@@ -13711,10 +12930,7 @@ mc_chris#racewars#popcorn.mcc.txt
 mc_chris#racewars#restart.mcc.txt
 mc_chris#racewars#tarantin.mcc.txt
 mc_chris#racewars#where_40.mcc.txt
-<<<<<<< HEAD
-=======
 misc#humor#wntcandy.thf.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 mc_lars#attacks#gospelof.lrs.txt
 mc_lars#indieroc#what_is.lrs.txt
 mc_lars#the_grad#roommate.lrs.txt
@@ -13892,19 +13108,12 @@ mf_doom#mm_food#pothold.mfd.txt
 mf_doom#mm_food#rapp_sni.mfd.txt
 mf_doom#rm_bside#f_ladies.mfd.txt
 mf_doom#rm_bside#i_hear.mfd.txt
-<<<<<<< HEAD
-=======
 mf_grimm#mfandmf#impostas.mfg.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 mf_doom#rm_bside#mnksuite.mfd.txt
 mf_doom#takemeto#fazers.mfd.txt
 mf_doom#takemeto#fi_print.mfd.txt
 mf_doom#themouse#the_mask.mfd.txt
 mf_grimm#mfandmf#break_em.mfg.txt
-<<<<<<< HEAD
-mf_grimm#mfandmf#impostas.mfg.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 mf_grimm#scarsand#takeemto.mfg.txt
 mia_x#drama#bring_it.mia.txt
 mia_x#unlady#4evertru.mia.txt
@@ -13913,306 +13122,6 @@ mia_x#unlady#party.mia.txt
 misc#hip-hop#another.een.txt
 misc#hip-hop#back.qnc.txt
 misc#hip-hop#call_me.bti.txt
-<<<<<<< HEAD
-misc#hip-hop#crambodi.pla.txt
-misc#hip-hop#datz_on.mde.txt
-misc#hip-hop#digital.gld.txt
-misc#hip-hop#dirtroad.jsn.txt
-misc#hip-hop#flsh_gmm.gcc.txt
-misc#hip-hop#galaxies.prx.txt
-misc#hip-hop#galvanze.bro.txt
-misc#hip-hop#going_on.wgo.txt
-misc#hip-hop#hhwdying.flw.txt
-misc#hip-hop#jam_for.mby.txt
-misc#hip-hop#mash_for.grs.txt
-misc#hip-hop#move_now.snd.txt
-misc#hip-hop#ooh_wee.ron.txt
-misc#hip-hop#party.ext.txt
-misc#hip-hop#payphone.mr5.txt
-misc#hip-hop#radiosng.rem.txt
-misc#hip-hop#tameeka.mar.txt
-misc#hip-hop#thrilla.ius.txt
-misc#hip-hop#tudunn.fst.txt
-misc#hip-hop#yelling.zap.txt
-misc#humor#wntcandy.thf.txt
-misc#metal#back_tfu.fac.txt
-misc#metal#bboy2000.twn.txt
-misc#metal#boongied.len.txt
-misc#metal#brnraise.mtr.txt
-misc#metal#children.krn.txt
-misc#metal#diesel.pro.txt
-misc#metal#dontlook.rch.txt
-misc#metal#freak_on.krn.txt
-misc#metal#frgt_10.prk.txt
-misc#metal#killafrn.tra.txt
-misc#metal#n2gether.lmp.txt
-misc#metal#nottoday.tra.txt
-misc#metal#one_bull.six.txt
-misc#metal#play_me.krn.txt
-misc#metal#redlight.lmp.txt
-misc#metal#stand.alc.txt
-misc#metal#sunflowr.len.txt
-misc#metal#thriller.boy.txt
-misc#metal#x_style.prk.txt
-misc#r_and_b#1youneed.roc.txt
-misc#r_and_b#2bad_ref.mjk.txt
-misc#r_and_b#4minutes.mad.txt
-misc#r_and_b#550_what.gin.txt
-misc#r_and_b#aatworld.bie.txt
-misc#r_and_b#about_it.tni.txt
-misc#r_and_b#aboutyou.mjb.txt
-misc#r_and_b#addremix.tru.txt
-misc#r_and_b#aint_not.joe.txt
-misc#r_and_b#anymore.kel.txt
-misc#r_and_b#anything.mon.txt
-misc#r_and_b#anything.swv.txt
-misc#r_and_b#baby_dup.mrh.txt
-misc#r_and_b#bad_boy.sha.txt
-misc#r_and_b#bad_girl.bud.txt
-misc#r_and_b#bad_girl.dan.txt
-misc#r_and_b#badaboom.b2k.txt
-misc#r_and_b#batworld.rky.txt
-misc#r_and_b#be_right.jag.txt
-misc#r_and_b#beatgoes.mad.txt
-misc#r_and_b#bigplans.gin.txt
-misc#r_and_b#blamermx.fox.txt
-misc#r_and_b#bodykiss.isb.txt
-misc#r_and_b#boy_you.ncl.txt
-misc#r_and_b#boyineed.mrh.txt
-misc#r_and_b#bring_me.kci.txt
-misc#r_and_b#bring_on.jod.txt
-misc#r_and_b#bstthing.ush.txt
-misc#r_and_b#bubble.gwn.txt
-misc#r_and_b#bugremix.des.txt
-misc#r_and_b#bustanut.gnb.txt
-misc#r_and_b#caligurl.kty.txt
-misc#r_and_b#callonme.jjk.txt
-misc#r_and_b#can_we.swv.txt
-misc#r_and_b#cant_get.jam.txt
-misc#r_and_b#cantusee.tot.txt
-misc#r_and_b#car_show.jag.txt
-misc#r_and_b#celebrtn.tnk.txt
-misc#r_and_b#chopmeup.lke.txt
-misc#r_and_b#closing.112.txt
-misc#r_and_b#come_and.swt.txt
-misc#r_and_b#comeback.ali.txt
-misc#r_and_b#comeupto.jod.txt
-misc#r_and_b#confess.des.txt
-misc#r_and_b#crank_me.how.txt
-misc#r_and_b#crybaby.mrh.txt
-misc#r_and_b#cupremix.ush.txt
-misc#r_and_b#curious.lsg.txt
-misc#r_and_b#daddy.kel.txt
-misc#r_and_b#dance4me.mjb.txt
-misc#r_and_b#dangerou.mpk.txt
-misc#r_and_b#dcmcrime.bro.txt
-misc#r_and_b#deja_vu.bey.txt
-misc#r_and_b#dgg_home.mon.txt
-misc#r_and_b#diamondg.ryn.txt
-misc#r_and_b#didnt_i.key.txt
-misc#r_and_b#dipitlow.mil.txt
-misc#r_and_b#do_some.tot.txt
-misc#r_and_b#do_that.b2k.txt
-misc#r_and_b#do_that.mrh.txt
-misc#r_and_b#dollbill.rky.txt
-misc#r_and_b#dontknow.bkt.txt
-misc#r_and_b#dontknow.ush.txt
-misc#r_and_b#dontstop.mrh.txt
-misc#r_and_b#doubleup.rky.txt
-misc#r_and_b#downonme.jer.txt
-misc#r_and_b#ecstasy.dan.txt
-misc#r_and_b#energy.nat.txt
-misc#r_and_b#enough.mon.txt
-misc#r_and_b#erything.dru.txt
-misc#r_and_b#exclsive.ava.txt
-misc#r_and_b#extra.jam.txt
-misc#r_and_b#f_things.jnb.txt
-misc#r_and_b#fastlane.bil.txt
-misc#r_and_b#fiend.jah.txt
-misc#r_and_b#flicious.frg.txt
-misc#r_and_b#formal.jay.txt
-misc#r_and_b#friends.wat.txt
-misc#r_and_b#funky.swv.txt
-misc#r_and_b#g_child.kel.txt
-misc#r_and_b#gdlt_rmx.ney.txt
-misc#r_and_b#get_away.mil.txt
-misc#r_and_b#get_down.gin.txt
-misc#r_and_b#getonbus.des.txt
-misc#r_and_b#getready.gin.txt
-misc#r_and_b#gettoknw.joe.txt
-misc#r_and_b#girlmine.jag.txt
-misc#r_and_b#goin_out.eva.txt
-misc#r_and_b#goodlife.spr.txt
-misc#r_and_b#got_till.jjk.txt
-misc#r_and_b#grow_up.lyd.txt
-misc#r_and_b#guesswht.col.txt
-misc#r_and_b#h_medley.mad.txt
-misc#r_and_b#heart.mrh.txt
-misc#r_and_b#hh_star.bey.txt
-misc#r_and_b#howcome2.you.txt
-misc#r_and_b#hushhush.nty.txt
-misc#r_and_b#hypnotic.syl.txt
-misc#r_and_b#i_can_ch.leg.txt
-misc#r_and_b#i_like.mon.txt
-misc#r_and_b#idw_know.win.txt
-misc#r_and_b#if_we.mrh.txt
-misc#r_and_b#im_gonna.jlo.txt
-misc#r_and_b#im_heat.sha.txt
-misc#r_and_b#im_real.jlo.txt
-misc#r_and_b#inmybiz.hou.txt
-misc#r_and_b#inpublic.kel.txt
-misc#r_and_b#into_hg.mad.txt
-misc#r_and_b#involved.sdq.txt
-misc#r_and_b#irresist.mrh.txt
-misc#r_and_b#iwannabe.swv.txt
-misc#r_and_b#jerk.nxt.txt
-misc#r_and_b#keepreal.jnb.txt
-misc#r_and_b#keystomy.lev.txt
-misc#r_and_b#knockdwn.ker.txt
-misc#r_and_b#landlint.mjb.txt
-misc#r_and_b#lastcall.for.txt
-misc#r_and_b#leave.mjb.txt
-misc#r_and_b#letitgo.key.txt
-misc#r_and_b#letitrmx.key.txt
-misc#r_and_b#lettingo.sea.txt
-misc#r_and_b#lgmkanye.jag.txt
-misc#r_and_b#life_rmx.fth.txt
-misc#r_and_b#like_me.ush.txt
-misc#r_and_b#like_you.kly.txt
-misc#r_and_b#likethat.hou.txt
-misc#r_and_b#lkesmoke.amy.txt
-misc#r_and_b#lmbethe1.mjb.txt
-misc#r_and_b#lnadjsml.mrh.txt
-misc#r_and_b#long_way.gwn.txt
-misc#r_and_b#losecool.swv.txt
-misc#r_and_b#LOVE.mil.txt
-misc#r_and_b#love_is.mjb.txt
-misc#r_and_b#love_me.112.txt
-misc#r_and_b#love_of.bdu.txt
-misc#r_and_b#love_you.mjb.txt
-misc#r_and_b#lovelydy.van.txt
-misc#r_and_b#lude.gin.txt
-misc#r_and_b#lvejones.swt.txt
-misc#r_and_b#maria.san.txt
-misc#r_and_b#mbnice_r.lyf.txt
-misc#r_and_b#meanwhil.jod.txt
-misc#r_and_b#mill.kel.txt
-misc#r_and_b#millstar.nik.txt
-misc#r_and_b#miss_you.mrh.txt
-misc#r_and_b#money.rky.txt
-misc#r_and_b#monster.mjk.txt
-misc#r_and_b#mpatient.blu.txt
-misc#r_and_b#msparker.ply.txt
-misc#r_and_b#music.stn.txt
-misc#r_and_b#my_baby.jjk.txt
-misc#r_and_b#my_man.san.txt
-misc#r_and_b#my_mind.col.txt
-misc#r_and_b#my_mind.mjb.txt
-misc#r_and_b#naive.sol.txt
-misc#r_and_b#nbsagain.mel.txt
-misc#r_and_b#needthat.3lw.txt
-misc#r_and_b#nevergon.oma.txt
-misc#r_and_b#nicety.mic.txt
-misc#r_and_b#nmyshoes.mri.txt
-misc#r_and_b#nottoday.mjb.txt
-misc#r_and_b#nvr_been.mjb.txt
-misc#r_and_b#off_hook.wat.txt
-misc#r_and_b#OMG.ush.txt
-misc#r_and_b#on_knees.411.txt
-misc#r_and_b#on_me.dru.txt
-misc#r_and_b#one_else.tot.txt
-misc#r_and_b#onenight.con.txt
-misc#r_and_b#oneremix.pro.txt
-misc#r_and_b#onething.van.txt
-misc#r_and_b#only_one.112.txt
-misc#r_and_b#only_you.112.txt
-misc#r_and_b#overcast.fbn.txt
-misc#r_and_b#pimpin.hol.txt
-misc#r_and_b#pocketbk.hud.txt
-misc#r_and_b#popular.kel.txt
-misc#r_and_b#pushplay.tru.txt
-misc#r_and_b#quickrsh.tot.txt
-misc#r_and_b#rain_rmx.ash.txt
-misc#r_and_b#read_rmx.ava.txt
-misc#r_and_b#reallove.mjb.txt
-misc#r_and_b#reminisc.bil.txt
-misc#r_and_b#richgirl.gwn.txt
-misc#r_and_b#ridewitu.joe.txt
-misc#r_and_b#rockstar.rky.txt
-misc#r_and_b#roof_mbd.mrh.txt
-misc#r_and_b#roundrmx.jon.txt
-misc#r_and_b#sayremix.des.txt
-misc#r_and_b#selfish.fan.txt
-misc#r_and_b#sexy.mjb.txt
-misc#r_and_b#shake_rm.mrh.txt
-misc#r_and_b#shakinit.rob.txt
-misc#r_and_b#she.mck.txt
-misc#r_and_b#she_dont.ush.txt
-misc#r_and_b#she_is.crl.txt
-misc#r_and_b#shoulda.cse.txt
-misc#r_and_b#sincere.mjb.txt
-misc#r_and_b#sleepmch.ocn.txt
-misc#r_and_b#so_diff.gin.txt
-misc#r_and_b#so_remix.mon.txt
-misc#r_and_b#someone.swv.txt
-misc#r_and_b#someone.ver.txt
-misc#r_and_b#sorry.gin.txt
-misc#r_and_b#stillhre.lyf.txt
-misc#r_and_b#stl_away.mjb.txt
-misc#r_and_b#storm.kra.txt
-misc#r_and_b#supernva.hud.txt
-misc#r_and_b#surv_rmx.des.txt
-misc#r_and_b#sweaty.jod.txt
-misc#r_and_b#takecare.cha.txt
-misc#r_and_b#teardrop.alx.txt
-misc#r_and_b#tell_me.stn.txt
-misc#r_and_b#thankgod.joe.txt
-misc#r_and_b#the_411.mjb.txt
-misc#r_and_b#there.rug.txt
-misc#r_and_b#thing_bb.gna.txt
-misc#r_and_b#things.swt.txt
-misc#r_and_b#things_i.twt.txt
-misc#r_and_b#thistime.mjk.txt
-misc#r_and_b#tlkabout.brn.txt
-misc#r_and_b#tmbremix.mrh.txt
-misc#r_and_b#tonight.mrh.txt
-misc#r_and_b#too_much.glv.txt
-misc#r_and_b#touch_me.cas.txt
-misc#r_and_b#trippin.tot.txt
-misc#r_and_b#tryremix.ali.txt
-misc#r_and_b#turnitup.ash.txt
-misc#r_and_b#u-turn.mck.txt
-misc#r_and_b#u_s_know.rob.txt
-misc#r_and_b#ualready.112.txt
-misc#r_and_b#umbrella.rhi.txt
-misc#r_and_b#unbreak.mjk.txt
-misc#r_and_b#unpredic.jam.txt
-misc#r_and_b#wait_rmx.jay.txt
-misc#r_and_b#wannalov.thi.txt
-misc#r_and_b#want_me.tot.txt
-misc#r_and_b#wantgirl.joe.txt
-misc#r_and_b#we_ride.rky.txt
-misc#r_and_b#what_it.sop.txt
-misc#r_and_b#whatwedo.dru.txt
-misc#r_and_b#whereive.mjb.txt
-misc#r_and_b#wherethe.jag.txt
-misc#r_and_b#whereyou.ryj.txt
-misc#r_and_b#whosthat.rky.txt
-misc#r_and_b#whtuwant.mil.txt
-misc#r_and_b#why_you.hll.txt
-misc#r_and_b#whymebby.swt.txt
-misc#r_and_b#with_you.jam.txt
-misc#r_and_b#wizzywow.blk.txt
-misc#r_and_b#wntwaste.jod.txt
-misc#r_and_b#wonremix.ash.txt
-misc#r_and_b#woohoo.chr.txt
-misc#r_and_b#wtw_love.war.txt
-misc#r_and_b#you.prl.txt
-misc#r_and_b#you_want.jjk.txt
-misc#r_and_b#yougotit.jod.txt
-misc#r_and_b#yougotme.lsg.txt
-misc#r_and_b#youremix.sis.txt
-=======
 tooshort#albumten#baby_d.tss.txt
 tooshort#albumten#bad_ways.tss.txt
 tooshort#albumten#buyusome.tss.txt
@@ -14738,22 +13647,10 @@ misc#r_and_b#what_it.sop.txt
 misc#r_and_b#why_you.hll.txt
 misc#r_and_b#wtw_love.war.txt
 misc#r_and_b#you.prl.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 misc#reggae#cheatrmx.mrt.txt
 misc#reggae#en_remix.won.txt
 misc#reggae#five_o.man.txt
 misc#reggae#fiveormx.man.txt
-<<<<<<< HEAD
-misc#reggae#fromyard.bmn.txt
-misc#reggae#gd_times.bju.txt
-misc#reggae#jiggle.man.txt
-misc#reggae#stoosh.bnz.txt
-misc#reggae#supastar.bkl.txt
-misc#reggae#tipofthe.uhu.txt
-misc#reggae#top_game.sea.txt
-misc#reggae#wayremix.man.txt
-misc#reggae#whoweare.man.txt
-=======
 misc#reggae#wayremix.man.txt
 misc#reggae#whoweare.man.txt
 misc#reggae#fromyard.bmn.txt
@@ -14763,7 +13660,6 @@ misc#reggae#top_game.sea.txt
 misc#reggae#stoosh.bnz.txt
 misc#reggae#supastar.bkl.txt
 misc#reggae#tipofthe.uhu.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 misc#wrestle#tmetorck.wwe.txt
 missy#blkparty#9th_inn.mss.txt
 missy#blkparty#bestbest.mss.txt
@@ -15086,17 +13982,10 @@ murray_k#rap_murr#u_aint.kth.txt
 murray_k#rap_murr#whatitis.kth.txt
 murray_k#thing#someshit.kth.txt
 murs#316ninth#animal.mrs.txt
-<<<<<<< HEAD
-murs#fornever#fornever.mrs.txt
-murs#fornever#livefrom.mrs.txt
-murs#revenge#barber.mrs.txt
-murs#the_end#thedance.mrs.txt
-=======
 murs#revenge#barber.mrs.txt
 murs#the_end#thedance.mrs.txt
 murs#fornever#fornever.mrs.txt
 murs#fornever#livefrom.mrs.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 mystikal#ghettofb#alias.mys.txt
 mystikal#ghettofb#dirtjerz.mys.txt
 mystikal#ghettofb#ghetto.mys.txt
@@ -15209,10 +14098,7 @@ naproots#wooden#theglobe.nap.txt
 naproots#wooden#twang.nap.txt
 naproots#wooden#warpeace.nap.txt
 naproots#wooden#what_cha.nap.txt
-<<<<<<< HEAD
-=======
 roots#how_over#hustla.rts.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 nas#10yr_ill#aint_rmx.nas.txt
 nas#10yr_ill#on_real.nas.txt
 nas#10yr_ill#starwars.nas.txt
@@ -15322,10 +14208,6 @@ nas#lost#no_ideas.nas.txt
 nas#lost#nothing.nas.txt
 nas#lost#purple.nas.txt
 nas#lost#u_gotta.nas.txt
-<<<<<<< HEAD
-nas#lost#you_dont.nas.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 nas#nastra#big_girl.nas.txt
 nas#nastra#come_get.nas.txt
 nas#nastra#damus.nas.txt
@@ -15344,15 +14226,8 @@ nas#rm_bside#actionrm.nas.txt
 nas#rm_bside#dream_rm.nas.txt
 nas#rm_bside#flyest.nas.txt
 nas#rm_bside#g_tears.nas.txt
-<<<<<<< HEAD
-nas#rm_bside#jung_jay.nas.txt
 nas#rm_bside#lab_arse.nas.txt
 nas#rm_bside#nas_97.nas.txt
-nas#rm_bside#oneonone.nas.txt
-=======
-nas#rm_bside#lab_arse.nas.txt
-nas#rm_bside#nas_97.nas.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 nas#rm_bside#oneremix.nas.txt
 nas#rm_bside#rule_lms.nas.txt
 nas#rm_bside#shine.nas.txt
@@ -15405,15 +14280,12 @@ nas#written#street.nas.txt
 nas#written#suspect.nas.txt
 nas#written#thesetup.nas.txt
 nas#written#watchdem.nas.txt
-<<<<<<< HEAD
-=======
 rap_comp#41stside#let_hang.41s.txt
 rap_comp#qbfinest#teenage.qbf.txt
 rap_comp#qbfinest#wealth.qbf.txt
 nas#lost#you_dont.nas.txt
 nas#rm_bside#oneonone.nas.txt
 nas#rm_bside#jung_jay.nas.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 natedogg#g_funk#alone.ndg.txt
 natedogg#g_funk#bagoweed.ndg.txt
 natedogg#g_funk#crazy.ndg.txt
@@ -15457,10 +14329,6 @@ nbnature#iicons#rockroll.nbn.txt
 nbnature#nat_fury#live_die.nbn.txt
 nbnature#nat_fury#we_could.nbn.txt
 ncsmooth#aint_a#downline.nsm.txt
-<<<<<<< HEAD
-ne-yo#libra#crazy.ney.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 nefrtiti#life#nonsense.nef.txt
 nefrtiti#life#trouble.nef.txt
 nelly#brassknx#bay.nel.txt
@@ -15622,15 +14490,9 @@ noreaga#NORE#NORE.nor.txt
 noreaga#NORE#not_game.nor.txt
 noreaga#NORE#superthg.nor.txt
 noreaga#NORE#the_way.nor.txt
-<<<<<<< HEAD
-noreaga#reality#s_diesel.nor.txt
-noreaga#reality#setitoff.nor.txt
-noreaga#rm_bside#sometime.nor.txt
-=======
 noreaga#rm_bside#sometime.nor.txt
 noreaga#reality#s_diesel.nor.txt
 noreaga#reality#setitoff.nor.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 ntonious#goodevil#decept.ant.txt
 ntonious#goodevil#ydht_cry.ant.txt
 ntr_big#brnagain#b4iwake.big.txt
@@ -15699,18 +14561,11 @@ ntr_big#ready_to#suicidal.big.txt
 ntr_big#ready_to#the_what.big.txt
 ntr_big#ready_to#unbeliev.big.txt
 ntr_big#ready_to#warning.big.txt
-<<<<<<< HEAD
-ntr_big#rm_bside#411remix.big.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 ntr_big#rm_bside#chancerm.big.txt
 ntr_big#rm_bside#grawdemo.big.txt
 ntr_big#rm_bside#legacycj.big.txt
 ntr_big#rm_bside#m_murder.big.txt
-<<<<<<< HEAD
-=======
 rap_comp#llounge2#16_bars.ll2.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 nwa#100_mile#100_mile.nwa.txt
 nwa#100_mile#justdont.nwa.txt
 nwa#100_mile#kamursho.nwa.txt
@@ -15756,11 +14611,8 @@ ob_trice#second#allofmy.obi.txt
 ob_trice#second#ev_i_go.obi.txt
 ob_trice#second#snitch.obi.txt
 ob_trice#second#ththeygo.obi.txt
-<<<<<<< HEAD
-=======
 rap_comp#the_reup#crynowrm.rup.txt
 rap_comp#the_reup#pp_remix.rup.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 oddisee#101#perch.odd.txt
 oddsquad#fadanuf#coughee.odd.txt
 oddsquad#fadanuf#dat_weed.odd.txt
@@ -15828,15 +14680,8 @@ outkast#idlewild#peaches.otk.txt
 outkast#idlewild#rooster.otk.txt
 outkast#idlewild#thetrain.otk.txt
 outkast#idlewild#youreyes.otk.txt
-<<<<<<< HEAD
-outkast#rm_bside#cantwait.otk.txt
 outkast#rm_bside#f_around.otk.txt
 outkast#rm_bside#mov_cool.otk.txt
-outkast#rm_bside#oh_no.otk.txt
-=======
-outkast#rm_bside#f_around.otk.txt
-outkast#rm_bside#mov_cool.otk.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 outkast#rm_bside#phobia.otk.txt
 outkast#rm_bside#thewhole.otk.txt
 outkast#southern#aint_no.otk.txt
@@ -15890,10 +14735,7 @@ outkast#tl_below#shelives.otk.txt
 outkast#tl_below#spread.otk.txt
 outkast#tl_below#take_off.otk.txt
 outkast#tl_below#vibrate.otk.txt
-<<<<<<< HEAD
-=======
 outkast#rm_bside#cantwait.otk.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 outlawz#novakane#worldwde.out.txt
 outlawz#p_timing#100_MPH.out.txt
 outlawz#p_timing#newyears.out.txt
@@ -15911,19 +14753,12 @@ pacewon#won#itsyours.pac.txt
 page#page#stillfly.pge.txt
 papoose#nacirema#aimshoot.pap.txt
 paulwall#c_magnet#datswhat.wll.txt
-<<<<<<< HEAD
-paulwall#consells#back_up.wll.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 paulwall#getmoney#evrybody.wll.txt
 paulwall#thechamp#driveslw.wll.txt
 paulwall#thechamp#imaplaya.wll.txt
 paulwall#thechamp#theydont.wll.txt
 paulwall#thechamp#trill.wll.txt
-<<<<<<< HEAD
-=======
 paulwall#consells#back_up.wll.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 pb_enemy#got_game#unstop.pbe.txt
 pb_enemy#how_sell#sexdrugs.pbe.txt
 pb_enemy#rm_bside#nightrmx.pbe.txt
@@ -15941,10 +14776,6 @@ peterock#nyfinest#ready_fe.rck.txt
 peterock#nyfinest#t_retire.rck.txt
 peterock#nyfinest#the_pjs.rck.txt
 peterock#nyfinest#thtswhat.rck.txt
-<<<<<<< HEAD
-peterock#soulsur2#appreci8.rck.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 peterock#soulsur2#beef.rck.txt
 peterock#soulsur2#da_villa.rck.txt
 peterock#soulsur2#nig_know.rck.txt
@@ -15952,10 +14783,7 @@ peterock#soulsur2#no_tears.rck.txt
 peterock#soulsur2#postaboy.rck.txt
 peterock#soulsur2#truth_is.rck.txt
 peterock#soulsur2#we_good.rck.txt
-<<<<<<< HEAD
-=======
 rap_comp#nasounds#the_pjs.nsc.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 pharrell#inmymind#b_friend.pha.txt
 pharrell#inmymind#i_really.pha.txt
 pharrell#inmymind#keep_it.pha.txt
@@ -16019,15 +14847,6 @@ pmd#rm_bside#thepee97.pmd.txt
 pos#audition#bleeding.pos.txt
 potluck#humboldt#what_we.pot.txt
 pr_malik#rm_bside#iwanknow.mlk.txt
-<<<<<<< HEAD
-pr_paul#politics#business.pau.txt
-pr_paul#politics#dr_queen.pau.txt
-pr_paul#thieves#men_blue.pau.txt
-pr_paul#thieves#mr_large.pau.txt
-pr_paul#thieves#weapon.pau.txt
-pr_paul#thieves#yourtime.pau.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 pras#supastar#blangels.prz.txt
 pras#supastar#for_love.prz.txt
 pras#supastar#get_your.prz.txt
@@ -16040,37 +14859,6 @@ prefse73#silence#hdeyafce.p73.txt
 prinstar#prin_is#keithnme.pri.txt
 prinstar#prin_is#keithrmx.pri.txt
 procuss#5sparrow#miss_jan.pro.txt
-<<<<<<< HEAD
-prodigy#bumpy_ep#blkdevil.mbd.txt
-prodigy#bumpy_ep#one_only.mbd.txt
-prodigy#bumpy_ep#stronger.mbd.txt
-prodigy#hnic#complain.mbd.txt
-prodigy#hnic#delt_w.mbd.txt
-prodigy#hnic#do_it.mbd.txt
-prodigy#hnic#wanna_be.mbd.txt
-prodigy#hnic2#3_stacks.mbd.txt
-prodigy#hnic2#ABC.mbd.txt
-prodigy#hnic2#clickclk.mbd.txt
-prodigy#hnic2#field_p.mbd.txt
-prodigy#hnic2#illumin.mbd.txt
-prodigy#hnic2#iwantout.mbd.txt
-prodigy#hnic2#newyitty.mbd.txt
-prodigy#hnic2#nothing.mbd.txt
-prodigy#hnic2#real_pow.mbd.txt
-prodigy#hnic2#the_life.mbd.txt
-prodigy#hnic2#vetmemp2.mbd.txt
-prodigy#hnic2#whenisee.mbd.txt
-prodigy#hnic2#youngvet.mbd.txt
-prodigy#return#7th_hvn.mbd.txt
-prodigy#return#bangonem.mbd.txt
-prodigy#return#fronting.mbd.txt
-prodigy#return#legends.mbd.txt
-prodigy#return#mac_10.mbd.txt
-prodigy#return#nickel.mbd.txt
-prodigy#return#ofthemac.mbd.txt
-prodigy#return#takeitto.mbd.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 prof_x#pussboot#close.prx.txt
 projdead#self_inf#access_d.man.txt
 projectp#crook_by#been_get.pat.txt
@@ -16116,16 +14904,8 @@ psychore#psycho#sickside.psy.txt
 psychore#psycho#stgarden.psy.txt
 puff_dad#lsttrain#angels.dad.txt
 puff_dad#lsttrain#angelsrm.dad.txt
-<<<<<<< HEAD
-puff_dad#lsttrain#assonthe.dad.txt
-puff_dad#lsttrain#com_home.dad.txt
 puff_dad#lsttrain#hello_gd.dad.txt
 puff_dad#lsttrain#lovecome.dad.txt
-puff_dad#lsttrain#lovinyou.dad.txt
-=======
-puff_dad#lsttrain#hello_gd.dad.txt
-puff_dad#lsttrain#lovecome.dad.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 puff_dad#pressply#afterlov.dad.txt
 puff_dad#pressply#cometome.dad.txt
 puff_dad#pressply#did_rock.dad.txt
@@ -16140,30 +14920,19 @@ puff_dad#pressply#special.dad.txt
 puff_dad#pressply#tell_me.dad.txt
 puff_dad#pressply#testimon.dad.txt
 puff_dad#pressply#thought.dad.txt
-<<<<<<< HEAD
-puff_dad#pressply#tt_pain.dad.txt
-puff_dad#pressply#wannamve.dad.txt
-puff_dad#pressply#we_gon.dad.txt
-puff_dad#rm_bside#vic_2004.dad.txt
-=======
 puff_dad#pressply#wannamve.dad.txt
 puff_dad#pressply#we_gon.dad.txt
 puff_dad#lsttrain#assonthe.dad.txt
 puff_dad#lsttrain#com_home.dad.txt
 puff_dad#lsttrain#lovinyou.dad.txt
 puff_dad#pressply#tt_pain.dad.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 puff_dad#the_saga#back_for.dad.txt
 puff_dad#the_saga#ifyouwnt.dad.txt
 puff_dad#the_saga#lastsong.dad.txt
 puff_dad#the_saga#needgirl.dad.txt
 puff_dad#the_saga#on_top.dad.txt
 puff_dad#the_saga#sean.dad.txt
-<<<<<<< HEAD
-puff_dad#weinvent#unfool.dad.txt
-=======
 puff_dad#rm_bside#vic_2004.dad.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 purpcity#p_album#gangsta.pur.txt
 pusha_t#feargod1#f_myself.clp.txt
 pusha_t#feargod1#istillwa.clp.txt
@@ -16200,14 +14969,7 @@ qlatifah#blkreign#superstr.lah.txt
 qlatifah#order_in#paper.lah.txt
 quasimot#further#closer.mto.txt
 queenpen#convo#i_reps.pen.txt
-<<<<<<< HEAD
-r_kelly#doubleup#tryinto.rky.txt
 r_martin#tsa_remy#thuglove.rem.txt
-r_thicke#blurred#giveit2u.rob.txt
-r_thicke#blurred#lines.rob.txt
-=======
-r_martin#tsa_remy#thuglove.rem.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 raekwon#ldiamond#clientel.rkw.txt
 raekwon#ldiamond#king_of.rkw.txt
 raekwon#ldiamond#missing.rkw.txt
@@ -16262,8 +15024,6 @@ rakim#7th_seal#still_in.rkm.txt
 rakim#7th_seal#walkthes.rkm.txt
 rakim#7th_seal#wont_be.rkm.txt
 rakim#7th_seal#youandi.rkm.txt
-<<<<<<< HEAD
-=======
 rakim#master#allnight.rkm.txt
 rakim#master#be_there.rkm.txt
 rakim#master#finest.rkm.txt
@@ -16281,7 +15041,6 @@ rakim#rm_bside#hip-hop.rkm.txt
 rakim#rm_bside#nothing.rkm.txt
 rakim#rm_bside#rakim.rkm.txt
 rakim#rm_bside#thetrain.rkm.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 rakim#dont_swt#along.rkm.txt
 rakim#dont_swt#assured.rkm.txt
 rakim#dont_swt#casualty.rkm.txt
@@ -16299,22 +15058,6 @@ rakim#follow#micfiend.rkm.txt
 rakim#follow#no_comp.rkm.txt
 rakim#follow#put_your.rkm.txt
 rakim#follow#the_r.rkm.txt
-<<<<<<< HEAD
-rakim#master#allnight.rkm.txt
-rakim#master#be_there.rkm.txt
-rakim#master#finest.rkm.txt
-rakim#master#forever.rkm.txt
-rakim#master#get_down.rkm.txt
-rakim#master#i_know.rkm.txt
-rakim#master#itsamust.rkm.txt
-rakim#master#neverstp.rkm.txt
-rakim#master#realshit.rkm.txt
-rakim#master#strong.rkm.txt
-rakim#master#the_R.rkm.txt
-rakim#master#waiting.rkm.txt
-rakim#master#whenibe.rkm.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 rakim#paid#ebispres.rkm.txt
 rakim#paid#goes_on.rkm.txt
 rakim#paid#igotsoul.rkm.txt
@@ -16330,63 +15073,6 @@ rakim#rhythm#rhythm.rkm.txt
 rakim#rhythm#stepback.rkm.txt
 rakim#rhythm#straight.rkm.txt
 rakim#rhythm#untouch.rkm.txt
-<<<<<<< HEAD
-rakim#rm_bside#hip-hop.rkm.txt
-rakim#rm_bside#nothing.rkm.txt
-rakim#rm_bside#rakim.rkm.txt
-rakim#rm_bside#thetrain.rkm.txt
-rampage#scout#flipmode.rmp.txt
-rap_comp#41stside#let_hang.41s.txt
-rap_comp#anticon#rainmen.ant.txt
-rap_comp#djamaica#g_callin.jam.txt
-rap_comp#djamaica#murda.jam.txt
-rap_comp#ec_star2#lookinto.ec2.txt
-rap_comp#llounge1#weight.ll1.txt
-rap_comp#llounge2#16_bars.ll2.txt
-rap_comp#llounge2#battle.ll2.txt
-rap_comp#llounge2#letsgrow.ll2.txt
-rap_comp#llounge2#still.ll2.txt
-rap_comp#llounge2#wkya.ll2.txt
-rap_comp#man_with#whtdress.fst.txt
-rap_comp#nasounds#the_pjs.nsc.txt
-rap_comp#nls_wcbs#soldiers2.nls.txt
-rap_comp#nwa_10th#gangsta.r10.txt
-rap_comp#p_ribbon#hold_on.prp.txt
-rap_comp#qbfinest#our_way.qbf.txt
-rap_comp#qbfinest#teenage.qbf.txt
-rap_comp#qbfinest#wealth.qbf.txt
-rap_comp#quannum#looking.qua.txt
-rap_comp#rndsouth#catch_up.rnd.txt
-rap_comp#rndsouth#one.rnd.txt
-rap_comp#rndsouth#wood.rnd.txt
-rap_comp#ruff2011#get_your.rrc.txt
-rap_comp#ruffryd3#friendof.rrc.txt
-rap_comp#ruffryde#jigga.rrc.txt
-rap_comp#ruffryde#kiss_of.rrc.txt
-rap_comp#selfmde1#that_way.mmg.txt
-rap_comp#sugrhill#8wonder.sug.txt
-rap_comp#sugrhill#apache.sug.txt
-rap_comp#sugrhill#ooh_baby.sug.txt
-rap_comp#sugrhill#step_off.sug.txt
-rap_comp#sugrhill#thebride.sug.txt
-rap_comp#sugrhill#thelover.sug.txt
-rap_comp#sugrhill#vice.sug.txt
-rap_comp#sugrhill#w_lines.sug.txt
-rap_comp#swarmpt3#assedout.wtg.txt
-rap_comp#the_reup#bymyside.rup.txt
-rap_comp#the_reup#crynowrm.rup.txt
-rap_comp#the_reup#get_low.rup.txt
-rap_comp#the_reup#jimmycrn.rup.txt
-rap_comp#the_reup#pp_remix.rup.txt
-rap_comp#the_reup#shakermx.rup.txt
-rap_comp#the_reup#skiremix.rup.txt
-rap_comp#the_reup#smackrmx.rup.txt
-rap_comp#the_reup#the_reup.rup.txt
-rap_comp#the_reup#there_he.rup.txt
-rap_comp#the_reup#tryin_ta.rup.txt
-rap_comp#the_reup#wereback.rup.txt
-rap_comp#wcbbvol3#sick.wst.txt
-=======
 rampage#scout#flipmode.rmp.txt
 rap_comp#djamaica#murda.jam.txt
 rap_comp#rndsouth#one.rnd.txt
@@ -17101,7 +15787,6 @@ rap_comp#the_reup#bymyside.rup.txt
 rap_comp#the_reup#get_low.rup.txt
 rap_comp#the_reup#tryin_ta.rup.txt
 rap_comp#the_reup#there_he.rup.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 rapp4tay#4hardway#playaz_d.4ty.txt
 rapp4tay#4hardway#wwwtgame.4ty.txt
 rapp4tay#tomackin#throw_it.4ty.txt
@@ -17225,9 +15910,6 @@ redman#whut_the#redman.rmn.txt
 redman#whut_the#so_ruff.rmn.txt
 redman#whut_the#soopapt1.rmn.txt
 redman#whut_the#time_for.rmn.txt
-<<<<<<< HEAD
-reflect#rm_bside#example.ref.txt
-=======
 sermon#insomnia#funkrama.esc.txt
 reflect#rm_bside#example.ref.txt
 t_kweli#b_mix_cd#so_good.tab.txt
@@ -17319,7 +16001,6 @@ t_kweli#struggle#nbi_love.tab.txt
 t_kweli#struggle#the_beat.tab.txt
 t_kweli#struggle#we_know.tab.txt
 t_kweli#struggle#work_out.tab.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 reflect#rm_bside#mission.ref.txt
 reflect#rpm#bckagain.ref.txt
 reflect#rpm#jstbegun.ref.txt
@@ -17328,18 +16009,6 @@ reflect#rpm#midnight.ref.txt
 rehab#southern#storm_ch.rhb.txt
 reks#chosen#final_4.rek.txt
 remedy#genuine#nevagain.rmd.txt
-<<<<<<< HEAD
-rev_run#distort#boom_dit.run.txt
-rev_run#distort#breaktme.run.txt
-rev_run#distort#dontstop.run.txt
-rev_run#distort#high_and.run.txt
-rev_run#distort#hmesweet.run.txt
-rev_run#distort#ion.run.txt
-rev_run#distort#mind_on.run.txt
-rev_run#distort#taketour.run.txt
-rev_run#distort#the_way.run.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 rhymefst#b_collar#brandnew.fst.txt
 rhymefst#b_collar#more.fst.txt
 rhymefst#dang_518#how_high.fst.txt
@@ -17441,11 +16110,6 @@ rickross#trilla#this_me.rck.txt
 rickross#trilla#thislife.rck.txt
 rickross#trilla#tr_intro.rck.txt
 rickross#trilla#weshinin.rck.txt
-<<<<<<< HEAD
-rihanna#talkthat#talk.rih.txt
-rihanna#unapol#numb.rih.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 rjd2#colossus#shining.rjd.txt
 rl_flush#ghetmill#nightout.rfl.txt
 rl_flush#ghetmill#wtashame.rfl.txt
@@ -17507,10 +16171,6 @@ roots#hmegrown#what_you.rts.txt
 roots#how_over#deargod2.rts.txt
 roots#how_over#di_again.rts.txt
 roots#how_over#how_over.rts.txt
-<<<<<<< HEAD
-roots#how_over#hustla.rts.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 roots#how_over#nownever.rts.txt
 roots#how_over#peace_of.rts.txt
 roots#how_over#rad_daze.rts.txt
@@ -17546,10 +16206,6 @@ roots#phren#water.rts.txt
 roots#ris_down#75_bars.rts.txt
 roots#ris_down#at_15.rts.txt
 roots#ris_down#becoming.rts.txt
-<<<<<<< HEAD
-roots#ris_down#criminal.rts.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 roots#ris_down#g_return.rts.txt
 roots#ris_down#get_busy.rts.txt
 roots#ris_down#icnthelp.rts.txt
@@ -17582,120 +16238,15 @@ roots#undun#remember.rts.txt
 roots#undun#sleep.rts.txt
 roots#undun#stomp.rts.txt
 roots#undun#tipscale.rts.txt
-<<<<<<< HEAD
-rootsman#run_come#joindots.uva.txt
-royce#bar_exam#asliveas.r59.txt
-royce#bar_exam#gone_ret.r59.txt
-royce#bar_exam#gorilla.r59.txt
-royce#bar_exam#hit_em.r59.txt
-royce#bar_exam#keep_on.r59.txt
-royce#bar_exam#ryislike.r59.txt
-royce#bar_exam#streethp.r59.txt
-royce#barexam2#wgbodied.r59.txt
-royce#barexam3#187_res.r59.txt
-royce#barexam3#airplane.r59.txt
-royce#barexam3#gohardp1.r59.txt
-royce#barexam3#gohardp2.r59.txt
-royce#barexam3#ih8pants.r59.txt
-royce#barexam3#its_free.r59.txt
-royce#barexam3#k_vishis.r59.txt
-royce#barexam3#manskit2.r59.txt
-royce#barexam3#manskit3.r59.txt
-royce#barexam3#manskit4.r59.txt
-royce#barexam3#psycho.r59.txt
-royce#barexam3#taxi_dri.r59.txt
-royce#build#deathday.r59.txt
-royce#build#hartbeat.r59.txt
-royce#build#its_over.r59.txt
-royce#build#letsgrow.r59.txt
-royce#build#make_run.r59.txt
-royce#build#raw.r59.txt
-royce#build#the_king.r59.txt
-royce#death_is#beef.r59.txt
-royce#death_is#bomb_1st.r59.txt
-royce#death_is#ev_goes.r59.txt
-royce#death_is#gangsta.r59.txt
-royce#death_is#hip_hop.r59.txt
-royce#death_is#i_and_me.r59.txt
-royce#death_is#ipromise.r59.txt
-royce#death_is#regardls.r59.txt
-royce#death_is#somethin.r59.txt
-royce#death_is#today.r59.txt
-royce#death_is#whatknow.r59.txt
-=======
 roots#ris_down#criminal.rts.txt
 rootsman#run_come#joindots.uva.txt
 royce#bar_exam#keep_on.r59.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 royce#indieday#blow_dat.r59.txt
 royce#indieday#chips_on.r59.txt
 royce#indieday#indieday.r59.txt
 royce#indieday#ioweyou.r59.txt
 royce#indieday#lay_down.r59.txt
 royce#indieday#looking.r59.txt
-<<<<<<< HEAD
-royce#indieday#ride.r59.txt
-royce#indieday#rightbck.r59.txt
-royce#indieday#whistle.r59.txt
-royce#indieday#yeah.r59.txt
-royce#mic#nickel.r59.txt
-royce#mic#simonsay.r59.txt
-royce#rm_bside#boom.r59.txt
-royce#rm_bside#donthate.r59.txt
-royce#rm_bside#rewind.r59.txt
-royce#rockcity#boom.r59.txt
-royce#rockcity#d_elite.r59.txt
-royce#rockcity#d_elite2.r59.txt
-royce#rockcity#getpaper.r59.txt
-royce#rockcity#king_of.r59.txt
-royce#rockcity#lets_go.r59.txt
-royce#rockcity#life.r59.txt
-royce#rockcity#mrballer.r59.txt
-royce#rockcity#myfriend.r59.txt
-royce#rockcity#nine_is.r59.txt
-royce#rockcity#o_parole.r59.txt
-royce#rockcity#rockcity.r59.txt
-royce#rockcity#s_story.r59.txt
-royce#rockcity#shes_one.r59.txt
-royce#rockcity#take_his.r59.txt
-royce#rockcity#touch_me.r59.txt
-royce#rockcity#tuesday.r59.txt
-royce#rockcity#whoami.r59.txt
-royce#streethp#bad_boy.r59.txt
-royce#streethp#countfor.r59.txt
-royce#streethp#dinnertm.r59.txt
-royce#streethp#far_away.r59.txt
-royce#streethp#gangsta.r59.txt
-royce#streethp#gun_harm.r59.txt
-royce#streethp#hoodlove.r59.txt
-royce#streethp#hop_2010.r59.txt
-royce#streethp#im_fresh.r59.txt
-royce#streethp#its_all.r59.txt
-royce#streethp#minethiz.r59.txt
-royce#streethp#murder.r59.txt
-royce#streethp#my_own.r59.txt
-royce#streethp#newmoney.r59.txt
-royce#streethp#ontherun.r59.txt
-royce#streethp#partofme.r59.txt
-royce#streethp#s2ride2.r59.txt
-royce#streethp#shakeths.r59.txt
-royce#streethp#soldier.r59.txt
-royce#streethp#thingfor.r59.txt
-royce#streethp#warriors.r59.txt
-royce#success#ER.r59.txt
-royce#success#iaintcom.r59.txt
-royce#success#legendry.r59.txt
-royce#success#merry_go.r59.txt
-royce#success#on_the_b.r59.txt
-royce#success#second.r59.txt
-royce#success#security.r59.txt
-royce#success#writers.r59.txt
-royce#thealbum#angel.r59.txt
-royce#thealbum#give_up.r59.txt
-royce#thealbum#heat_to.r59.txt
-royce#thealbum#promise.r59.txt
-royce#thealbum#we_deep.r59.txt
-=======
 royce#indieday#rightbck.r59.txt
 royce#indieday#whistle.r59.txt
 royce#indieday#yeah.r59.txt
@@ -17705,7 +16256,6 @@ royce#rockcity#mrballer.r59.txt
 royce#rockcity#o_parole.r59.txt
 royce#rockcity#take_his.r59.txt
 royce#streethp#warriors.r59.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 royjones#bodyhead#dstartit.roy.txt
 run_dmc#backhell#allabout.dmc.txt
 run_dmc#backhell#backhell.dmc.txt
@@ -17761,175 +16311,6 @@ run_dmc#raising#tricky.dmc.txt
 run_dmc#rm_bside#back_rmx.dmc.txt
 run_dmc#rm_bside#bounce.dmc.txt
 run_dmc#rm_bside#ghost.dmc.txt
-<<<<<<< HEAD
-run_dmc#rm_bside#herewego.dmc.txt
-run_dmc#royal#ahhh.dmc.txt
-run_dmc#royal#ay_papi.dmc.txt
-run_dmc#royal#crown.dmc.txt
-run_dmc#royal#its_over.dmc.txt
-run_dmc#royal#queens.dmc.txt
-run_dmc#royal#rockshow.dmc.txt
-run_dmc#royal#school.dmc.txt
-run_dmc#royal#simmons.dmc.txt
-run_dmc#royal#take_the.dmc.txt
-run_dmc#royal#thmgirls.dmc.txt
-run_dmc#royal#together.dmc.txt
-run_dmc#royal#wego2001.dmc.txt
-run_dmc#run_dmc#30_days.dmc.txt
-run_dmc#run_dmc#hrdtimes.dmc.txt
-run_dmc#run_dmc#jam.dmc.txt
-run_dmc#run_dmc#rock_box.dmc.txt
-run_dmc#run_dmc#rockbboy.dmc.txt
-run_dmc#run_dmc#suckermc.dmc.txt
-run_dmc#tougher#beats.dmc.txt
-run_dmc#tougher#crack.dmc.txt
-run_dmc#tougher#crazy.dmc.txt
-run_dmc#tougher#elaine.dmc.txt
-run_dmc#tougher#howd_ya.dmc.txt
-run_dmc#tougher#leather.dmc.txt
-run_dmc#tougher#marymary.dmc.txt
-run_dmc#tougher#notgoing.dmc.txt
-run_dmc#tougher#pnthouse.dmc.txt
-run_dmc#tougher#ragtime.dmc.txt
-run_dmc#tougher#soul_to.dmc.txt
-run_dmc#tougher#station.dmc.txt
-run_dmc#tougher#theycall.dmc.txt
-rza#birth_of#fastcars.rza.txt
-rza#bobbydig#silkworm.rza.txt
-rza#d_bullet#do_u.rza.txt
-rza#d_bullet#glocko.rza.txt
-rza#d_bullet#larhumba.rza.txt
-rza#rm_bside#wu_wear.rza.txt
-rza#theworld#saian.rza.txt
-s_childs#learn_my#shaolin2.sol.txt
-s_childs#the_wake#ghood_ov.sol.txt
-s_childs#the_wake#m_lineup.sol.txt
-s_fingaz#blktrash#state_vs.stk.txt
-s_jacken#sbullets#sickside.jck.txt
-s_mendes#timeless#looseend.men.txt
-s_price#jesusprc#be_known.prc.txt
-s_sheist#informal#wake_up.shd.txt
-s_sheist#rm_bside#cali_d.shd.txt
-s_sheist#rm_bside#m_owners.shd.txt
-sadat_x#brandnew#blowupda.sdx.txt
-sadat_x#brandnew#new_bein.sdx.txt
-sadat_x#brandnew#nuthin.sdx.txt
-saigon#breadand#not_like.sai.txt
-saigon#greatest#andthewi.sai.txt
-saigon#greatest#bringpt1.sai.txt
-saigon#greatest#bringpt2.sai.txt
-saigon#greatest#invit8tn.sai.txt
-saigon#greatest#too_long.sai.txt
-saigon#greatest#what_the.sai.txt
-saigon#warning3#bringpt3.sai.txt
-samsneed#rm_bside#better.sam.txt
-sanquinn#igiveyou#pop_off.san.txt
-sasteady#insearch#best_of.sas.txt
-saucemon#middle#doyousee.smn.txt
-saucemon#middle#face2000.smn.txt
-saucemon#middle#pre_game.smn.txt
-scarface#ballsand#dirtymon.scf.txt
-scarface#ballsand#makeyour.scf.txt
-scarface#ballsand#mary_two.scf.txt
-scarface#ballsand#on_grind.scf.txt
-scarface#ballsand#onlyyour.scf.txt
-scarface#ballsand#real_nig.scf.txt
-scarface#ballsand#recon.scf.txt
-scarface#ballsand#spendthe.scf.txt
-scarface#ballsand#stuck_at.scf.txt
-scarface#dm_music#tgreport.scf.txt
-scarface#emeritus#cant_get.scf.txt
-scarface#emeritus#emeritus.scf.txt
-scarface#emeritus#high_pow.scf.txt
-scarface#emeritus#notagame.scf.txt
-scarface#emeritus#who_they.scf.txt
-scarface#homiesp2#def_real.scf.txt
-scarface#homiesp2#get_paid.scf.txt
-scarface#homiesp2#intro.scf.txt
-scarface#homiesp2#man_cry.scf.txt
-scarface#homiesp2#my_life.scf.txt
-scarface#homiesp2#never_sn.scf.txt
-scarface#homiesp2#ps_itchy.scf.txt
-scarface#homiesp2#tryin_to.scf.txt
-scarface#homiesp2#weouthre.scf.txt
-scarface#last_of#and_yo.scf.txt
-scarface#last_of#breed.scf.txt
-scarface#last_of#c_theory.scf.txt
-scarface#last_of#get_out.scf.txt
-scarface#last_of#inandout.scf.txt
-scarface#last_of#inmytime.scf.txt
-scarface#last_of#it_aint.scf.txt
-scarface#last_of#lookinto.scf.txt
-scarface#last_of#og_to_me.scf.txt
-scarface#last_of#thegshit.scf.txt
-scarface#last_of#theydown.scf.txt
-scarface#last_of#watch_ya.scf.txt
-scarface#made#crack.scf.txt
-scarface#made#girl_you.scf.txt
-scarface#made#never.scf.txt
-scarface#made#whodoyou.scf.txt
-scarface#mr_scar#a_minute.scf.txt
-scarface#mr_scar#b_killer.scf.txt
-scarface#mr_scar#body_sna.scf.txt
-scarface#mr_scar#diary_of.scf.txt
-scarface#mr_scar#goodgirl.scf.txt
-scarface#mr_scar#im_dead.scf.txt
-scarface#mr_scar#insanity.scf.txt
-scarface#mr_scar#money.scf.txt
-scarface#mr_scar#pimp.scf.txt
-scarface#mr_scar#scarface.scf.txt
-scarface#mr_scar#your_ass.scf.txt
-scarface#myhomies#2_real.scf.txt
-scarface#myhomies#do_what.scf.txt
-scarface#myhomies#fckfaces.scf.txt
-scarface#myhomies#ghetto.scf.txt
-scarface#myhomies#hustler.scf.txt
-scarface#myhomies#krunch.scf.txt
-scarface#myhomies#ovrnight.scf.txt
-scarface#myhomies#smalltme.scf.txt
-scarface#myhomies#use_them.scf.txt
-scarface#myhomies#win_lose.scf.txt
-scarface#rm_bside#no_tears.scf.txt
-scarface#rm_bside#skrilla.scf.txt
-scarface#rm_bside#suicide.scf.txt
-scarface#the_fix#cldblood.scf.txt
-scarface#the_fix#guesswho.scf.txt
-scarface#the_fix#heaven.scf.txt
-scarface#the_fix#i_aint.scf.txt
-scarface#the_fix#inbtween.scf.txt
-scarface#the_fix#keep_me.scf.txt
-scarface#the_fix#my_block.scf.txt
-scarface#the_fix#safe.scf.txt
-scarface#the_fix#someday.scf.txt
-scarface#the_fix#what_can.scf.txt
-scarface#thediary#goindown.scf.txt
-scarface#thediary#gs.scf.txt
-scarface#thediary#hand_of.scf.txt
-scarface#thediary#j_james.scf.txt
-scarface#thediary#no_tears.scf.txt
-scarface#thediary#one.scf.txt
-scarface#thediary#seen_die.scf.txt
-scarface#thediary#thediary.scf.txt
-scarface#thediary#whtsheet.scf.txt
-scarface#untouch#able.scf.txt
-scarface#untouch#faith.scf.txt
-scarface#untouch#for_real.scf.txt
-scarface#untouch#money.scf.txt
-scarface#untouch#no_warn.scf.txt
-scarface#untouch#smartz.scf.txt
-scarface#untouch#smile.scf.txt
-scarface#untouch#southsde.scf.txt
-scarface#untouch#sunshine.scf.txt
-scarface#untouch#ya_money.scf.txt
-scarface#world_is#cominagg.scf.txt
-scarface#world_is#donthear.scf.txt
-scarface#world_is#hes_dead.scf.txt
-scarface#world_is#im_black.scf.txt
-scarface#world_is#lettinem.scf.txt
-scarface#world_is#nowifeel.scf.txt
-scarface#world_is#roll.scf.txt
-scarface#world_is#the_wall.scf.txt
-=======
 run_dmc#rm_bside#herewego.dmc.txt
 run_dmc#royal#ahhh.dmc.txt
 run_dmc#royal#ay_papi.dmc.txt
@@ -17996,7 +16377,6 @@ sasteady#insearch#best_of.sas.txt
 saucemon#middle#doyousee.smn.txt
 saucemon#middle#face2000.smn.txt
 saucemon#middle#pre_game.smn.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 scentral#n_gatz#g_team.scc.txt
 school_q#setbacks#birdsand.byq.txt
 school_q#setbacks#ly_ahead.byq.txt
@@ -18008,77 +16388,9 @@ scrwball#Y2K#the_real.sbl.txt
 seagram#reality#gangstas.sea.txt
 sen_dog#diary_of#hell_and.sen.txt
 sen_dog#diary_of#stand_up.sen.txt
-<<<<<<< HEAD
-sermon#chilltwn#canuhear.srm.txt
-sermon#chilltwn#chillin.srm.txt
-sermon#chilltwn#doyouknw.srm.txt
-sermon#chilltwn#feel_it.srm.txt
-sermon#chilltwn#fut_thug.srm.txt
-sermon#chilltwn#god_sent.srm.txt
-sermon#chilltwn#home_int.srm.txt
-sermon#chilltwn#imnothim.srm.txt
-sermon#chilltwn#like_me.srm.txt
-sermon#chilltwn#listen.srm.txt
-sermon#chilltwn#relent.srm.txt
-sermon#chilltwn#streethp.srm.txt
-sermon#chilltwn#wit_ees.srm.txt
-sermon#double#bomdigi.srm.txt
-sermon#double#boymeets.srm.txt
-sermon#double#do_thing.srm.txt
-sermon#double#focus.srm.txt
-sermon#double#freakout.srm.txt
-sermon#double#in_heat.srm.txt
-sermon#double#manabove.srm.txt
-sermon#double#move_on.srm.txt
-sermon#double#openfire.srm.txt
-sermon#double#setitoff.srm.txt
-sermon#double#tell_em.srm.txt
-sermon#double#welcome.srm.txt
-sermon#freshair#like_me.srm.txt
-sermon#freshair#setitoff.srm.txt
-sermon#insomnia#as_the.esc.txt
-sermon#insomnia#funkrama.esc.txt
-sermon#music#comethru.srm.txt
-sermon#music#doremi.srm.txt
-sermon#music#genius.srm.txt
-sermon#music#im_hot.srm.txt
-sermon#music#musicrmx.srm.txt
-sermon#music#nofuture.srm.txt
-sermon#music#now_whut.srm.txt
-sermon#music#nuttin.srm.txt
-sermon#music#sermon.srm.txt
-sermon#music#up_them.srm.txt
-sermon#pressure#all_mind.srm.txt
-sermon#pressure#doitup.srm.txt
-sermon#pressure#hostile.srm.txt
-sermon#pressure#ill_shit.srm.txt
-sermon#pressure#immagitz.srm.txt
-sermon#pressure#lilcrazy.srm.txt
-sermon#pressure#payback2.srm.txt
-sermon#pressure#safe_sex.srm.txt
-sermon#pressure#sermon.srm.txt
-sermon#pressure#species.srm.txt
-sermon#pressure#stayreal.srm.txt
-sermon#pressure#swing_it.srm.txt
-sermon#pressure#switches.srm.txt
-sermon#pressure#the_hype.srm.txt
-sermon#react#hereiiz.srm.txt
-sermon#react#love_iz.srm.txt
-sermon#react#p_right.srm.txt
-sermon#react#react.srm.txt
-sermon#react#sod.srm.txt
-sermon#react#tell_me.srm.txt
-sermon#react#thagirlz.srm.txt
-sermon#react#we_dont.srm.txt
-shabaam#rm_bside#concrete.sha.txt
-shabazz#the_book#parables.sbz.txt
-shawnna#blkmusic#takeslow.sha.txt
-shawnna#worth_tw#what_can.sha.txt
-=======
 sermon#insomnia#as_the.esc.txt
 shabaam#rm_bside#concrete.sha.txt
 shabazz#the_book#parables.sbz.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 shawtylo#units_in#fool_rmx.slo.txt
 shawtylo#units_in#got_em_4.slo.txt
 sheeklou#aftertax#45minute.shk.txt
@@ -18124,11 +16436,6 @@ silkk#made_man#no_limit.slk.txt
 silkk#my_world#themboyz.slk.txt
 skatter#word_on#heartbre.skt.txt
 skibeatz#24_hour#prowler2.ski.txt
-<<<<<<< HEAD
-skngston#rm_bside#colors.kng.txt
-skngston#rm_bside#girlsrmx.snk.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 slaine#no_skies#crazy.sln.txt
 slaine#no_skies#lastsong.sln.txt
 slaughtr#house#cuckoo.sla.txt
@@ -18219,213 +16526,6 @@ slk_rick#the_art#frozen.rck.txt
 slk_rick#the_art#impress.rck.txt
 slk_rick#the_art#irunthis.rck.txt
 slk_rick#the_art#k_niggaz.rck.txt
-<<<<<<< HEAD
-slk_rick#the_art#kngpiece.rck.txt
-slk_rick#the_art#meandnas.rck.txt
-slk_rick#the_art#memories.rck.txt
-slk_rick#the_art#rottenem.rck.txt
-slk_rick#the_art#talkin.rck.txt
-slk_rick#the_art#trapped.rck.txt
-slk_rick#the_art#we_turn.rck.txt
-slk_rick#the_art#why_why.rck.txt
-smembers#balance#rocket.mem.txt
-smembers#blkmagic#weight.mem.txt
-smokedza#rolling#ballgame.dza.txt
-smut_ped#prnagain#likesex2.smt.txt
-smut_ped#prnagain#stankmcs.smt.txt
-snoopdog#doggment#boom.snp.txt
-snoopdog#doggment#coldgame.snp.txt
-snoopdog#doggment#dontneed.snp.txt
-snoopdog#doggment#el_lay.snp.txt
-snoopdog#doggment#eyez_clo.snp.txt
-snoopdog#doggment#gbrookie.snp.txt
-snoopdog#doggment#itsdonly.snp.txt
-snoopdog#doggment#my_fucn.snp.txt
-snoopdog#doggment#myownway.snp.txt
-snoopdog#doggment#peerpres.snp.txt
-snoopdog#doggment#platinum.snp.txt
-snoopdog#doggment#raisedin.snp.txt
-snoopdog#doggment#sumthin.snp.txt
-snoopdog#doggment#superman.snp.txt
-snoopdog#doggment#takehome.snp.txt
-snoopdog#doggment#thisweed.snp.txt
-snoopdog#doggment#toyz_nda.snp.txt
-snoopdog#doggment#way_life.snp.txt
-snoopdog#doggment#we_rest.snp.txt
-snoopdog#doggment#wet.snp.txt
-snoopdog#doggment#wnderwid.snp.txt
-snoopdog#dogstyle#aintnfun.snp.txt
-snoopdog#dogstyle#bathtub.snp.txt
-snoopdog#dogstyle#doggydog.snp.txt
-snoopdog#dogstyle#formynig.snp.txt
-snoopdog#dogstyle#g_funk.snp.txt
-snoopdog#dogstyle#ginjuice.snp.txt
-snoopdog#dogstyle#gzhustla.snp.txt
-snoopdog#dogstyle#lodidodi.snp.txt
-snoopdog#dogstyle#pumppump.snp.txt
-snoopdog#dogstyle#shiznit.snp.txt
-snoopdog#dogstyle#sr_killa.snp.txt
-snoopdog#dogstyle#who_am_i.snp.txt
-snoopdog#ego_trip#been_aro.snp.txt
-snoopdog#ego_trip#cant_say.snp.txt
-snoopdog#ego_trip#cool.snp.txt
-snoopdog#ego_trip#deez_hn.snp.txt
-snoopdog#ego_trip#glike_me.snp.txt
-snoopdog#ego_trip#letitout.snp.txt
-snoopdog#ego_trip#life_of.snp.txt
-snoopdog#ego_trip#my_med.snp.txt
-snoopdog#ego_trip#nevahave.snp.txt
-snoopdog#ego_trip#o_chance.snp.txt
-snoopdog#ego_trip#pressply.snp.txt
-snoopdog#ego_trip#ridin_in.snp.txt
-snoopdog#ego_trip#sets_up.snp.txt
-snoopdog#ego_trip#sexerupt.snp.txt
-snoopdog#ego_trip#staxxx.snp.txt
-snoopdog#ego_trip#th_gurlz.snp.txt
-snoopdog#ego_trip#waste_of.snp.txt
-snoopdog#ego_trip#whateva.snp.txt
-snoopdog#ego_trip#whydid_u.snp.txt
-snoopdog#gamesold#20dollar.snp.txt
-snoopdog#gamesold#aint_p.snp.txt
-snoopdog#gamesold#clout.snp.txt
-snoopdog#gamesold#doggzget.snp.txt
-snoopdog#gamesold#dont_let.snp.txt
-snoopdog#gamesold#gangsta.snp.txt
-snoopdog#gamesold#hustle.snp.txt
-snoopdog#gamesold#lonely2.snp.txt
-snoopdog#gamesold#see_ya.snp.txt
-snoopdog#gamesold#showlove.snp.txt
-snoopdog#gamesold#slowdown.snp.txt
-snoopdog#gamesold#still_a.snp.txt
-snoopdog#gamesold#tankdogs.snp.txt
-snoopdog#lastmeal#b_fluid.snp.txt
-snoopdog#lastmeal#back_up.snp.txt
-snoopdog#lastmeal#bring_it.snp.txt
-snoopdog#lastmeal#cantswim.snp.txt
-snoopdog#lastmeal#gmecourt.snp.txt
-snoopdog#lastmeal#go_away.snp.txt
-snoopdog#lastmeal#issues.snp.txt
-snoopdog#lastmeal#lay_low.snp.txt
-snoopdog#lastmeal#leave_me.snp.txt
-snoopdog#lastmeal#loosen.snp.txt
-snoopdog#lastmeal#ready_2.snp.txt
-snoopdog#lastmeal#setitoff.snp.txt
-snoopdog#lastmeal#snp_dogg.snp.txt
-snoopdog#lastmeal#stacey.snp.txt
-snoopdog#lastmeal#truelies.snp.txt
-snoopdog#lastmeal#wrngidea.snp.txt
-snoopdog#lastmeal#yallgone.snp.txt
-snoopdog#malice#1800.snp.txt
-snoopdog#malice#2_minute.snp.txt
-snoopdog#malice#difflang.snp.txt
-snoopdog#malice#gang_luv.snp.txt
-snoopdog#malice#hseshoes.snp.txt
-snoopdog#malice#iwanrock.snp.txt
-snoopdog#malice#luvdrunk.snp.txt
-snoopdog#malice#pronto-g.snp.txt
-snoopdog#malice#pronto.snp.txt
-snoopdog#malice#protocol.snp.txt
-snoopdog#malice#rockgmix.snp.txt
-snoopdog#malice#sogangst.snp.txt
-snoopdog#malice#special.snp.txt
-snoopdog#malice#thatstha.snp.txt
-snoopdog#malice#thattree.snp.txt
-snoopdog#malice#ups_down.snp.txt
-snoopdog#malice#youregon.snp.txt
-snoopdog#paidcost#and_only.snp.txt
-snoopdog#paidcost#ballin.snp.txt
-snoopdog#paidcost#batman.snp.txt
-snoopdog#paidcost#brk_city.snp.txt
-snoopdog#paidcost#bssplaya.snp.txt
-snoopdog#paidcost#hourglas.snp.txt
-snoopdog#paidcost#i_miss.snp.txt
-snoopdog#paidcost#ibelieve.snp.txt
-snoopdog#paidcost#paperdup.snp.txt
-snoopdog#paidcost#pimpslap.snp.txt
-snoopdog#paidcost#stoplite.snp.txt
-snoopdog#paidcost#suited_n.snp.txt
-snoopdog#paidcost#yo_fault.snp.txt
-snoopdog#paidcost#you_got.snp.txt
-snoopdog#reincarn#no_guns.snp.txt
-snoopdog#rhythm#bang_out.snp.txt
-snoopdog#rhythm#bidness.snp.txt
-snoopdog#rhythm#control.snp.txt
-snoopdog#rhythm#dodouble.snp.txt
-snoopdog#rhythm#frshpair.snp.txt
-snoopdog#rhythm#getblown.snp.txt
-snoopdog#rhythm#girllike.snp.txt
-snoopdog#rhythm#im_threw.snp.txt
-snoopdog#rhythm#no_thang.snp.txt
-snoopdog#rhythm#oh_no.snp.txt
-snoopdog#rhythm#pass_it.snp.txt
-snoopdog#rhythm#perfect.snp.txt
-snoopdog#rhythm#promisei.snp.txt
-snoopdog#rhythm#signs.snp.txt
-snoopdog#rhythm#upsdowns.snp.txt
-snoopdog#rhythm#yogameup.snp.txt
-snoopdog#rhythm#youlight.snp.txt
-snoopdog#rm_bside#backupho.snp.txt
-snoopdog#rm_bside#bb2gshit.snp.txt
-snoopdog#rm_bside#case_rmx.snp.txt
-snoopdog#rm_bside#foolish.snp.txt
-snoopdog#rm_bside#hi2u.snp.txt
-snoopdog#rm_bside#keepreal.snp.txt
-snoopdog#rm_bside#midnight.snp.txt
-snoopdog#rm_bside#money_bb.snp.txt
-snoopdog#rm_bside#party.snp.txt
-snoopdog#tha_dogg#2001.snp.txt
-snoopdog#tha_dogg#blue.snp.txt
-snoopdog#tha_dogg#boogie.snp.txt
-snoopdog#tha_dogg#bounce.snp.txt
-snoopdog#tha_dogg#doggland.snp.txt
-snoopdog#tha_dogg#downtown.snp.txt
-snoopdog#tha_dogg#freestyl.snp.txt
-snoopdog#tha_dogg#goldrush.snp.txt
-snoopdog#tha_dogg#groupie.snp.txt
-snoopdog#tha_dogg#sixx_min.snp.txt
-snoopdog#tha_dogg#snoopsup.snp.txt
-snoopdog#tha_dogg#tearmoff.snp.txt
-snoopdog#tha_dogg#uthought.snp.txt
-snoopdog#tha_dogg#vapors.snp.txt
-snoopdog#the_blue#10_crips.snp.txt
-snoopdog#the_blue#a_bitch.snp.txt
-snoopdog#the_blue#beat_up.snp.txt
-snoopdog#the_blue#bosslife.snp.txt
-snoopdog#the_blue#candydrp.snp.txt
-snoopdog#the_blue#convo.snp.txt
-snoopdog#the_blue#crazy.snp.txt
-snoopdog#the_blue#dontstop.snp.txt
-snoopdog#the_blue#gang_101.snp.txt
-snoopdog#the_blue#getlight.snp.txt
-snoopdog#the_blue#imagine.snp.txt
-snoopdog#the_blue#LAX.snp.txt
-snoopdog#the_blue#likethis.snp.txt
-snoopdog#the_blue#psst.snp.txt
-snoopdog#the_blue#rnd_here.snp.txt
-snoopdog#the_blue#thatshit.snp.txt
-snoopdog#the_blue#think_ab.snp.txt
-snoopdog#the_blue#vato.snp.txt
-snoopdog#the_blue#whichone.snp.txt
-snoopdog#top_dogg#20minute.snp.txt
-snoopdog#top_dogg#bedtime.snp.txt
-snoopdog#top_dogg#betta.snp.txt
-snoopdog#top_dogg#bidness.snp.txt
-snoopdog#top_dogg#buck_em.snp.txt
-snoopdog#top_dogg#buss_n.snp.txt
-snoopdog#top_dogg#dippin.snp.txt
-snoopdog#top_dogg#donttell.snp.txt
-snoopdog#top_dogg#gangride.snp.txt
-snoopdog#top_dogg#goesboom.snp.txt
-snoopdog#top_dogg#in_love.snp.txt
-snoopdog#top_dogg#my_momma.snp.txt
-snoopdog#top_dogg#please.snp.txt
-snoopdog#top_dogg#snoopa.snp.txt
-snoopdog#top_dogg#symphony.snp.txt
-snoopdog#top_dogg#too_much.snp.txt
-snoopdog#top_dogg#trust_me.snp.txt
-snoopdog#top_dogg#withaDPG.snp.txt
-snoopdog#welcome#realsoon.snp.txt
-=======
 slk_rick#the_art#kngpiece.rck.txt
 slk_rick#the_art#meandnas.rck.txt
 slk_rick#the_art#memories.rck.txt
@@ -18440,7 +16540,6 @@ smokedza#rolling#ballgame.dza.txt
 smut_ped#prnagain#likesex2.smt.txt
 smut_ped#prnagain#stankmcs.smt.txt
 snoopdog#reincarn#no_guns.snp.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 snwgoons#dynasty#get_off.snw.txt
 sol_wise#windowto#mydreams.wse.txt
 soopafly#dat_woop#bacc2la.soo.txt
@@ -18486,173 +16585,6 @@ statik_s#script#for_city.sta.txt
 statik_s#script#get_out.sta.txt
 statik_s#script#marquee.sta.txt
 statik_s#script#take_it.sta.txt
-<<<<<<< HEAD
-statik_s#spell_my#backwall.sta.txt
-statik_s#spell_my#stoplook.sta.txt
-strangef#healing#rise.sfp.txt
-street#educatn#st_ed.lfe.txt
-styles#masterof#children.lox.txt
-styles#masterof#dontturn.lox.txt
-styles#masterof#feelings.lox.txt
-styles#masterof#howi_fly.lox.txt
-styles#masterof#im_a_gee.lox.txt
-styles#masterof#its_ok.lox.txt
-styles#masterof#keep_the.lox.txt
-styles#masterof#rydeonda.lox.txt
-styles#masterof#uh-ohh.lox.txt
-styles#masterof#we_dont.lox.txt
-styles#rm_bside#harsh.lox.txt
-styles#rm_bside#whatsthe.lox.txt
-styles#supergng#alliknow.lox.txt
-styles#supergng#alone_in.lox.txt
-styles#supergng#cause_im.lox.txt
-styles#supergng#da_80s.lox.txt
-styles#supergng#gangster.lox.txt
-styles#supergng#got_eyes.lox.txt
-styles#supergng#greenpce.lox.txt
-styles#supergng#holiday.lox.txt
-styles#supergng#in_it_to.lox.txt
-styles#supergng#lets_go.lox.txt
-styles#supergng#look_at.lox.txt
-styles#supergng#star_of.lox.txt
-styles#supergng#supergng.lox.txt
-styles#supergng#u_aint.lox.txt
-styles#theghost#believe.lox.txt
-styles#theghost#inmyhood.lox.txt
-styles#theghost#the_mc.lox.txt
-styles#time_is#believe.lox.txt
-styles#time_is#burn_one.lox.txt
-styles#time_is#favedrug.lox.txt
-styles#time_is#firepain.lox.txt
-styles#time_is#g_joint.lox.txt
-styles#time_is#how_live.lox.txt
-styles#time_is#im_black.lox.txt
-styles#time_is#kick_it.lox.txt
-styles#time_is#message.lox.txt
-styles#time_is#realshit.lox.txt
-styles#time_is#testify.lox.txt
-styles#time_is#whoremix.lox.txt
-suc#making#back_up.suc.txt
-sunofman#the_last#next_up.sun.txt
-supastit#chainlet#soul_con.sup.txt
-supercat#don_dada#bigready.cat.txt
-supercat#don_dada#demnowor.cat.txt
-svillage#fanvol2#whats_it.vil.txt
-svillage#manifest#where_do.vil.txt
-swaytech#thisthat#anthem.swy.txt
-swisha#theday3#chunk_up.hse.txt
-swisha#theday3#gangsta.hse.txt
-swizzbtz#stories1#endalay.swz.txt
-swizzbtz#stories1#gone_del.swz.txt
-swizzbtz#stories1#wedidit.swz.txt
-t-kash#turf_war#amerlong.ksh.txt
-t-pain#revolver#5_oclock.tpn.txt
-t-pain#revolver#nuthin.tpn.txt
-t-pain#revolver#rap_song.tpn.txt
-t-pain#sanga#sprung_2.tpn.txt
-t-pain#thr33#change.tpn.txt
-t-pain#thr33#chopped.tpn.txt
-t-pain#thr33#therapy.tpn.txt
-t_barker#give_the#beatgoes.bar.txt
-t_barker#give_the#canadrum.bar.txt
-t_barker#give_the#city_of.bar.txt
-t_barker#give_the#devilgot.bar.txt
-t_barker#give_the#dontfwit.bar.txt
-t_barker#give_the#ifu_want.bar.txt
-t_barker#give_the#juschill.bar.txt
-t_barker#give_the#knockin.bar.txt
-t_barker#give_the#lets_go.bar.txt
-t_barker#give_the#raw_shit.bar.txt
-t_kweli#b_mix_cd#so_good.tab.txt
-t_kweli#ear_drum#country.tab.txt
-t_kweli#ear_drum#eat_live.tab.txt
-t_kweli#ear_drum#everyman.tab.txt
-t_kweli#ear_drum#givehell.tab.txt
-t_kweli#ear_drum#gowithus.tab.txt
-t_kweli#ear_drum#holymoly.tab.txt
-t_kweli#ear_drum#hostile1.tab.txt
-t_kweli#ear_drum#hostile2.tab.txt
-t_kweli#ear_drum#hotthing.tab.txt
-t_kweli#ear_drum#in_mood.tab.txt
-t_kweli#ear_drum#listen.tab.txt
-t_kweli#ear_drum#moreless.tab.txt
-t_kweli#ear_drum#nature.tab.txt
-t_kweli#ear_drum#NY_weath.tab.txt
-t_kweli#ear_drum#oh_stars.tab.txt
-t_kweli#ear_drum#perfect.tab.txt
-t_kweli#ear_drum#s_around.tab.txt
-t_kweli#ear_drum#say_some.tab.txt
-t_kweli#ear_drum#soon_day.tab.txt
-t_kweli#ear_drum#spcfruit.tab.txt
-t_kweli#prisoner#beforehe.tab.txt
-t_kweli#prisoner#comehere.tab.txt
-t_kweli#prisoner#delicate.tab.txt
-t_kweli#prisoner#favela.tab.txt
-t_kweli#prisoner#hamster.tab.txt
-t_kweli#prisoner#highlife.tab.txt
-t_kweli#prisoner#hold_now.tab.txt
-t_kweli#prisoner#humanmic.tab.txt
-t_kweli#prisoner#intro.tab.txt
-t_kweli#prisoner#it_only.tab.txt
-t_kweli#prisoner#readyset.tab.txt
-t_kweli#prisoner#rocket.tab.txt
-t_kweli#prisoner#turnt_up.tab.txt
-t_kweli#prisoner#upperech.tab.txt
-t_kweli#quality#get_by.tab.txt
-t_kweli#quality#good_to.tab.txt
-t_kweli#quality#gunmusic.tab.txt
-t_kweli#quality#joy.tab.txt
-t_kweli#quality#monsoon.tab.txt
-t_kweli#quality#putitin.tab.txt
-t_kweli#quality#rush.tab.txt
-t_kweli#quality#shock.tab.txt
-t_kweli#quality#stand_to.tab.txt
-t_kweli#quality#talk_you.tab.txt
-t_kweli#quality#theproud.tab.txt
-t_kweli#quality#waitin.tab.txt
-t_kweli#quality#where_do.tab.txt
-t_kweli#quality#wont_you.tab.txt
-t_kweli#rainbows#afterthe.tab.txt
-t_kweli#rainbows#aintwait.tab.txt
-t_kweli#rainbows#coldrain.tab.txt
-t_kweli#rainbows#friends.tab.txt
-t_kweli#rainbows#gutter.tab.txt
-t_kweli#rainbows#howyoulv.tab.txt
-t_kweli#rainbows#imonone.tab.txt
-t_kweli#rainbows#mr_int.tab.txt
-t_kweli#rainbows#palookas.tab.txt
-t_kweli#rainbows#selfsave.tab.txt
-t_kweli#rainbows#so_low.tab.txt
-t_kweli#rainbows#tatertot.tab.txt
-t_kweli#rainbows#uh_oh.tab.txt
-t_kweli#rainbows#wait_for.tab.txt
-t_kweli#rightnow#drugsrap.tab.txt
-t_kweli#rightnow#flashgor.tab.txt
-t_kweli#rightnow#fly_that.tab.txt
-t_kweli#rightnow#gonnarun.tab.txt
-t_kweli#rightnow#ms_hill.tab.txt
-t_kweli#rightnow#rightnow.tab.txt
-t_kweli#rightnow#rock_on.tab.txt
-t_kweli#rightnow#roll_off.tab.txt
-t_kweli#rightnow#supreme.tab.txt
-t_kweli#rightnow#thebeast.tab.txt
-t_kweli#rightnow#two_and.tab.txt
-t_kweli#rightnow#whogotit.tab.txt
-t_kweli#rm_bside#beautifl.tab.txt
-t_kweli#struggle#a_game.tab.txt
-t_kweli#struggle#aroundmy.tab.txt
-t_kweli#struggle#back_up.tab.txt
-t_kweli#struggle#beautifl.tab.txt
-t_kweli#struggle#broken_g.tab.txt
-t_kweli#struggle#gh_show.tab.txt
-t_kweli#struggle#girlpain.tab.txt
-t_kweli#struggle#goinghrd.tab.txt
-t_kweli#struggle#i_try.tab.txt
-t_kweli#struggle#nbi_love.tab.txt
-t_kweli#struggle#the_beat.tab.txt
-t_kweli#struggle#we_know.tab.txt
-t_kweli#struggle#work_out.tab.txt
-=======
 statik_s#spell_my#backwall.sta.txt
 statik_s#spell_my#stoplook.sta.txt
 strangef#healing#rise.sfp.txt
@@ -18684,7 +16616,6 @@ t_barker#give_the#juschill.bar.txt
 t_barker#give_the#knockin.bar.txt
 t_barker#give_the#lets_go.bar.txt
 t_barker#give_the#raw_shit.bar.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 t_love#returnof#returnof.tlv.txt
 t_love#returnof#wnnabeez.tlv.txt
 t_squad#squad_lp#99_live.ter.txt
@@ -18922,16 +16853,6 @@ tech9ne#rm_bside#question.9ne.txt
 tech9ne#seepage#alucard.9ne.txt
 tech9ne#seepage#bite_me.9ne.txt
 tech9ne#seepage#seepage.9ne.txt
-<<<<<<< HEAD
-tech9ne#sick_101#areola.9ne.txt
-tech9ne#sick_101#blwnaway.9ne.txt
-tech9ne#sick_101#dysfunct.9ne.txt
-tech9ne#sick_101#nothin.9ne.txt
-tech9ne#sick_101#partyand.9ne.txt
-tech9ne#sick_101#red_nose.9ne.txt
-tech9ne#sick_101#sick_101.9ne.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 tech9ne#thecalm1#cloudyrm.9ne.txt
 tech9ne#thecalm1#clueless.9ne.txt
 tech9ne#thecalm1#flipside.9ne.txt
@@ -18947,10 +16868,6 @@ tech9ne#theworst#theworst.9ne.txt
 tech9ne#theworst#thugged.9ne.txt
 tech9ne#theworst#trauma.9ne.txt
 tech9ne#theworst#walkthse.9ne.txt
-<<<<<<< HEAD
-tech9ne#welcome#b_music.9ne.txt
-tech9ne#welcome#noose.9ne.txt
-=======
 tech9ne#welcome#noose.9ne.txt
 tech9ne#sick_101#areola.9ne.txt
 tech9ne#sick_101#blwnaway.9ne.txt
@@ -18960,7 +16877,6 @@ tech9ne#sick_101#partyand.9ne.txt
 tech9ne#sick_101#red_nose.9ne.txt
 tech9ne#sick_101#sick_101.9ne.txt
 tech9ne#welcome#b_music.9ne.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 termanol#as_usual#hoodshit.ter.txt
 termanol#as_usual#how_rock.ter.txt
 termanol#time_mac#musicrmx.ter.txt
@@ -19009,10 +16925,6 @@ the_game#hoodmorn#25tolife.gme.txt
 the_game#hoodmorn#canyoube.gme.txt
 the_game#hoodmorn#fuckedup.gme.txt
 the_game#hoodmorn#red.gme.txt
-<<<<<<< HEAD
-the_game#hoodmorn#town.gme.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 the_game#hoodmorn#uncleots.gme.txt
 the_game#hoodmorn#wow.gme.txt
 the_game#jesus_pc#ali_bom.gme.txt
@@ -19098,10 +17010,6 @@ the_game#republic#tonight.gme.txt
 the_game#republic#when_nig.gme.txt
 the_game#rm_bside#an_doubt.gme.txt
 the_game#rm_bside#bngalong.gme.txt
-<<<<<<< HEAD
-the_game#rm_bside#cocaine.gme.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 the_game#rm_bside#fireeyes.gme.txt
 the_game#rm_bside#h_liquor.gme.txt
 the_game#rm_bside#west_rmx.gme.txt
@@ -19147,11 +17055,8 @@ the_game#youknow3#allineed.gme.txt
 the_game#youknow3#dreamssr.gme.txt
 the_game#youknow3#ima_king.gme.txt
 the_game#youknow3#where_im.gme.txt
-<<<<<<< HEAD
-=======
 the_game#hoodmorn#town.gme.txt
 the_game#rm_bside#cocaine.gme.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 thecross#gift_rap#camedown.tcm.txt
 thecross#gift_rap#happyday.tcm.txt
 thecross#gift_rap#invasion.tcm.txt
@@ -19206,13 +17111,8 @@ thecross#human_em#remember.tcm.txt
 thecross#human_em#thelight.tcm.txt
 thecross#human_em#what_do.tcm.txt
 thedream#dpebitch#dpebitch.drm.txt
-<<<<<<< HEAD
-thedream#iv_play#pussy.drm.txt
-thedream#iv_play#slowdown.drm.txt
-=======
 thedream#iv_play#slowdown.drm.txt
 thedream#iv_play#pussy.drm.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 theounit#718#88_free.the.txt
 theounit#718#bemygirl.the.txt
 theounit#718#dailyrou.the.txt
@@ -19401,211 +17301,6 @@ tlc#rm_bside#alliwant.tlc.txt
 tlc#rm_bside#getitup.tlc.txt
 tlc#rm_bside#it_works.tlc.txt
 tlc#rm_bside#sleigh.tlc.txt
-<<<<<<< HEAD
-tlc#tip#babybaby.tlc.txt
-tlc#tip#dasdaway.tlc.txt
-tlc#tip#dependon.tlc.txt
-tlc#tip#friends.tlc.txt
-tlc#tip#hat2da.tlc.txt
-tlc#tip#hisstory.tlc.txt
-tlc#tip#myself.tlc.txt
-tlc#tip#shockdat.tlc.txt
-tlc#tip#somethin.tlc.txt
-tlc#tip#this_is.tlc.txt
-tnytouch#maker2#rksteady.tt5.txt
-tnytouch#rm_bside#capicu.tt5.txt
-tonyyayo#rm_bside#haters.yay.txt
-tonyyayo#thoughts#curious.yay.txt
-tonyyayo#thoughts#dear_suz.yay.txt
-tonyyayo#thoughts#dramaset.yay.txt
-tonyyayo#thoughts#eastside.yay.txt
-tonyyayo#thoughts#g_shit.yay.txt
-tonyyayo#thoughts#homicide.yay.txt
-tonyyayo#thoughts#iknowyou.yay.txt
-tonyyayo#thoughts#imsohigh.yay.txt
-tonyyayo#thoughts#itiswhat.yay.txt
-tonyyayo#thoughts#live_gun.yay.txt
-tonyyayo#thoughts#love_my.yay.txt
-tonyyayo#thoughts#pimpin.yay.txt
-tonyyayo#thoughts#projectp.yay.txt
-tonyyayo#thoughts#soseduct.yay.txt
-tonyyayo#thoughts#tattle.yay.txt
-tonyyayo#thoughts#we_dont.yay.txt
-tooshort#albumten#baby_d.tss.txt
-tooshort#albumten#bad_ways.tss.txt
-tooshort#albumten#buyusome.tss.txt
-tooshort#albumten#confess.tss.txt
-tooshort#albumten#fuck_car.tss.txt
-tooshort#albumten#my_bitch.tss.txt
-tooshort#albumten#n_rhymes.tss.txt
-tooshort#albumten#pimp_me.tss.txt
-tooshort#albumten#sowatcha.tss.txt
-tooshort#albumten#survivin.tss.txt
-tooshort#albumten#thatswhy.tss.txt
-tooshort#blow_the#16_hoes.tss.txt
-tooshort#blow_the#baller.tss.txt
-tooshort#blow_the#burnrub2.tss.txt
-tooshort#blow_the#call_her.tss.txt
-tooshort#blow_the#kbouncin.tss.txt
-tooshort#blow_the#moneymkr.tss.txt
-tooshort#blow_the#nothing.tss.txt
-tooshort#blow_the#pforever.tss.txt
-tooshort#blow_the#playa.tss.txt
-tooshort#blow_the#sadity.tss.txt
-tooshort#blow_the#shake_it.tss.txt
-tooshort#blow_the#sophisti.tss.txt
-tooshort#blow_the#stripdwn.tss.txt
-tooshort#blow_the#timetogo.tss.txt
-tooshort#blow_the#wantgirl.tss.txt
-tooshort#born_to#dpefiend.tss.txt
-tooshort#born_to#freaky.tss.txt
-tooshort#born_to#littlgrl.tss.txt
-tooshort#born_to#mack_atk.tss.txt
-tooshort#cantstay#aint_no.tss.txt
-tooshort#cantstay#cantstay.tss.txt
-tooshort#cantstay#g_2000.tss.txt
-tooshort#cantstay#goodlife.tss.txt
-tooshort#cantstay#groupies.tss.txt
-tooshort#cantstay#how_does.tss.txt
-tooshort#cantstay#long.tss.txt
-tooshort#cantstay#mofreaky.tss.txt
-tooshort#cantstay#nation_r.tss.txt
-tooshort#cantstay#stay_out.tss.txt
-tooshort#cantstay#youmight.tss.txt
-tooshort#chasecat#analyze.tss.txt
-tooshort#chasecat#candy_p.tss.txt
-tooshort#chasecat#canihit.tss.txt
-tooshort#chasecat#chasecat.tss.txt
-tooshort#chasecat#dntgveup.tss.txt
-tooshort#chasecat#domestic.tss.txt
-tooshort#chasecat#fire.tss.txt
-tooshort#chasecat#keepfuck.tss.txt
-tooshort#chasecat#pfl.tss.txt
-tooshort#chasecat#talkshit.tss.txt
-tooshort#chasecat#this_how.tss.txt
-tooshort#chasecat#u_stank.tss.txt
-tooshort#cocktail#change.tss.txt
-tooshort#cocktail#cocktale.tss.txt
-tooshort#cocktail#dontfuck.tss.txt
-tooshort#cocktail#paystyle.tss.txt
-tooshort#cocktail#pimpin.tss.txt
-tooshort#cocktail#sample.tss.txt
-tooshort#cocktail#short.tss.txt
-tooshort#cocktail#top_down.tss.txt
-tooshort#cocktail#wedothis.tss.txt
-tooshort#get_in#all_good.tss.txt
-tooshort#get_in#blowjob.tss.txt
-tooshort#get_in#get_in.tss.txt
-tooshort#get_in#lovin.tss.txt
-tooshort#get_in#money.tss.txt
-tooshort#get_in#playboy.tss.txt
-tooshort#get_in#theintro.tss.txt
-tooshort#get_in#way2real.tss.txt
-tooshort#get_off#aintover.tss.txt
-tooshort#get_off#brkbitch.tss.txt
-tooshort#get_off#i_likeit.tss.txt
-tooshort#get_off#pullthem.tss.txt
-tooshort#get_off#thestage.tss.txt
-tooshort#life_is#citydope.tss.txt
-tooshort#life_is#life_is.tss.txt
-tooshort#life_is#nobody.tss.txt
-tooshort#life_is#oakland.tss.txt
-tooshort#life_is#pimp_the.tss.txt
-tooshort#life_is#trippin.tss.txt
-tooshort#married#a_pimp.tss.txt
-tooshort#married#b_rubber.tss.txt
-tooshort#married#caligirl.tss.txt
-tooshort#married#choosin.tss.txt
-tooshort#married#dont_act.tss.txt
-tooshort#married#get_it.tss.txt
-tooshort#married#goesdown.tss.txt
-tooshort#married#hey_lets.tss.txt
-tooshort#married#hobo_hoe.tss.txt
-tooshort#married#pimpand.tss.txt
-tooshort#married#s_monkey.tss.txt
-tooshort#married#sh_short.tss.txt
-tooshort#married#the_game.tss.txt
-tooshort#married#what_she.tss.txt
-tooshort#married#you_cant.tss.txt
-tooshort#no_tres#hey.tss.txt
-tooshort#no_tres#magazine.tss.txt
-tooshort#no_tres#playa_fo.tss.txt
-tooshort#no_tres#shut_up.tss.txt
-tooshort#no_tres#tryingto.tss.txt
-tooshort#pimp_inc#backback.tss.txt
-tooshort#pimp_inc#hard_on.tss.txt
-tooshort#pimp_inc#ima_pimp.tss.txt
-tooshort#pimp_inc#impimpin.tss.txt
-tooshort#pimp_inc#iwannado.tss.txt
-tooshort#pimp_inc#iwpy_hoe.tss.txt
-tooshort#players#dealers.tss.txt
-tooshort#players#dontever.tss.txt
-tooshort#players#fromhere.tss.txt
-tooshort#players#players.tss.txt
-tooshort#players#wildwest.tss.txt
-tooshort#respect#getyamon.tss.txt
-tooshort#respect#yallread.tss.txt
-tooshort#rm_bside#paybosko.tss.txt
-tooshort#rm_bside#strong.tss.txt
-tooshort#rm_bside#tell_the.tss.txt
-tooshort#rm_bside#yourlife.tss.txt
-tooshort#shortdog#aint_not.tss.txt
-tooshort#shortdog#dead_or.tss.txt
-tooshort#shortdog#funky.tss.txt
-tooshort#shortdog#hard.tss.txt
-tooshort#shortdog#oaktown.tss.txt
-tooshort#shortdog#paulajan.tss.txt
-tooshort#shortdog#pnkbitch.tss.txt
-tooshort#shortdog#rap_like.tss.txt
-tooshort#shortdog#shortdog.tss.txt
-tooshort#shorty#be_free.tss.txt
-tooshort#shorty#butadog.tss.txt
-tooshort#shorty#dontstop.tss.txt
-tooshort#shorty#gangster.tss.txt
-tooshort#shorty#hoes.tss.txt
-tooshort#shorty#hoochie.tss.txt
-tooshort#shorty#no_love.tss.txt
-tooshort#shorty#shorty.tss.txt
-tooshort#shorty#stepdad.tss.txt
-tooshort#shorty#thetrunk.tss.txt
-tooshort#stillblw#all_love.tss.txt
-tooshort#stillblw#checking.tss.txt
-tooshort#stillblw#fed_up.tss.txt
-tooshort#stillblw#i_player.tss.txt
-tooshort#stillblw#i_want.tss.txt
-tooshort#stillblw#im_gone.tss.txt
-tooshort#stillblw#ima_pimp.tss.txt
-tooshort#stillblw#lilshort.tss.txt
-tooshort#stillblw#maggot_b.tss.txt
-tooshort#stillblw#playcard.tss.txt
-tooshort#stillblw#pornobit.tss.txt
-tooshort#stillblw#stillblw.tss.txt
-tooshort#whats_my#cali_o.tss.txt
-tooshort#whats_my#call_it.tss.txt
-tooshort#whats_my#female.tss.txt
-tooshort#whats_my#get_that.tss.txt
-tooshort#whats_my#lollypop.tss.txt
-tooshort#whats_my#old_fash.tss.txt
-tooshort#whats_my#pimplife.tss.txt
-tooshort#whats_my#quit_pt1.tss.txt
-tooshort#whats_my#set_up.tss.txt
-tooshort#whats_my#sheloves.tss.txt
-tooshort#whats_my#th_right.tss.txt
-tooshort#whats_my#triple_x.tss.txt
-tooshort#younasty#2bitches.tss.txt
-tooshort#younasty#all_time.tss.txt
-tooshort#younasty#anything.tss.txt
-tooshort#younasty#donthate.tss.txt
-tooshort#younasty#likedope.tss.txt
-tooshort#younasty#me_daddy.tss.txt
-tooshort#younasty#my_dirty.tss.txt
-tooshort#younasty#nranthem.tss.txt
-tooshort#younasty#o_school.tss.txt
-tooshort#younasty#pimpshit.tss.txt
-tooshort#younasty#recognze.tss.txt
-tooshort#younasty#where_at.tss.txt
-tooshort#younasty#younasty.tss.txt
-=======
 tlc#tip#babybaby.tlc.txt
 tlc#tip#dasdaway.tlc.txt
 tlc#tip#dependon.tlc.txt
@@ -19636,7 +17331,6 @@ tonyyayo#thoughts#soseduct.yay.txt
 tonyyayo#thoughts#tattle.yay.txt
 tonyyayo#thoughts#we_dont.yay.txt
 tooshort#cantstay#g_2000.tss.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 TQ#second#howcani.que.txt
 TQ#they_nev#comeback.que.txt
 TQ#they_nev#makethat.que.txt
@@ -19898,74 +17592,6 @@ u_god#dopium#magnum.ugd.txt
 u_god#dopium#traintru.ugd.txt
 u_god#dopium#wu-tang.ugd.txt
 u_god#golden#rumble.ugd.txt
-<<<<<<< HEAD
-ugk#banned#intro.ugk.txt
-ugk#drtmoney#aintthat.ugk.txt
-ugk#drtmoney#choppin.ugk.txt
-ugk#drtmoney#dirty.ugk.txt
-ugk#drtmoney#dont_say.ugk.txt
-ugk#drtmoney#gldgrill.ugk.txt
-ugk#drtmoney#holdinna.ugk.txt
-ugk#drtmoney#letmesee.ugk.txt
-ugk#drtmoney#likepimp.ugk.txt
-ugk#drtmoney#lookatme.ugk.txt
-ugk#drtmoney#pa_nigga.ugk.txt
-ugk#for_life#7th_st.ugk.txt
-ugk#for_life#da_game.ugk.txt
-ugk#for_life#evwnball.ugk.txt
-ugk#for_life#feelin_u.ugk.txt
-ugk#for_life#hard_as.ugk.txt
-ugk#for_life#pimp_bun.ugk.txt
-ugk#for_life#pursecom.ugk.txt
-ugk#for_life#sheluvit.ugk.txt
-ugk#for_life#steal_yo.ugk.txt
-ugk#for_life#still_on.ugk.txt
-ugk#for_life#swishas.ugk.txt
-ugk#for_life#texasave.ugk.txt
-ugk#for_life#usedtobe.ugk.txt
-ugk#ridin#dirty.ugk.txt
-ugk#ridin#fuck_car.ugk.txt
-ugk#ridin#gd_stuff.ugk.txt
-ugk#ridin#one_day.ugk.txt
-ugk#ridin#pinkyrng.ugk.txt
-ugk#ridin#touched.ugk.txt
-ugk#rm_bside#bad_hell.ugk.txt
-ugk#rm_bside#take_off.ugk.txt
-ugk#southern#cocaine.ugk.txt
-ugk#southern#somegood.ugk.txt
-ugk#southern#usemeup.ugk.txt
-ugk#sprtight#3sixteen.ugk.txt
-ugk#sprtight#frontbck.ugk.txt
-ugk#sprtight#left_wet.ugk.txt
-ugk#sprtight#return.ugk.txt
-ugk#sprtight#stoned_j.ugk.txt
-ugk#sprtight#tobubble.ugk.txt
-ugk#sprtight#undergro.ugk.txt
-ugk#too_hard#usemeup.ugk.txt
-ugk#ug_kingz#candy.ugk.txt
-ugk#ug_kingz#chromepw.ugk.txt
-ugk#ug_kingz#cocaine.ugk.txt
-ugk#ug_kingz#gravy.ugk.txt
-ugk#ug_kingz#grindhrd.ugk.txt
-ugk#ug_kingz#heaven.ugk.txt
-ugk#ug_kingz#how_long.ugk.txt
-ugk#ug_kingz#life2009.ugk.txt
-ugk#ug_kingz#like_rmx.ugk.txt
-ugk#ug_kingz#likethat.ugk.txt
-ugk#ug_kingz#next_up.ugk.txt
-ugk#ug_kingz#quit_htn.ugk.txt
-ugk#ug_kingz#real_wmn.ugk.txt
-ugk#ug_kingz#shdreams.ugk.txt
-ugk#ug_kingz#still_rd.ugk.txt
-ugk#ug_kingz#stopngo.ugk.txt
-ugk#ug_kingz#take_tha.ugk.txt
-ugk#ug_kingz#tellmehw.ugk.txt
-ugk#ug_kingz#the_game.ugk.txt
-ugk#ug_kingz#thislife.ugk.txt
-ugk#ug_kingz#two_type.ugk.txt
-ugk#ug_kingz#undergrd.ugk.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 uglyduck#leftover#somethin.ugl.txt
 ultra#big_time#superluv.ult.txt
 ultramag#basement#brainiac.mag.txt
@@ -20018,86 +17644,9 @@ ultramag#the_best#war.mag.txt
 unk#rm_bside#2steprmx.unk.txt
 unk#rm_bside#walk_rmx.unk.txt
 urbanmys#love_int#waiting.urb.txt
-<<<<<<< HEAD
-usher#versus#getinmy.ush.txt
-usher#versus#hot_tot.ush.txt
 vakill#darkest#fallen.vak.txt
 wakafloc#triple_f#candyand.wak.txt
 wakafloc#triple_f#round_of.wak.txt
-wale#ambition#ambition.wle.txt
-wale#ambition#badgirls.wle.txt
-wale#att_def#90210.wle.txt
-wale#att_def#b_bliss.wle.txt
-wale#att_def#chillin.wle.txt
-wale#att_def#contempl.wle.txt
-wale#att_def#diary.wle.txt
-wale#att_def#letloose.wle.txt
-wale#att_def#mamatold.wle.txt
-wale#att_def#mirrors.wle.txt
-wale#att_def#p_girls.wle.txt
-wale#att_def#pr_girls.wle.txt
-wale#att_def#prescrip.wle.txt
-wale#att_def#shades.wle.txt
-wale#att_def#triumph.wle.txt
-wale#att_def#tv_radio.wle.txt
-wale#att_def#wor_tour.wle.txt
-wale#back_to#tito_san.wle.txt
-wale#eleven_1#bait.wle.txt
-wale#eleven_1#chain_mu.wle.txt
-wale#eleven_1#that.wle.txt
-wale#folarin#bad.wle.txt
-wale#gifted#88.wle.txt
-wale#gifted#b_heroes.wle.txt
-wale#gifted#badremix.wle.txt
-wale#gifted#bricks.wle.txt
-wale#gifted#clappers.wle.txt
-wale#gifted#curse_of.wle.txt
-wale#gifted#golden.wle.txt
-wale#gifted#gullible.wle.txt
-wale#gifted#heavens.wle.txt
-wale#gifted#lovehate.wle.txt
-wale#gifted#outabout.wle.txt
-wale#gifted#rotation.wle.txt
-wale#gifted#simplemn.wle.txt
-wale#gifted#sunshine.wle.txt
-wale#gifted#tired_of.wle.txt
-wale#gifted#vanity.wle.txt
-wale#mixtape#opening.wle.txt
-wale#mreabout#amb_girl.wle.txt
-wale#mreabout#blackgld.wle.txt
-wale#mreabout#breeze.wle.txt
-wale#mreabout#eyes_of.wle.txt
-wale#mreabout#friends.wle.txt
-wale#mreabout#MC.wle.txt
-wale#mreabout#numberwn.wle.txt
-wale#mreabout#power.wle.txt
-wale#mreabout#problem.wle.txt
-wale#mreabout#the_soup.wle.txt
-wale#mreabout#tripdown.wle.txt
-wale#mreabout#war.wle.txt
-wale#rm_bside#f_affair.wle.txt
-wale#rm_bside#i_think.wle.txt
-wale#rm_bside#ice_rain.wle.txt
-wale#rm_bside#letter.wle.txt
-wale#rm_bside#m_appeal.wle.txt
-wale#rm_bside#uptown_r.wle.txt
-warren_g#gfunkera#regulate.wrg.txt
-warren_g#return#herecome.wrg.txt
-warren_g#return#yo_sassy.wrg.txt
-warren_g#takelook#anniemae.wrg.txt
-warren_g#want_it#a_chance.wrg.txt
-warren_g#want_it#dollars.wrg.txt
-warren_g#want_it#gamedont.wrg.txt
-warren_g#want_it#gangsta.wrg.txt
-warren_g#want_it#got_that.wrg.txt
-warren_g#want_it#things.wrg.txt
-warren_g#want_it#whyohwhy.wrg.txt
-warren_g#want_it#younever.wrg.txt
-=======
-vakill#darkest#fallen.vak.txt
-wakafloc#triple_f#candyand.wak.txt
-wakafloc#triple_f#round_of.wak.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 wc_maad#aintdamn#dontwork.wcm.txt
 wc_maad#curbserv#west_up.wcm.txt
 webbie#savagel2#doe_doe.web.txt
@@ -20301,97 +17850,6 @@ wiz_khal#t_allder#my_fave.wiz.txt
 wiz_khal#t_allder#nameless.wiz.txt
 wiz_khal#t_allder#nevpart2.wiz.txt
 wreckin#knockout#surgery.wrc.txt
-<<<<<<< HEAD
-wu_tang#chamber#fatalhes.wtg.txt
-wu_tang#chamber#redempt.wtg.txt
-wu_tang#diagrams#campfire.wtg.txt
-wu_tang#diagrams#get_them.wtg.txt
-wu_tang#diagrams#gun_will.wtg.txt
-wu_tang#diagrams#lchanges.wtg.txt
-wu_tang#diagrams#rushing.wtg.txt
-wu_tang#diagrams#starter.wtg.txt
-wu_tang#diagrams#stick_me.wtg.txt
-wu_tang#diagrams#sunlight.wtg.txt
-wu_tang#diagrams#takeback.wtg.txt
-wu_tang#diagrams#tar_pit.wtg.txt
-wu_tang#diagrams#theheart.wtg.txt
-wu_tang#diagrams#unpred.wtg.txt
-wu_tang#diagrams#weakspot.wtg.txt
-wu_tang#diagrams#windmill.wtg.txt
-wu_tang#diagrams#wolves.wtg.txt
-wu_tang#enter_wu#7th_cha.wtg.txt
-wu_tang#enter_wu#canitbe.wtg.txt
-wu_tang#enter_wu#clanaint.wtg.txt
-wu_tang#enter_wu#claninda.wtg.txt
-wu_tang#enter_wu#cream.wtg.txt
-wu_tang#enter_wu#method.wtg.txt
-wu_tang#enter_wu#mystery.wtg.txt
-wu_tang#enter_wu#protect.wtg.txt
-wu_tang#enter_wu#ruckus.wtg.txt
-wu_tang#enter_wu#shame_on.wtg.txt
-wu_tang#enter_wu#tearz.wtg.txt
-wu_tang#forever#ashighas.wtg.txt
-wu_tang#forever#bellswar.wtg.txt
-wu_tang#forever#closing.wtg.txt
-wu_tang#forever#coming.wtg.txt
-wu_tang#forever#csrhours.wtg.txt
-wu_tang#forever#deadly.wtg.txt
-wu_tang#forever#ghetto.wtg.txt
-wu_tang#forever#heaterz.wtg.txt
-wu_tang#forever#heavens.wtg.txt
-wu_tang#forever#imposs.wtg.txt
-wu_tang#forever#intro.wtg.txt
-wu_tang#forever#itsyourz.wtg.txt
-wu_tang#forever#maria.wtg.txt
-wu_tang#forever#oldergod.wtg.txt
-wu_tang#forever#projects.wtg.txt
-wu_tang#forever#reunited.wtg.txt
-wu_tang#forever#seazon.wtg.txt
-wu_tang#forever#severe.wtg.txt
-wu_tang#forever#shampoo.wtg.txt
-wu_tang#forever#staff.wtg.txt
-wu_tang#forever#the_city.wtg.txt
-wu_tang#forever#the_mgm.wtg.txt
-wu_tang#forever#tomorrow.wtg.txt
-wu_tang#forever#triumph.wtg.txt
-wu_tang#forever#visionz.wtg.txt
-wu_tang#forever#wu_rev.wtg.txt
-wu_tang#ironflag#babies.wtg.txt
-wu_tang#ironflag#backgame.wtg.txt
-wu_tang#ironflag#chrome.wtg.txt
-wu_tang#ironflag#dashing.wtg.txt
-wu_tang#ironflag#ironflag.wtg.txt
-wu_tang#ironflag#one_of.wtg.txt
-wu_tang#ironflag#radioact.wtg.txt
-wu_tang#ironflag#rules.wtg.txt
-wu_tang#ironflag#s_power.wtg.txt
-wu_tang#ironflag#the_hood.wtg.txt
-wu_tang#ironflag#theglock.wtg.txt
-wu_tang#ironflag#uzi.wtg.txt
-wu_tang#ironflag#yallbeen.wtg.txt
-wu_tang#rm_bside#america.wtg.txt
-wu_tang#rm_bside#diesel.wtg.txt
-wu_tang#rm_bside#meth_hme.wtg.txt
-wu_tang#rm_bside#shadow.wtg.txt
-wu_tang#rm_bside#shame_rm.wtg.txt
-wu_tang#rm_bside#windpipe.wtg.txt
-wu_tang#the_w#careful.wtg.txt
-wu_tang#the_w#chamber.wtg.txt
-wu_tang#the_w#clap.wtg.txt
-wu_tang#the_w#conditi.wtg.txt
-wu_tang#the_w#gravel.wtg.txt
-wu_tang#the_w#hollow.wtg.txt
-wu_tang#the_w#jahworld.wtg.txt
-wu_tang#the_w#jump_off.wtg.txt
-wu_tang#the_w#let_my.wtg.txt
-wu_tang#the_w#monument.wtg.txt
-wu_tang#the_w#oneblood.wtg.txt
-wu_tang#the_w#really.wtg.txt
-wu_tang#the_w#redbull.wtg.txt
-wu_tang#the_w#to_sleep.wtg.txt
-wu_tang#weapons#drunkton.wtg.txt
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 wyclef#carnival#allgirls.fge.txt
 wyclef#carnival#bubble.fge.txt
 wyclef#carnival#carnival.fge.txt
@@ -20595,13 +18053,8 @@ yngjeezy#lets_get#overhere.jzy.txt
 yngjeezy#lets_get#trap_die.jzy.txt
 yngjeezy#recess#my_pres.jzy.txt
 yngjeezy#recess#put_on.jzy.txt
-<<<<<<< HEAD
-yngjeezy#recess#putonrmx.jzy.txt
-yngjeezy#rm_bside#trapdie2.jzy.txt
-=======
 yngjeezy#rm_bside#trapdie2.jzy.txt
 yngjeezy#recess#putonrmx.jzy.txt
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 yo_gotti#rm_bside#gangsta.yog.txt
 yo_gotti#rm_bside#miami.yog.txt
 youngbck#cashvill#b_gloves.bck.txt
