@@ -6,10 +6,7 @@ import os
 import re
 import subprocess
 import codecs
-<<<<<<< HEAD
 import csv
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 import json
 from datetime import date
 
@@ -24,10 +21,7 @@ from utils import *
 MALLET_OUT_DIR = 'lda'
 TEXTS_FILE = os.path.join(MALLET_OUT_DIR, 'texts.txt')
 DMAP_FILE = os.path.join(MALLET_OUT_DIR, 'dmap.txt')
-<<<<<<< HEAD
 METADATA_CSV = os.path.join(MALLET_OUT_DIR, 'metadata.csv')
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 INSTANCES_FILE = os.path.join(MALLET_OUT_DIR, 'instances.mallet')
 PROGRESS_FILE = os.path.join(MALLET_OUT_DIR, 'progress.txt')
 METADATA_FILE = os.path.join(MALLET_OUT_DIR, 'metadata.json')
@@ -40,7 +34,6 @@ if not os.path.exists(MALLET_OUT_DIR):
     os.makedirs(MALLET_OUT_DIR)
 
 metadata = {}
-<<<<<<< HEAD
 with file(METADATA_CSV, 'wb') as csv_file:
     writer = UnicodeCsvWriter(csv_file)
     writer.writerow(["doc", "year", "lon", "lat", "place", "artist", "typist"])
@@ -58,18 +51,6 @@ with file(METADATA_CSV, 'wb') as csv_file:
                 artist = song.artist.name
                 writer.writerow([unicode(x) for x in [i, song_metadata['date'][0:4], place.longitude, place.latitude, place.name, artist, typist]])
                 metadata[song.filename] = song_metadata
-=======
-with codecs.open(TEXTS_FILE, 'w', encoding='utf-8') as texts_file:
-    with codecs.open(DMAP_FILE, 'w', encoding='utf-8') as dmap:
-        for song in \
-            Song.objects.exclude(artist__place=None).exclude(album__date=None):
-            text = clean_text(song.content)
-
-            texts_file.write(u'\t'.join([song.filename, 'ohhla', text]) + u'\n')
-            dmap.write(song.filename + u'\n')
-            song_metadata = {'itemID': song.id, 'title': unicode(song), 'date': song.album.date.isoformat()}
-            metadata[song.filename] = song_metadata
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 
 with file(METADATA_FILE, 'w') as f:
     json.dump(metadata, f)
@@ -94,11 +75,7 @@ import_return = subprocess.call(import_args)
 
 mallet_opts = {
     'input': INSTANCES_FILE,
-<<<<<<< HEAD
     'num-topics': TOPICS,
-=======
-    'num-topics': 50,
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
     'num-iterations': 1000,
     'optimize-interval': 10,
     'optimize-burn-in': 200,

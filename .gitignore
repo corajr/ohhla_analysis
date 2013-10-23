@@ -4,10 +4,7 @@ echonest_api_key.py
 OHHLA-for-echonest.txt.gz
 backup.db
 spotifycache.db
-<<<<<<< HEAD
 sqlite.db
 vocab
-=======
->>>>>>> 6e82b0c9e29ac53f971598f0f0c0ed125b640792
 dtm_release
 lda_compare

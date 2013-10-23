@@ -72,8 +72,7 @@ plotKde2d <- function(in_df){
 	)
 }
 
-density_map <- function (name) {
-    datapts <- read.csv(paste(name, ".csv", sep=''))
+density_map <- function (name, datapts) {
     test <- data.frame(x=rep(datapts[,1],datapts[,3]),y=rep(datapts[,2],datapts[,3]))
     pts <- as.ppp(test, W=usowin)
     pts <-as.data.frame(pts)
@@ -90,7 +89,7 @@ density_map <- function (name) {
     minZ <- (sapply(dens,min)[c('z')])
     maxZ <- (sapply(dens,max)[c('z')])
 
-    fillCols <- rev(brewer.pal(11,'Spectral'))	
+    fillCols <- rev(brewer.pal(11,'Spectral'))
     all_states<-map_data("state")
     emap <- ggplot()
     
@@ -98,11 +97,17 @@ density_map <- function (name) {
 		scale_fill_gradientn(breaks=c(minZ,maxZ), labels=c("Less Occ. ", "More Occ."), colours=fillCols) + 
 		coord_equal()
     emap <- emap + geom_path( data=all_states, aes(x=long, y=lat,group = group),colour="white")+theme_map()
+    emap <- emap + ggtitle(name)
 
        #emap
        ggsave(paste(name, "_density.pdf", sep=''), height=4, width=5)
-       ggsave(paste(name, "_density.png", sep=''), height=4, width=5)
+       # ggsave(paste(name, "_density.png", sep=''), height=4, width=5)
 
 }
 
-density_map("all_places")
+density_map_csv <- function(name) {
+    datapts <- read.csv(paste(name, ".csv", sep=''))
+    density_map(name, datapts)
+}
+
+# density_map_csv("all_places")
