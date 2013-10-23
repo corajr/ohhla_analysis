@@ -6,7 +6,7 @@ library(ggplot2)
 library(MASS)
 library(rgeos)
 library(grid)
-
+library(gridExtra)
 
 
 usmap <- map('usa', fill=TRUE, col="transparent", plot=FALSE)
@@ -29,7 +29,7 @@ theme_map <- function (base_size = 12, base_family = "") {
             legend.background=element_rect(fill="white", colour=NA),
             legend.key=element_rect(colour="white"),
             legend.key.size=unit(1.2, "lines"),
-            legend.position="bottom",
+            legend.position="right",
             legend.text=element_text(size=rel(0.8)),
             legend.title=element_blank(),#element_text(size=rel(0.8), face="bold", hjust=0),
             panel.background=element_blank(),
@@ -72,7 +72,21 @@ plotKde2d <- function(in_df){
 	)
 }
 
+<<<<<<< HEAD
 density_map <- function (name, datapts) {
+=======
+#Extract Legend 
+g_legend<-function(a.gplot){ 
+  tmp <- ggplot_gtable(ggplot_build(a.gplot)) 
+  leg <- which(sapply(tmp$grobs, function(x) x$name) == "guide-box") 
+  legend <- tmp$grobs[[leg]] 
+  return(legend)} 
+
+
+
+density_map <- function (name) {
+    datapts <- read.csv(paste(name, ".csv", sep=''))
+>>>>>>> f4b4fcb297dfb6bf10c3ba1b4aca875de21c1554
     test <- data.frame(x=rep(datapts[,1],datapts[,3]),y=rep(datapts[,2],datapts[,3]))
     pts <- as.ppp(test, W=usowin)
     pts <-as.data.frame(pts)
@@ -84,7 +98,7 @@ density_map <- function (name, datapts) {
     kde2dRange[3] <- kde2dRange[3] -3.0
     kde2dRange[4] <- kde2dRange[4] +3.0
 
-    dens <- getKde(pts,N=1000,Lims=kde2dRange) 
+    dens <- getKde(pts,N=10,Lims=kde2dRange) 
     
     minZ <- (sapply(dens,min)[c('z')])
     maxZ <- (sapply(dens,max)[c('z')])
@@ -97,17 +111,19 @@ density_map <- function (name, datapts) {
 		scale_fill_gradientn(breaks=c(minZ,maxZ), labels=c("Less Occ. ", "More Occ."), colours=fillCols) + 
 		coord_equal()
     emap <- emap + geom_path( data=all_states, aes(x=long, y=lat,group = group),colour="white")+theme_map()
-    emap <- emap + ggtitle(name)
+       legend <- g_legend(emap) 
 
-       #emap
+       #black magic to make ggplot save bar 
+       #http://stackoverflow.com/questions/18406991/saving-a-graph-with-ggsave-after-using-ggplot-build-and-ggplot-gtable
+       ggsave <- ggplot2::ggsave; body(ggsave) <- body(ggplot2::ggsave)[-2]
+       ####
+
+       #grid.draw(legend) 
+       ggsave("bar.png", arrangeGrob(legend),height=2,width=1.2)
+       emap2 <- emap + theme(legend.position = "none") 
        ggsave(paste(name, "_density.pdf", sep=''), height=4, width=5)
-       # ggsave(paste(name, "_density.png", sep=''), height=4, width=5)
-
-}
-
-density_map_csv <- function(name) {
-    datapts <- read.csv(paste(name, ".csv", sep=''))
-    density_map(name, datapts)
+       #ggsave(paste(name, "_density.png", sep=''), height=4, width=5)
+      
 }
 
 # density_map_csv("all_places")
