@@ -72,9 +72,6 @@ plotKde2d <- function(in_df){
 	)
 }
 
-<<<<<<< HEAD
-density_map <- function (name, datapts) {
-=======
 #Extract Legend 
 g_legend<-function(a.gplot){ 
   tmp <- ggplot_gtable(ggplot_build(a.gplot)) 
@@ -86,7 +83,6 @@ g_legend<-function(a.gplot){
 
 density_map <- function (name) {
     datapts <- read.csv(paste(name, ".csv", sep=''))
->>>>>>> f4b4fcb297dfb6bf10c3ba1b4aca875de21c1554
     test <- data.frame(x=rep(datapts[,1],datapts[,3]),y=rep(datapts[,2],datapts[,3]))
     pts <- as.ppp(test, W=usowin)
     pts <-as.data.frame(pts)
@@ -103,7 +99,7 @@ density_map <- function (name) {
     minZ <- (sapply(dens,min)[c('z')])
     maxZ <- (sapply(dens,max)[c('z')])
 
-    fillCols <- rev(brewer.pal(11,'Spectral'))
+    fillCols <- rev(brewer.pal(11,'Spectral'))	
     all_states<-map_data("state")
     emap <- ggplot()
     
@@ -111,6 +107,7 @@ density_map <- function (name) {
 		scale_fill_gradientn(breaks=c(minZ,maxZ), labels=c("Less Occ. ", "More Occ."), colours=fillCols) + 
 		coord_equal()
     emap <- emap + geom_path( data=all_states, aes(x=long, y=lat,group = group),colour="white")+theme_map()
+    
        legend <- g_legend(emap) 
 
        #black magic to make ggplot save bar 
@@ -126,4 +123,4 @@ density_map <- function (name) {
       
 }
 
-# density_map_csv("all_places")
+density_map("all_places")
