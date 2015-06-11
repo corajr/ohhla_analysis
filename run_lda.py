@@ -9,6 +9,7 @@ import codecs
 import csv
 import json
 from datetime import date
+import os.path
 
 from django.core.management import setup_environ
 from raplyrics import settings
@@ -28,7 +29,8 @@ METADATA_FILE = os.path.join(MALLET_OUT_DIR, 'metadata.json')
 
 metadata = {}
 TOPICS = 50
-MALLET = ['/Users/chrisjr/Applications/mallet-2.0.7/bin/mallet', 'run']
+home = os.path.expanduser("~")
+MALLET = [os.path.join(home, '/mallet-2.0.7/bin/mallet'), 'run']
 
 if not os.path.exists(MALLET_OUT_DIR):
     os.makedirs(MALLET_OUT_DIR)
