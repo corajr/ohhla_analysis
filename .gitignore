@@ -1,5 +1,6 @@
 .DS_Store
 *.pyc
+ohhla.tbz2
 echonest_api_key.py
 OHHLA-for-echonest.txt.gz
 backup.db
