@@ -10,6 +10,7 @@ import xml.etree.ElementTree as et
 import logging
 import traceback
 import base64
+import math
 from itertools import izip
 
 from django.core.management import setup_environ
@@ -71,6 +72,10 @@ coherence = {}
 wordProbs = {}
 phrases = {}
 allocationRatios = {}
+
+with file("imis.txt") as f:
+    imis = json.load(f)
+
 with codecs.open(os.path.join(MALLET_OUT_DIR, 'dmap.txt'), 'r', encoding='utf-8') as dmap:
     docs = [x.strip() for x in dmap.readlines()]
 
@@ -84,9 +89,15 @@ with codecs.open(mallet_opts['diagnostics-file'], 'r',
             allocationRatios[topic] = float(
                                         elem.get("allocation_ratio"))
             wordProbs[topic] = []
-            for word in elem.getiterator("word"):
-                wordProbs[topic].append({'text': word.text, 
-                                         'prob': word.get("prob")})
+            wordInfo = imis[int(topic)]
+            for word in wordInfo['words']:
+                wordProbs[topic].append({'text': word, 
+                                         'prob': wordInfo['prob'].get(word),
+                                         'imi': wordInfo['imi'].get(word)})
+            # for word in elem.getiterator("word"):
+            #     wordProbs[topic].append({'text': word.text, 
+            #                              'prob': word.get("prob"),
+            #                              'imi': imis[int(topic)]['imi'].get(word.text, 0.0)})
     except:
         logging.error("The diagnostics file could not be parsed!")
         logging.error("The error is reproduced below.")
@@ -105,8 +116,8 @@ with file(mallet_opts['xml-topic-phrase-report'], 'rb') as phrase_file:
         logging.error(traceback.format_exc())
 
 labels = {x[0]: {"words": wordProbs[x[0]],
-                 "allocation_ratio": allocationRatios[x[0]],
-                 "phrases": phrases[x[0]]
+                 # "allocation_ratio": allocationRatios[x[0]],
+                 # "phrases": phrases[x[0]]
                 } 
           for x in [y.split() for y in 
                     codecs.open(mallet_opts['output-topic-keys'],
@@ -140,35 +151,53 @@ for line in codecs.open(mallet_opts['output-doc-topics'], 'r',
         logging.error(traceback.format_exc())
 
 for filename in docs:
+    metadata[filename]['url'] = filename.replace('#','/')
     metadata[filename]['date'] = format_date(metadata[filename]['date'])
 
-top_words = defaultdict(Counter)
-doc_words_topics = defaultdict(lambda: defaultdict(Counter))
-with gzip.open(mallet_opts['output-state'], 'rb') as f:
-    for line in f:
-        if line.startswith('#'):
-            continue
-        parts = line.split(' ')
-        docid = parts[0]
-        word = parts[4]
-        topic = int(parts[5])
-        filename = docs[int(docid)]
-        top_words[filename][word] += 1
-        doc_words_topics[filename][word][topic] += 1
-
-for filename, word_counts in top_words.iteritems():
-    my_top_words = []
-    for k, v in word_counts.most_common(50):
-        my_top_words.append({'text': k, 'topic': doc_words_topics[filename][k].most_common(1)[0][0], 'prob': v})
-    metadata[filename]["topWords"] = my_top_words
+include_words = False
 
 params = {"TOPIC_LABELS": labels,
-          "TOPIC_COHERENCE": coherence,
+          # "TOPIC_COHERENCE": coherence,
           'DOC_METADATA': dict((v['itemID'], v)
                            for (k, v) in metadata.iteritems())
 }
 
-with file("viz/topics/js/ohhla_lda.js", 'w') as f:
+with file("viz_json/ohhla_lda.js", 'w') as f:
     f.write('var data=')
     f.write(json.dumps(params))
     f.write(';')
+
+if include_words:
+    if not os.path.exists("viz_json/topwords/"):
+        os.makedirs("viz_json/topwords/")
+    top_words = defaultdict(Counter)
+    df = defaultdict(set)
+    doc_words_topics = defaultdict(lambda: defaultdict(Counter))
+    with gzip.open(mallet_opts['output-state'], 'rb') as f:
+        for line in f:
+            if line.startswith('#'):
+                continue
+            parts = line.split(' ')
+            docid = parts[0]
+            word = parts[4]
+            topic = int(parts[5])
+            filename = docs[int(docid)]
+            top_words[filename][word] += 1
+            df[word].add(filename)
+            doc_words_topics[filename][word][topic] += 1
+
+    D = len(docs)
+    for filename, word_counts in top_words.iteritems():
+        total = sum(word_counts.values())
+        for key in word_counts:
+            word_counts[key] /= float(total)
+
+        my_top_words = []
+        for k, v in word_counts.most_common(50):
+            idf = math.log10(D/float(len(df[k])))
+            my_top_words.append({'text': k, 'topic': doc_words_topics[filename][k].most_common(1)[0][0], 'prob': v, 'idf': idf})
+        itemid = metadata[filename]["itemID"]
+        with file("viz_json/topwords/" + str(itemid) + ".js", 'w') as f:
+            json.dump(my_top_words, f)
+        # metadata[filename]["topWords"] = my_top_words
+

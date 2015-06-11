@@ -140,6 +140,7 @@ topic.plot <- function (name, topic.obj) {
     this.plot <- ggplot(df, aes(x=imi, y=1:length(prob), label=words)) +
         geom_point(aes(size=log(prob)), show_guide=FALSE) + scale_area(range=c(1,3)) +
         geom_text(size=4, hjust=-0.3) +
+        theme_bw() +
         # ggtitle() +
         xlab("IMI(w,D|k)") +
         ylab("Rank") +

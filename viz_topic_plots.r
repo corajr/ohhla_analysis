@@ -18,7 +18,8 @@ do.plots <- function(model.type, state.file, metadata.file) {
     }    
 }
 # do.plots("lda", "lda/topic.state.gz", "lda/metadata_all.csv")
-do.plots("dmr", "dmr/dmr.state.gz", "dmr/metadata.csv")
+# do.plots("dmr", "dmr/dmr.state.gz", "dmr/metadata.csv")
+do.plots("lda", "/Users/chrisjr/Desktop/lda/topic-state.gz", "/Users/chrisjr/Desktop/lda/metadata_all.csv")
 
 # replicas <- replicate.states(tabulatedState)
 # deviations <- deviation.from.replicas(tabulatedState, "year")

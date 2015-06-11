@@ -54,13 +54,27 @@ class UnicodeCsvWriter(object):
         # empty queue
         self.queue.truncate(0)
 
-def clean_text(text):
-    text = re.sub(r"\[[^]]+?\]", u'', text.lower(), flags=re.UNICODE)
-    text = re.sub(r"'", u'', text, flags=re.UNICODE)
-    text = re.sub(r"[^\w_]+", u' ', text, flags=re.UNICODE)
-    words = text.split(u' ')
-    text = u' '.join([x for x in words if x not in stopwords and len(x) > 3])
+def clean_text_inner(text):
+    text = text.lower()
+    substitutions = [(r"\[[^]]+?\]", u''),
+        (r"ing ", u'in '),
+        (r"in' ", u'in '),
+        (r"'", u''),
+        (r"[^\w_]+", u' '),
+        (r'(.)\1{2,}', r'\1') # letters repeating more than twice are collapsed into one
+    ]
+    for pattern, replacement in substitutions:
+        text = re.sub(pattern, replacement, text, flags=re.UNICODE)
     return text
+
+def get_cleaned_words(text):
+    words = clean_text_inner(text).split(u' ')
+    return [x for x in words if x not in stopwords and len(x) > 3]
+
+def clean_text(text):
+    words = get_cleaned_words(text)
+    return u' '.join(words)
+
 
 def argmax(obj):
     if hasattr(obj, 'index'):

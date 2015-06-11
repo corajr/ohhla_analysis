@@ -22,6 +22,7 @@ deviation.df <- stack(deviations)
 deviance.plot <- ggplot(deviation.df, aes(x=reorder(ind, values, FUN=median), y=values)) + geom_boxplot() +
     ylab("Deviance") +
     xlab("Grouping") +
+    theme_bw() +
     coord_flip()
 
 ggsave("deviations.pdf", deviance.plot, width=4, height=3)

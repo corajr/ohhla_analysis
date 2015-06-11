@@ -15,7 +15,7 @@ VOCAB_FILE = 'vocab'
 if not os.path.exists(VOCAB_FILE):
     vocab = Vocab()
     for song in Song.objects.exclude(artist__place=None).exclude(album__date=None):
-        vocab.add_doc(song.filename, clean_text(song.content).split(u' '))
+        vocab.add_doc(song.filename, get_cleaned_words(song.content))
     with file(VOCAB_FILE, 'w') as f:
         pickle.dump(vocab, f)
 else:
@@ -24,7 +24,7 @@ else:
 
 tfidf = vocab.tfidf()
 # removed = vocab.remove_hapax(3)
-removed = vocab.tfidf_filter()
+removed = vocab.tfidf_filter(min_df=5)
 with codecs.open('stopwords.txt', 'w', encoding='utf-8') as f:
     for word in removed:
         f.write(word + u'\n')

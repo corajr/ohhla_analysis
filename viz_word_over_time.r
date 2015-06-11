@@ -1,8 +1,8 @@
 source("load_topics.r")
 
-state <- load.mallet.state("lda/topic-state.gz")
+state <- load.mallet.state("/Users/chrisjr/Desktop/lda/topic-state.gz")
 tabulatedState <- tabulate.state(state)
-tabulatedState <- add.groups.to.state(tabulatedState, "lda/metadata_all.csv")
+tabulatedState <- add.groups.to.state(tabulatedState, "/Users/chrisjr/Desktop/lda/metadata_all.csv")
 
 topic.labels <- get.topic.labels(tabulatedState)
 
@@ -40,13 +40,16 @@ factored.state$year <- factor(factored.state$year)
 ghetto <- word.over.time(factored.state, 40, "ghetto")
 hood <- word.over.time(factored.state, 40, "hood")
 
-df <- data.frame(ghetto, group="ghetto")
-df <- rbind(df, data.frame(hood, group="hood"))
-filename <- paste("plots_over_time/", "ghetto_hood_over_time", ".pdf", sep='')
-this.plot <- ggplot(df, aes(x=year, y=value, group=group)) +
-    geom_line(aes(linetype=group)) +
-    ggtitle("Ghetto vs. Hood") +
+df <- data.frame(ghetto, word="ghetto")
+df <- rbind(df, data.frame(hood, word="hood"))
+filename <- paste("plots_over_time/", "ghetto_hood_terms_over_time", ".pdf", sep='')
+this.plot <- ggplot(df, aes(x=year, y=value, group=word)) +
+    geom_line(aes(linetype=word, colour=word)) +
+    theme_bw() +
+    scale_colour_brewer(palette="Set1") +
     xlab("Year") +
     ylab("Score") +
     ylim(0, 0.0027)
 ggsave(filename, this.plot, width=10, height=2.5)
+
+    # ggtitle("Ghetto vs. Hood") +

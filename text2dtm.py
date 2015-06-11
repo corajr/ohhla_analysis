@@ -25,10 +25,14 @@ import string
 import sys
 import traceback
 
+from collections import defaultdict, Counter
+import itertools
+
 from django.core.management import setup_environ
 from raplyrics import settings
 setup_environ(settings)
 
+from utils import *
 from ohhla.models import *
 
 __doc = \
@@ -50,15 +54,8 @@ def init_parser():
 			)
 
 	#options
-	parser.add_argument('-o', '--output', action='store', dest='outdir', default = settings.LOCAL_PREFIX+'/dtm_release',
+	parser.add_argument('-o', '--output', action='store', dest='outdir', default = 'dtm_release',
 			help='directory to store the resulting files')
-	#TODO minoccurrence should work for the overall occurrence
-	parser.add_argument('--minoccurrence', action='store',
-			dest='minoccurrence', type=int, default=1,
-			help='Minimum occurrences a word needs at least once in one document to be taken into account.')
-	parser.add_argument('--minlength', action='store',
-			dest='minlength', type=int, default=1,
-			help='Minimum length a word needs to be taken into account.')
 	#stopwords
 	parser.add_argument('--stopwords', action='store', dest='stopword_file',
 			help='Remove the stopwords given in the stopword file (one line per stopword).')
@@ -66,15 +63,15 @@ def init_parser():
 	return parser.parse_args()
 
 
-def get_echonest_ids_and_years_dict():
+def get_pks_and_years_dict():
 	'''Returns a list of zotero keys and a dict mapping them to the years they belong in.'''
-	echonest_ids = []
+	pks = []
 	years_dict = {}
 	
-	echonest_id_query = Song.objects.Song.objects.exclude(artist__place = None).exclude(album__date = None).order_by('date')
+	pk_query = Song.objects.exclude(artist__place = None).exclude(album__date = None).order_by('album__date')
 	
-	key_values = list(echonest_id_query.values_list("echonest_id", flat = True))
-	date_values = [d.year for d in echonest_id_query.values_list("date", flat = True)]
+	key_values = list(pk_query.values_list("id", flat = True))
+	date_values = [d.year for d in pk_query.values_list("album__date", flat = True)]
 
 	years_dict = dict(zip(key_values, date_values))
 	
@@ -102,14 +99,14 @@ def load_stopwords(stopword_filename):
 
 	return stopwords
 
-def write_document_map_file(echonest_ids, dmap_fname):
+def write_document_map_file(pks, dmap_fname):
 	"""
 	Save document's names in the order they were processed
 	"""
 	with codecs.open(dmap_fname,'w','utf-8') as d_file:
-		for title in echonest_ids:
+		for title in pks:
 			try:
-				d_file.write(title + '\n')
+				d_file.write(str(title) + '\n')
 			except:
 				traceback.print_exc()
 
@@ -125,54 +122,34 @@ def write_document_seq_file(years, seq_fname):
 			except:
 				traceback.print_exc()
 
-def generate_dat_lines_and_word_ids(echonest_ids, config, years_dict):
+def generate_dat_lines_and_word_ids(pks, config, years_dict):
 	dat_lines = [] #.dat file output
-	word_id_dict = dict()
+	word_id_dict = defaultdict(itertools.count().next) 
 	used_docs = [] #needed to generate .dmap file
 	years_docs = {x : 0 for x in set(years_dict.values())}
 
-	for key in echonest_ids:
-		freq_dict = dict()
-		new_words = set()
+	for i, key in enumerate(pks):
+		freq_dict = None
+
+		if i % 1000 == 0:
+			print i
 		
 		try:
-			doc = Text.objects.get(echonest_id = key).raw_text.split('\n')
-			for line in doc:
-				for word in line.split():
-					word = clean_word(word)
-
-					if len(word) < config['minlength'] or word in config['stopwords']:
-						continue
-
-					#word occurrs for the first time
-					if not word_id_dict.has_key(word):
-						freq_dict[word] = 1
-						word_id_dict[word] = len(word_id_dict)
-						new_words.add(word)
-					#word may be in word_id_dict but not yet in freq_dict
-					else:
-						freq = freq_dict.setdefault(word, 0)
-						freq_dict[word] = freq + 1
+			doc = get_cleaned_words(Song.objects.get(pk = key).content)
+			freq_dict = Counter(doc)
+			for word in freq_dict.keys():
+				next_id = word_id_dict[word]
 		except UnicodeDecodeError as u_error:
 			print('Document "{0}" has encoding errors and is ignored!\n{1}'.format(key, u_error))
 		except:
 			traceback.print_exc()
 
-		if len(freq_dict)==0: #did the document contribute anything?
-			print('Document "{0}" (#{1}) seems to be empty and is ignored!'.format(key,echonest_ids.index(key)))
+		if freq_dict is None or len(freq_dict)==0: #did the document contribute anything?
+			print('Document "{0}" (#{1}) seems to be empty and is ignored!'.format(key,pks.index(key)))
 			continue
 		else:
 			used_docs.append(key)
 			years_docs[years_dict[key]] += 1
-
-		#remove words that do not reach minoccurrence
-		remove_list = [word for word in freq_dict.iterkeys() if\
-			freq_dict[word] < config['minoccurrence']]
-		for word in remove_list:
-			freq_dict.pop(word)
-			#if they are new also remove them from word_id_dict
-			if word in new_words:
-				word_id_dict.pop(word)
 
 		dat_line =	'' #line for the .dat file
 
@@ -188,10 +165,10 @@ def generate_dat_lines_and_word_ids(echonest_ids, config, years_dict):
 	return dat_lines, word_id_dict
 
 
-def generate_dat_and_vocab_files(echonest_ids, config, years_dict):
+def generate_dat_and_vocab_files(pks, config, years_dict):
 
 	with codecs.open(config['datname'], 'w', 'utf-8') as datfile:
-		dat_lines, word_id_dict = generate_dat_lines_and_word_ids(echonest_ids,
+		dat_lines, word_id_dict = generate_dat_lines_and_word_ids(pks,
 				config, years_dict)
 		datfile.writelines(dat_lines)
 
@@ -202,7 +179,7 @@ def generate_dat_and_vocab_files(echonest_ids, config, years_dict):
 			vocabfile.write(item[0]+'\n')
 
 	print('Found {0} unique words in {1} files.'.format(
-		len(word_id_dict), len(echonest_ids)))
+		len(word_id_dict), len(pks)))
 	print('Results can be found in "{0}" and "{1}"'.format(
 		config['datname'], config['vocabname']))
 
@@ -229,17 +206,15 @@ if __name__=='__main__':
 	config['vocabname'] = outdir_name + basename + '.vocab'
 	config['dmapname'] = outdir_name + basename + '.dmap'
 	config['seqname'] = outdir_name + basename + '-seq.dat'
-	config['minlength'] = parser.minlength
-	config['minoccurrence'] = parser.minoccurrence
 	if parser.stopword_file:
 		config['stopwords'] = load_stopwords(parser.stopword_file)
 	else:
 		config['stopwords'] = set()
 
-	echonest_ids, years_dict = get_echonest_ids_and_years_dict()
+	pks, years_dict = get_pks_and_years_dict()
 	
 	try:
-		generate_dat_and_vocab_files(echonest_ids, config, years_dict)
+		generate_dat_and_vocab_files(pks, config, years_dict)
 	except IOError as ioe:
 		print(ioe)
 		sys.exit(1)

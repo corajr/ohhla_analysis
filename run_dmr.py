@@ -27,7 +27,7 @@ METADATA_FILE = 'metadata.json'
 FEATURES_FILE = "features.txt"
 INSTANCES_FILE = "instances.mallet"
 PROGRESS_FILE = "progress.txt"
-TOPICS = 50
+TOPICS = 100
 MALLET = ["/Users/chrisjr/Applications/mallet-2.0.7/bin/mallet", "run"]
 
 date_extremes = Album.objects.aggregate(Min('date'), Max('date'))

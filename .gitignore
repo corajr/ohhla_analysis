@@ -7,4 +7,13 @@ spotifycache.db
 sqlite.db
 vocab
 dtm_release
+lda_anchor
+plots_lda
+plots_dmr
+plots_over_time
 lda_compare
+viz_json
+viz_msgpack
+*.pdf
+*.png
+*.gz
